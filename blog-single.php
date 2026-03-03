@@ -11,6 +11,7 @@
                         <div class="post-single-meta wow fadeInUp">
 							<ol class="breadcrumb">
                                 <li><i class="fa-regular fa-user"></i> Admin</li>
+                                <i class="fa-solid fa-angles-right" style="color: #fff !important;padding: 3px 25px 0px 20px;"></i>
 								<li><i class="fa-regular fa-clock"></i> 29 Nov, 2025</li>
                             </ol>
 						</div>

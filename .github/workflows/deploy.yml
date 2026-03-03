@@ -19,6 +19,13 @@ jobs:
           username: u560553433
           password: 2YE519&5DpL49TI&
           port: 65002
-          protocol: sftp
+          protocol: ftp
+          secure: true
           local-dir: ./
           server-dir: /domains/houseofexhibitions.com/public_html/
+          # Exclude internal GitHub files and Git history from uploading
+          exclude: |
+            **/.git*
+            **/.git*/**
+            **/node_modules/**
+            .github/workflows/**

@@ -5,27 +5,20 @@ on:
       - main
 
 jobs:
-  web-deploy:
-    name: 🚚 Sync Files
+  deploy:
     runs-on: ubuntu-latest
     steps:
       - name: 📂 Checkout Code
         uses: actions/checkout@v4
 
-      - name: 🚀 Sync via SFTP
-        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+      - name: 🚀 Sync Files via SSH
+        uses: easingthemes/ssh-deploy@main
         with:
-          server: 157.173.214.226
-          username: u560553433
-          password: 2YE519&5DpL49TI&
-          port: 65002
-          protocol: ftp
-          secure: true
-          local-dir: ./
-          server-dir: /domains/houseofexhibitions.com/public_html/
-          # Exclude internal GitHub files and Git history from uploading
-          exclude: |
-            **/.git*
-            **/.git*/**
-            **/node_modules/**
-            .github/workflows/**
+          SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
+          REMOTE_HOST: 157.173.214.226
+          REMOTE_USER: u560553433
+          REMOTE_PORT: 65002
+          ARGS: "-rlgoDzvc -e 'ssh -p 65002 -o StrictHostKeyChecking=no' --delete"
+          SOURCE: "/"
+          TARGET: "/domains/houseofexhibitions.com/public_html/"
+          EXCLUDE: "/.git/, /.github/, /node_modules/"

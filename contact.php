@@ -46,7 +46,7 @@
                                         <img src="images/icon-phone-white.svg" alt="">
                                     </div>
                                     <div class="contact-info-content">
-                                        <h3>Call Now!</h3>
+                                        <h3>Call Now</h3>
                                         <p><a href="tel:+971523426256">🇦🇪 +971 52 342 6256</a></p>
                                     </div>
                                 </div>

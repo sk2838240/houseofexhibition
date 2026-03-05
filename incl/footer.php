@@ -9,8 +9,57 @@
                     </div>
             </div>
 
-            <div class="row">             
-                <div class="col-xl-12 col-lg-12 col-md-12">
+            <div class="row">           
+                 <div class="col-xl-3 col-lg-5 col-md-5">
+                <!-- Testimonials Client Box Start -->
+                <div class="testimonial-client-box wow fadeInUp" data-wow-delay="0.2s">
+                    <!-- Testimonials Client Box Header Start -->
+                    <div class="testimonial-client-box-header">
+                        <!-- Satisfy Client Images Start -->
+                        <!-- <div class="satisfy-client-images">
+                            <div class="satisfy-client-image">
+                                <figure class="image-anime">
+                                    <img src="images/author-1.jpg" alt="">
+                                </figure>
+                            </div>
+                            <div class="satisfy-client-image">
+                                <figure class="image-anime">
+                                    <img src="images/author-2.jpg" alt="">
+                                </figure>
+                            </div>
+                            <div class="satisfy-client-image">
+                                <figure class="image-anime">
+                                    <img src="images/author-3.jpg" alt="">
+                                </figure>
+                            </div>
+                            <div class="satisfy-client-image">
+                                <figure class="image-anime">
+                                    <img src="images/author-4.jpg" alt="">
+                                </figure>
+                            </div>
+                        </div> -->
+                        <!-- Satisfy Client Images End -->
+
+                        <div class="testimonial-client-header-content">
+                            <p>Over 15,000+ Attendees Connected Worldwide</p>
+                        </div>
+                    </div>
+                    <!-- Testimonials Client Box Header End -->
+
+                    <!-- Testimonials Client Box Body Start -->
+                    <div class="testimonial-client-box-body">
+                        <div class="testimonial-client-body-content">
+                            <h3>Client Experience Speak For Themselves</h3>
+                        </div>
+                        <!-- <div class="testimonial-client-box-btn">
+                            <a href="testimonials.html" class="btn-default btn-highlighted">View All Reviews</a>
+                        </div> -->
+                    </div>
+                    <!-- Testimonials Client Box Body End -->
+                </div>
+                <!-- Testimonials Client Box End -->
+            </div>  
+                <div class="col-xl-9 col-lg-9 col-md-9">
                     <div class="testimonial-slider wow fadeInUp" data-wow-delay="0.2s">
                         <div class="swiper">
                             <div class="swiper-wrapper" data-cursor-text="Drag">

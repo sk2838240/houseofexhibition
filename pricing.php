@@ -9,7 +9,7 @@
                         <h1 class="text-anime-style-3" data-cursor="-opaque">Pricing plan</h1>
                         <nav class="wow fadeInUp">
                             <ol class="breadcrumb">
-                                <li class="breadcrumb-item"><a href="index.html">home</a></li>
+                                <li class="breadcrumb-item"><a href="index.php">home</a></li>
                                 <i class="fa-solid fa-angles-right" style="color: #fff !important;padding: 3px 25px 0px 20px;"></i>
                                 <li class="breadcrumb-item active" aria-current="page">Pricing Plan</li>
                             </ol>

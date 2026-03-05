@@ -9,7 +9,7 @@
                         <h1 class="text-anime-style-3" data-cursor="-opaque">Page not found</h1>
                         <nav class="wow fadeInUp">
                             <ol class="breadcrumb">
-                                <li class="breadcrumb-item"><a href="index.html">home</a></li>
+                                <li class="breadcrumb-item"><a href="index.php">home</a></li>
                                 <i class="fa-solid fa-angles-right" style="color: #fff !important;padding: 3px 25px 0px 20px;"></i>
                                 <li class="breadcrumb-item active" aria-current="page">404 error page</li>
                             </ol>
@@ -36,7 +36,7 @@
                         </div>
                         <div class="error-page-content-body">
                             <p class="wow fadeInUp" data-wow-delay="0.2s">The page you are looking for does not exist.</p>
-                            <a class="btn-default wow fadeInUp" data-wow-delay="0.4s" href="index.html">Back to Homepage</a>
+                            <a class="btn-default wow fadeInUp" data-wow-delay="0.4s" href="index.php">Back to Homepage</a>
                         </div>
                     </div>
                 </div>

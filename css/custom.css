@@ -362,7 +362,7 @@ a:focus{
 .dark-section{
 	width: 100%;
 	background-color: var(--primary-color);
-	background-image: url('../images/dark-section-bg-shape.png');
+	background-image: url('images/dark-section-bg-shape.png');
 	background-repeat: no-repeat;
 	background-position: top center;
 	background-size: auto;
@@ -1081,7 +1081,7 @@ header.main-header .header-sticky.active{
 /************************************/
 
 .about-us{
-	padding: 100px 0;
+	padding: 70px 0;
 }
 
 .about-us-image-box{
@@ -1092,7 +1092,7 @@ header.main-header .header-sticky.active{
 }
 
 .about-image-circle-box{
-	width: 50%;
+	width: 65%;
 	text-align: right;
 }
 
@@ -1726,14 +1726,14 @@ header.main-header .header-sticky.active{
 .our-benefits-images::before{
 	top: 30px;
 	right: 40px;
-	background-image: url('../images/our-benefits-images-bg-1.png');
+	background-image: url('images/our-benefits-images-bg-1.png');
 	transform: rotate(48deg);
 }
 
 .our-benefits-images::after{
 	left: 100px;
 	bottom: 50px;
-	background-image: url('../images/our-benefits-images-bg-2.png');
+	background-image: url('images/our-benefits-images-bg-2.png');
 }
 
 .our-benefits-img.image-1{
@@ -2723,7 +2723,7 @@ header.main-header .header-sticky.active{
 	left: 0;
 	width: 100%;
 	height: 100%;
-	background-image: url('../images/our-testimonials-bg.png');
+	background-image: url('images/our-testimonials-bg.png');
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: 100% auto;
@@ -2738,7 +2738,7 @@ header.main-header .header-sticky.active{
 .testimonial-client-box{
 	background-color: var(--accent-color);
 	border-radius: 20px;
-	min-height: 420px;
+	min-height: 250px;
 	display: flex;
 	flex-wrap: wrap;
 	flex-direction: column;
@@ -3283,7 +3283,7 @@ header.main-header .header-sticky.active{
 
 .page-header{
 	position: relative;
-	background: url('../images/page-header-bg.jpg') no-repeat;
+	background: url('images/page-header-bg.jpg') no-repeat;
 	background-position: center center;
 	background-size: cover;
 	padding: 180px 0 58px;
@@ -3359,7 +3359,7 @@ header.main-header .header-sticky.active{
 	bottom: 0;
 	width: 100%;
 	height: 100%;
-	background-image: url('../images/our-approach-bg.png');
+	background-image: url('images/our-approach-bg.png');
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
@@ -3492,7 +3492,7 @@ header.main-header .header-sticky.active{
 	bottom: 0;
 	width: 100%;
 	height: 100%;
-	background-image: url('../images/our-achievements-bg.png');
+	background-image: url('images/our-achievements-bg.png');
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: 100% auto;
@@ -3506,8 +3506,8 @@ header.main-header .header-sticky.active{
 .achievements-image figure{
 	position: relative;
 	display: block;
-	mask-image: url('../images/our-achievements-image-shape.svg');
-	background-image: url('../images/our-achievements-image-shape.svg');
+	mask-image: url('images/our-achievements-image-shape.svg');
+	background-image: url('images/our-achievements-image-shape.svg');
 	mask-repeat: no-repeat;
     mask-position: center center;
     mask-size: cover;
@@ -5275,7 +5275,7 @@ header.main-header .header-sticky.active{
     font-weight: 400;
     line-height: 1.6em;
     color: var(--text-color);
-    background-color: var(--bg-color);
+    background-color: #f1f1f1;
     border: none;
     border-radius: 10px;
     padding: 17px 20px;

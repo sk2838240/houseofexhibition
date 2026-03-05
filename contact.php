@@ -55,7 +55,7 @@
                                 <!-- Conatct Info Item Start -->
                                 <div class="contact-info-item">
                                     <div class="icon-box">
-                                        <img src="https://html.awaikenthemes.com/evenza/images/icon-mail-white.svg" alt="">
+                                        <img src="images/icon-mail-white.svg" alt="">
                                     </div>
                                     <div class="contact-info-content">
                                         <h3>E-mail Us!</h3>

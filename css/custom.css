@@ -362,7 +362,7 @@ a:focus{
 .dark-section{
 	width: 100%;
 	background-color: var(--primary-color);
-	background-image: url('https://html.awaikenthemes.com/evenza/images/dark-section-bg-shape.png');
+	background-image: url('images/dark-section-bg-shape.png');
 	background-repeat: no-repeat;
 	background-position: top center;
 	background-size: auto;
@@ -1726,14 +1726,14 @@ header.main-header .header-sticky.active{
 .our-benefits-images::before{
 	top: 30px;
 	right: 40px;
-	background-image: url('https://html.awaikenthemes.com/evenza/images/our-benefits-images-bg-1.png');
+	background-image: url('images/our-benefits-images-bg-1.png');
 	transform: rotate(48deg);
 }
 
 .our-benefits-images::after{
 	left: 100px;
 	bottom: 50px;
-	background-image: url('https://html.awaikenthemes.com/evenza/images/our-benefits-images-bg-2.png');
+	background-image: url('images/our-benefits-images-bg-2.png');
 }
 
 .our-benefits-img.image-1{
@@ -2723,7 +2723,7 @@ header.main-header .header-sticky.active{
 	left: 0;
 	width: 100%;
 	height: 100%;
-	background-image: url('https://html.awaikenthemes.com/evenza/images/our-testimonials-bg.png');
+	background-image: url('images/our-testimonials-bg.png');
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: 100% auto;
@@ -3283,7 +3283,7 @@ header.main-header .header-sticky.active{
 
 .page-header{
 	position: relative;
-	background: url('https://html.awaikenthemes.com/evenza/images/page-header-bg.jpg') no-repeat;
+	background: url('images/page-header-bg.jpg') no-repeat;
 	background-position: center center;
 	background-size: cover;
 	padding: 180px 0 58px;
@@ -3359,7 +3359,7 @@ header.main-header .header-sticky.active{
 	bottom: 0;
 	width: 100%;
 	height: 100%;
-	background-image: url('https://html.awaikenthemes.com/evenza/images/our-approach-bg.png');
+	background-image: url('images/our-approach-bg.png');
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
@@ -3492,7 +3492,7 @@ header.main-header .header-sticky.active{
 	bottom: 0;
 	width: 100%;
 	height: 100%;
-	background-image: url('https://html.awaikenthemes.com/evenza/images/our-achievements-bg.png');
+	background-image: url('images/our-achievements-bg.png');
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: 100% auto;
@@ -3506,8 +3506,8 @@ header.main-header .header-sticky.active{
 .achievements-image figure{
 	position: relative;
 	display: block;
-	mask-image: url('https://html.awaikenthemes.com/evenza/images/our-achievements-image-shape.svg');
-	background-image: url('https://html.awaikenthemes.com/evenza/images/our-achievements-image-shape.svg');
+	mask-image: url('images/our-achievements-image-shape.svg');
+	background-image: url('images/our-achievements-image-shape.svg');
 	mask-repeat: no-repeat;
     mask-position: center center;
     mask-size: cover;

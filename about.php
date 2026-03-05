@@ -225,6 +225,7 @@
             <div class="row">
                 <div class="col-xl-4 col-md-6">
                     <!-- Approach Item Start -->
+                     <a href="contact.php">
                     <div class="approach-item wow fadeInUp">
                         <!-- Approach Item Image Start -->
                         <div class="approach-item-image">
@@ -237,7 +238,7 @@
                         <!-- Approach Item Body Start -->
                         <div class="approach-item-body">
                             <div class="icon-box">
-                                <img src="https://html.awaikenthemes.com/evenza/images/icon-approach-1.svg" alt="">
+                                <img src="images/icon-approach-1.svg" alt="">
                             </div>
                             <div class="approach-item-content">
                                 <h3>Precision Fabrication</h3>
@@ -246,11 +247,13 @@
                         </div>
                         <!-- Approach Item Body End -->
                     </div>
+                    </a>
                     <!-- Approach Item End -->
                 </div>
-
+                
                 <div class="col-xl-4 col-md-6">
                     <!-- Approach Item Start -->
+                     <a href="contact.php">
                     <div class="approach-item wow fadeInUp" data-wow-delay="0.2s">
                         <!-- Approach Item Image Start -->
                         <div class="approach-item-image">
@@ -263,7 +266,7 @@
                         <!-- Approach Item Body Start -->
                         <div class="approach-item-body">
                             <div class="icon-box">
-                                <img src="https://html.awaikenthemes.com/evenza/images/icon-approach-2.svg" alt="">
+                                <img src="images/icon-approach-2.svg" alt="">
                             </div>
                             <div class="approach-item-content">
                                 <h3>Tailored Structural Design</h3>
@@ -272,11 +275,13 @@
                         </div>
                         <!-- Approach Item Body End -->
                     </div>
+                    </a>
                     <!-- Approach Item End -->
                 </div>
-
+                
                 <div class="col-xl-4 col-md-6">
                     <!-- Approach Item Start -->
+                     <a href="contact.php">
                     <div class="approach-item wow fadeInUp" data-wow-delay="0.4s">
                         <!-- Approach Item Image Start -->
                         <div class="approach-item-image">
@@ -289,7 +294,7 @@
                         <!-- Approach Item Body Start -->
                         <div class="approach-item-body">
                             <div class="icon-box">
-                                <img src="https://html.awaikenthemes.com/evenza/images/icon-approach-3.svg" alt="">
+                                <img src="images/icon-approach-3.svg" alt="">
                             </div>
                             <div class="approach-item-content">
                                 <h3>Strategic Onsite Coordination</h3>
@@ -298,6 +303,7 @@
                         </div>
                         <!-- Approach Item Body End -->
                     </div>
+</a>
                     <!-- Approach Item End -->
                 </div>
             </div>
@@ -532,7 +538,7 @@
                             <!-- Skills Image Start -->
                             <div class="skills-image image-1">
                                 <figure class="image-anime reveal">
-                                    <img src="https://html.awaikenthemes.com/evenza/images/our-skill-image-1.jpg" alt="">
+                                    <img src="images/our-skill-image-1.jpg" alt="">
                                 </figure>
                             </div>
                             <!-- Skills Image End -->
@@ -552,7 +558,7 @@
                             <!-- Skills Image Start -->
                             <div class="skills-image image-3">
                                 <figure class="image-anime reveal">
-                                    <img src="https://html.awaikenthemes.com/evenza/images/our-skill-image-3.jpg" alt="">
+                                    <img src="images/our-skill-image-3.jpg" alt="">
                                 </figure>
                             </div>
                             <!-- Skills Image End -->
@@ -560,7 +566,7 @@
                             <!-- Skills Image Start -->
                             <div class="skills-image image-4">
                                 <figure class="image-anime reveal">
-                                    <img src="https://html.awaikenthemes.com/evenza/images/our-skill-image-4.jpg" alt="">
+                                    <img src="images/our-skill-image-4.jpg" alt="">
                                 </figure>
                             </div>
                             <!-- Skills Image End -->

@@ -17,9 +17,10 @@
                                 <li class="nav-item"><a class="nav-link" href="about.php">About Us</a></li>
                                 <li class="nav-item submenu"><a class="nav-link" href="#">Services Exhibition</a>
                                     <ul>
-                                        <li class="nav-item"><a class="nav-link" href="#">Basic Stands</a></li>
-                                        <li class="nav-item"><a class="nav-link" href="#">Premium Stands</a></li>
-                                        <li class="nav-item"><a class="nav-link" href="#">Ultra Premium Stands</a></li>
+                                        <li class="nav-item"><a class="nav-link" href="exhibition-stand-builders.php">Exhibition Stand Builders</a></li>
+                                        <li class="nav-item"><a class="nav-link" href="interior-fit-out-company.php">Interior Fit Out Company</a></li>
+                                        <li class="nav-item"><a class="nav-link" href="audio-visual-rental-services.php">Audio Visual Rental Services</a></li>
+                                        <li class="nav-item"><a class="nav-link" href="stage-production.php">Stage Production</a></li>
                                     </ul>
                                 </li>
                                 <li class="nav-item"><a class="nav-link" href="contact.php">Contact Us</a></li>

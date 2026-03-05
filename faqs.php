@@ -48,7 +48,7 @@
                             <div class="sidebar-cta-body">
                                 <!-- Sidebar CTA Logo Start -->
                                 <div class="sidebar-cta-logo">
-                                    <img src="https://html.awaikenthemes.com/evenza/images/sidebar-cta-logo.svg" alt="">
+                                    <img src="images/sidebar-cta-logo.svg" alt="">
                                 </div>
                                 <!-- Sidebar CTA Logo End -->
 
@@ -75,7 +75,7 @@
                             <!-- Sidebar CTA Image Start -->
                             <div class="sidebar-cta-image">
                                 <figure>
-                                    <img src="https://html.awaikenthemes.com/evenza/images/sidebar-image.jpg" alt="">
+                                    <img src="images/sidebar-image.jpg" alt="">
                                 </figure>
                             </div>
                             <!-- Sidebar CTA Image End -->

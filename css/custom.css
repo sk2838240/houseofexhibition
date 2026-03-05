@@ -287,7 +287,7 @@ a:focus{
     top: 50%;
     right: 0;
 	transform: translate(-2px, -50%);
-	background-image: url('https://html.awaikenthemes.com/evenza/images/arrow-accent.svg');
+	background-image: url('../images/arrow-accent.svg');
 	background-repeat: no-repeat;
 	background-position: right center;
 	background-size: cover;
@@ -362,7 +362,7 @@ a:focus{
 .dark-section{
 	width: 100%;
 	background-color: var(--primary-color);
-	background-image: url('images/dark-section-bg-shape.png');
+	background-image: url('../images/dark-section-bg-shape.png');
 	background-repeat: no-repeat;
 	background-position: top center;
 	background-size: auto;
@@ -742,7 +742,7 @@ header.main-header .header-sticky.active{
 
 .hero{
 	position: relative;
-	background-image: url('https://html.awaikenthemes.com/evenza/images/hero-bg.jpg');
+	background-image: url('../images/hero-bg.jpg');
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
@@ -1374,7 +1374,7 @@ header.main-header .header-sticky.active{
 	left: 0;
 	width: 100%;
 	height: 100%;
-	background: url('https://html.awaikenthemes.com/evenza/images/our-features-bg.png') no-repeat;
+	background: url('../images/our-features-bg.png') no-repeat;
 	background-position: center center;
 	background-size: 100% auto;
 }
@@ -1726,14 +1726,14 @@ header.main-header .header-sticky.active{
 .our-benefits-images::before{
 	top: 30px;
 	right: 40px;
-	background-image: url('images/our-benefits-images-bg-1.png');
+	background-image: url('../images/our-benefits-images-bg-1.png');
 	transform: rotate(48deg);
 }
 
 .our-benefits-images::after{
 	left: 100px;
 	bottom: 50px;
-	background-image: url('images/our-benefits-images-bg-2.png');
+	background-image: url('../images/our-benefits-images-bg-2.png');
 }
 
 .our-benefits-img.image-1{
@@ -1781,7 +1781,7 @@ header.main-header .header-sticky.active{
 	left: 0;
 	width: 100%;
 	height: 100%;
-	background: url('https://html.awaikenthemes.com/evenza/images/our-event-schedule-bg.png') no-repeat;
+	background: url('../images/our-event-schedule-bg.png') no-repeat;
 	background-position: center center;
 	background-size: 100% auto;
 }
@@ -2573,7 +2573,7 @@ header.main-header .header-sticky.active{
 	position: absolute;
 	width: 20px;
     height: 20px;
-	mask: url('https://html.awaikenthemes.com/evenza/images/faqs-cta-box-corner-shape.svg');
+	mask: url('../images/faqs-cta-box-corner-shape.svg');
 	-webkit-mask: url('../images/faqs-cta-box-corner-shape.svg	');
 	background-color: var(--bg-color);
 	mask-repeat: no-repeat;
@@ -2723,7 +2723,7 @@ header.main-header .header-sticky.active{
 	left: 0;
 	width: 100%;
 	height: 100%;
-	background-image: url('images/our-testimonials-bg.png');
+	background-image: url('../images/our-testimonials-bg.png');
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: 100% auto;
@@ -3283,7 +3283,7 @@ header.main-header .header-sticky.active{
 
 .page-header{
 	position: relative;
-	background: url('images/page-header-bg.jpg') no-repeat;
+	background: url('../images/page-header-bg.jpg') no-repeat;
 	background-position: center center;
 	background-size: cover;
 	padding: 180px 0 58px;
@@ -3359,7 +3359,7 @@ header.main-header .header-sticky.active{
 	bottom: 0;
 	width: 100%;
 	height: 100%;
-	background-image: url('images/our-approach-bg.png');
+	background-image: url('../images/our-approach-bg.png');
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
@@ -3492,7 +3492,7 @@ header.main-header .header-sticky.active{
 	bottom: 0;
 	width: 100%;
 	height: 100%;
-	background-image: url('images/our-achievements-bg.png');
+	background-image: url('../images/our-achievements-bg.png');
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: 100% auto;
@@ -3506,8 +3506,8 @@ header.main-header .header-sticky.active{
 .achievements-image figure{
 	position: relative;
 	display: block;
-	mask-image: url('images/our-achievements-image-shape.svg');
-	background-image: url('images/our-achievements-image-shape.svg');
+	mask-image: url('../images/our-achievements-image-shape.svg');
+	background-image: url('../images/our-achievements-image-shape.svg');
 	mask-repeat: no-repeat;
     mask-position: center center;
     mask-size: cover;
@@ -3994,7 +3994,7 @@ header.main-header .header-sticky.active{
     top: 50%;
     right: 0;
     transform: translateY(-50%);
-	background: url('https://html.awaikenthemes.com/evenza/images/arrow-primary.svg') no-repeat;
+	background: url('../images/arrow-primary.svg') no-repeat;
 	background-position: center center;
 	background-size: cover;
     width: 20px;
@@ -4002,7 +4002,7 @@ header.main-header .header-sticky.active{
 }
 
 .sidebar-cta-box{
-	background: var(--primary-color) url('https://html.awaikenthemes.com/evenza/images/sidebar-cta-bg-image.png');
+	background: var(--primary-color) url('../images/sidebar-cta-bg-image.png');
 	background-position: top center;
 	background-size: cover;
     border-radius: 10px;
@@ -4603,7 +4603,7 @@ header.main-header .header-sticky.active{
 }
 
 .post-entry blockquote{
-	background: var(--accent-color) url('https://html.awaikenthemes.com/evenza/images/icon-blockquote.svg');
+	background: var(--accent-color) url('../images/icon-blockquote.svg');
 	background-repeat: no-repeat;
 	background-position: 30px 30px;
     background-size: 45px;
@@ -7159,7 +7159,7 @@ header.main-header.header-metal .header-sticky.active{
 
 .hero-metal{
     position: relative;
-    background-image: url('https://html.awaikenthemes.com/evenza/images/hero-bg-image-metal.jpg');
+    background-image: url('../images/hero-bg-image-metal.jpg');
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -7306,7 +7306,7 @@ header.main-header.header-metal .header-sticky.active{
     top: 50%;
 	transform: translateY(-50%);
     right: -30px;
-    background-image: url('https://html.awaikenthemes.com/evenza/images/hero-countdown-image-metal.svg');
+    background-image: url('../images/hero-countdown-image-metal.svg');
     background-repeat: no-repeat;
     background-position: center;
     width: 6px;
@@ -7366,7 +7366,7 @@ header.main-header.header-metal .header-sticky.active{
     position: relative;
     width: 72%;
     padding-bottom: 130px;
-    background-image: url('https://html.awaikenthemes.com/evenza/images/about-us-image-3-metal.png');
+    background-image: url('../images/about-us-image-3-metal.png');
     background-repeat: no-repeat;
     background-size: 105px auto;
     background-position: bottom 60px left 6.771vw;
@@ -7556,7 +7556,7 @@ header.main-header.header-metal .header-sticky.active{
 
 .our-feature-metal{
 	position: relative;
-	background-image: url('https://html.awaikenthemes.com/evenza/images/service-bg-image-metal.png');
+	background-image: url('../images/service-bg-image-metal.png');
 	background-size: 100% auto;
     padding: 100px 0;
 }
@@ -7590,8 +7590,8 @@ header.main-header.header-metal .header-sticky.active{
     position: absolute;
     right: -1px;
     bottom: -1px;
-    mask: url('https://html.awaikenthemes.com/evenza/images/viewservice-btn-bg-shape-metal.svg');
-    -webkit-mask: url('https://html.awaikenthemes.com/evenza/images/viewservice-btn-bg-shape-metal.svg');
+    mask: url('../images/viewservice-btn-bg-shape-metal.svg');
+    -webkit-mask: url('../images/viewservice-btn-bg-shape-metal.svg');
     background-color: var(--white-color);
     mask-repeat: no-repeat;
     mask-position: right bottom;
@@ -7984,7 +7984,7 @@ header.main-header.header-metal .header-sticky.active{
     left: 0;
     bottom: 0;
     right: 0;
-    background-image: url('https://html.awaikenthemes.com/evenza/images/our-event-bg-image-metal.png');
+    background-image: url('../images/our-event-bg-image-metal.png');
     background-repeat: no-repeat;
     background-position: center center;
     background-size: 100% auto;
@@ -8375,7 +8375,7 @@ header.main-header.header-metal .header-sticky.active{
 
 .intro-video-metal{
     position: relative;
-    background-image: url('https://html.awaikenthemes.com/evenza/images/intro-video-bg-image-metal.jpg');
+    background-image: url('../images/intro-video-bg-image-metal.jpg');
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
@@ -8602,7 +8602,7 @@ header.main-header.header-metal .header-sticky.active{
     left: 0;
     height: 100%;
     width: 100%;
-    background: url('https://html.awaikenthemes.com/evenza/images/faqs-bg-image-metal.png') no-repeat;
+    background: url('../images/faqs-bg-image-metal.png') no-repeat;
     background-position: center center;
     background-size: 100% auto;
 }
@@ -8970,7 +8970,7 @@ header.main-header.header-metal .header-sticky.active{
 	left: 0;
 	height: 100%;
 	width: 100%;
-	background-image: url('https://html.awaikenthemes.com/evenza/images/footer-bg-image-metal.png');
+	background-image: url('../images/footer-bg-image-metal.png');
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: 100% auto;
@@ -10337,7 +10337,7 @@ header.main-header.header-metal .header-sticky.active{
 	position: relative;
 	width: calc(32% - 15px);
 	background-color: var(--accent-color);
-    mask-image: url('https://html.awaikenthemes.com/evenza/images/hero-info-list-gold-bg-mask-gold.svg');
+    mask-image: url('../images/hero-info-list-gold-bg-mask-gold.svg');
 	mask-repeat: repeat-y;
     mask-position: top center;
     mask-size: 100% auto;
@@ -10484,7 +10484,7 @@ header.main-header.header-metal .header-sticky.active{
 	display: flex;
 	flex-wrap: wrap;
 	align-items: end;
-	background-image: url('https://html.awaikenthemes.com/evenza/images/about-us-image-box-bg-gold.png');
+	background-image: url('../images/about-us-image-box-bg-gold.png');
 	background-repeat: no-repeat;
 	background-position: top 55px right 30px;
 	background-size: auto;
@@ -10791,7 +10791,7 @@ header.main-header.header-metal .header-sticky.active{
 	right: 0;
 	bottom: 0;
 	left: 0;
-	background: url('https://html.awaikenthemes.com/evenza/images/service-bg-gold.png') no-repeat;
+	background: url('../images/service-bg-gold.png') no-repeat;
 	background-position: top center;
 	background-size: 100% auto;
 }
@@ -10911,11 +10911,11 @@ header.main-header.header-metal .header-sticky.active{
 }
 
 .feature-item-btn-gold .readmore-btn:before{
-	background-image: url('https://html.awaikenthemes.com/evenza/images/arrow-white.svg');
+	background-image: url('../evenza/images/arrow-white.svg');
 }
 
 .feature-item-btn-gold .readmore-btn:hover:before{
-	background-image: url('https://html.awaikenthemes.com/evenza/images/arrow-accent.svg');
+	background-image: url('../images/arrow-accent.svg');
 }
 
 .key-benefits-gold{
@@ -11117,7 +11117,7 @@ header.main-header.header-metal .header-sticky.active{
     right: 0;
     bottom: 0;
     left: 0;
-    background: url('https://html.awaikenthemes.com/evenza/images/event-bg-image-gold.png') no-repeat;
+    background: url('../images/event-bg-image-gold.png') no-repeat;
     background-position: center center;
     background-size: 100% auto;
 }
@@ -11153,7 +11153,7 @@ header.main-header.header-metal .header-sticky.active{
 .event-item-image-gold figure{
 	display: block;
 	display: inline-block;
-    mask-image: url('https://html.awaikenthemes.com/evenza/images/event-image-bg-mask-gold.svg');
+    mask-image: url('../images/event-image-bg-mask-gold.svg');
     mask-repeat: no-repeat;
     mask-position: center center;
     mask-size: cover;
@@ -11427,7 +11427,7 @@ header.main-header.header-metal .header-sticky.active{
 
 .our-story-gold{
 	position: relative;
-	background-image: url('https://html.awaikenthemes.com/evenza/images/our-story-bg-image-gold.jpg');
+	background-image: url('../images/our-story-bg-image-gold.jpg');
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
@@ -11695,7 +11695,7 @@ header.main-header.header-metal .header-sticky.active{
 
 .upcoming-event-gold{
 	position: relative;
-	background-image: url('https://html.awaikenthemes.com/evenza/images/coming-event-bg-image-gold.jpg');
+	background-image: url('../images/coming-event-bg-image-gold.jpg');
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -11954,7 +11954,7 @@ header.main-header.header-metal .header-sticky.active{
 	position: absolute;
 	top: 50%;
 	left: 50%;
-	background: url('https://html.awaikenthemes.com/evenza/images/arrow-accent.svg') no-repeat center center;
+	background: url('../images/arrow-accent.svg') no-repeat center center;
 	background-size: cover;
 	transform: translate(-50%, -50%) rotate(180deg);
 	width: 22px;
@@ -11985,7 +11985,7 @@ header.main-header.header-metal .header-sticky.active{
 	left: 0;
 	height: 100%;
 	width: 100%;
-	background: url('https://html.awaikenthemes.com/evenza/images/faqs-bg-image-gold.png') no-repeat;
+	background: url('../images/faqs-bg-image-gold.png') no-repeat;
 	background-position: center center;
 	background-size: 100% auto;
 }

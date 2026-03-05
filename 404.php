@@ -28,7 +28,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="error-page-image wow fadeInUp">
-                        <img src="https://html.awaikenthemes.com/evenza/images/404-error-img.png" alt="">
+                        <img src="images/404-error-img.png" alt="">
                     </div>
                     <div class="error-page-content">
                         <div class="section-title">

@@ -100,7 +100,7 @@
                                 <!-- Speaker Contact Item Start -->
                                 <div class="speaker-contact-item">
                                     <div class="icon-box">
-                                        <img src="https://html.awaikenthemes.com/evenza/images/icon-mail-white.svg" alt="">
+                                        <img src="images/icon-mail-white.svg" alt="">
                                     </div>
                                     <div class="speaker-contact-item-content">
                                         <p>Email Address</p>

@@ -1,3 +1,78 @@
+<div class="our-testimonials dark-section">
+        <div class="container">
+            <div class="row section-row">
+                <div class="col-lg-12">
+                    <div class="section-title section-title-center">
+                        <h3 class="wow fadeInUp">Testimonials</h3>
+                        <h2 class="text-anime-style-3" data-cursor="-opaque" style="font-size:35px;">What our customers say about their experience</h2>
+                    </div>
+                    </div>
+            </div>
+
+            <div class="row">             
+                <div class="col-xl-12 col-lg-12 col-md-12">
+                    <div class="testimonial-slider wow fadeInUp" data-wow-delay="0.2s">
+                        <div class="swiper">
+                            <div class="swiper-wrapper" data-cursor-text="Drag">
+                                <div class="swiper-slide">
+                                    <div class="testimonial-item">
+                                        <div class="testimonial-item-header">
+                                            <div class="testimonial-rating">
+                                                <i class="fa-solid fa-star"></i>
+                                                <i class="fa-solid fa-star"></i>
+                                                <i class="fa-solid fa-star"></i>
+                                                <i class="fa-solid fa-star"></i>
+                                                <i class="fa-solid fa-star"></i>
+                                            </div>
+                                            <div class="testimonial-item-content">
+                                                <p>"Stunning design and execution! Our stall was easily the best-looking one at the event and drew a huge crowd. For a show-stopping exhibition stand, House of Exhibitions is the go-to team."</p>
+                                                <h5 style="color:#fff;">- Ahmed Al Suwaidi</h5>
+                                            </div>
+                                        </div>                                       
+                                    </div>
+                                    </div>
+                                <div class="swiper-slide">
+                                    <div class="testimonial-item">
+                                        <div class="testimonial-item-header">
+                                            <div class="testimonial-rating">
+                                                <i class="fa-solid fa-star"></i>
+                                                <i class="fa-solid fa-star"></i>
+                                                <i class="fa-solid fa-star"></i>
+                                                <i class="fa-solid fa-star"></i>
+                                                <i class="fa-solid fa-star"></i>
+                                            </div>
+                                            <div class="testimonial-item-content">
+                                                <p>"Professional, precise, and stress-free. They handled everything from 3D renders to on-site setup perfectly and on time. Their attention to detail is unmatched in the industry."</p>
+                                                <h5 style="color:#fff;">- Fatima Al Mansoori</h5>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    </div>
+                                <div class="swiper-slide">
+                                    <div class="testimonial-item">
+                                        <div class="testimonial-item-header">
+                                            <div class="testimonial-rating">
+                                                <i class="fa-solid fa-star"></i>
+                                                <i class="fa-solid fa-star"></i>
+                                                <i class="fa-solid fa-star"></i>
+                                                <i class="fa-solid fa-star"></i>
+                                                <i class="fa-solid fa-star"></i>
+                                            </div>
+                                            <div class="testimonial-item-content">
+                                                <p>"Highly reliable partners who deliver premium quality on a budget. They are incredibly quick to respond and handle last-minute changes with ease. Highly recommended!"</p>
+                                                <h5 style="color:#fff;">- Tariq Al Hashemi</h5>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    </div>
+                                </div>
+                            <div class="testimonial-pagination"></div>
+                        </div>
+                    </div>
+                    </div>
+            </div>
+        </div>
+    </div>
 <div class="col-lg-12 pt-4 pb-5" style="background-color:#161a2d">
                     <!-- Comapany Support Slider Start -->
                     <div class="company-supports-slider-box wow fadeInUp" data-wow-delay="0.2s">
@@ -209,7 +284,7 @@
 
     <!-- WhatsApp Floating Button -->
     <a href="https://wa.me/971523426256?text=Hi%20Enquiry%20from%20website%20HOE" target="_blank" class="whatsapp-float" style="position:fixed;bottom:20px;right:20px;z-index:9999;">
-        <img src="images/whatsapp.png" alt="WhatsApp" style="width: 66px;" />
+        <img src="images/whatsapp.png" alt="WhatsApp"/>
     </a>
 
     <!-- Jquery Library File -->

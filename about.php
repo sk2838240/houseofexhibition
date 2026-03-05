@@ -225,6 +225,7 @@
             <div class="row">
                 <div class="col-xl-4 col-md-6">
                     <!-- Approach Item Start -->
+                     <a href="contact.php">
                     <div class="approach-item wow fadeInUp">
                         <!-- Approach Item Image Start -->
                         <div class="approach-item-image">
@@ -237,7 +238,7 @@
                         <!-- Approach Item Body Start -->
                         <div class="approach-item-body">
                             <div class="icon-box">
-                                <img src="https://html.awaikenthemes.com/evenza/images/icon-approach-1.svg" alt="">
+                                <img src="images/icon-approach-1.svg" alt="">
                             </div>
                             <div class="approach-item-content">
                                 <h3>Precision Fabrication</h3>
@@ -246,11 +247,13 @@
                         </div>
                         <!-- Approach Item Body End -->
                     </div>
+                    </a>
                     <!-- Approach Item End -->
                 </div>
-
+                
                 <div class="col-xl-4 col-md-6">
                     <!-- Approach Item Start -->
+                     <a href="contact.php">
                     <div class="approach-item wow fadeInUp" data-wow-delay="0.2s">
                         <!-- Approach Item Image Start -->
                         <div class="approach-item-image">
@@ -263,7 +266,7 @@
                         <!-- Approach Item Body Start -->
                         <div class="approach-item-body">
                             <div class="icon-box">
-                                <img src="https://html.awaikenthemes.com/evenza/images/icon-approach-2.svg" alt="">
+                                <img src="images/icon-approach-2.svg" alt="">
                             </div>
                             <div class="approach-item-content">
                                 <h3>Tailored Structural Design</h3>
@@ -272,11 +275,13 @@
                         </div>
                         <!-- Approach Item Body End -->
                     </div>
+                    </a>
                     <!-- Approach Item End -->
                 </div>
-
+                
                 <div class="col-xl-4 col-md-6">
                     <!-- Approach Item Start -->
+                     <a href="contact.php">
                     <div class="approach-item wow fadeInUp" data-wow-delay="0.4s">
                         <!-- Approach Item Image Start -->
                         <div class="approach-item-image">
@@ -289,7 +294,7 @@
                         <!-- Approach Item Body Start -->
                         <div class="approach-item-body">
                             <div class="icon-box">
-                                <img src="https://html.awaikenthemes.com/evenza/images/icon-approach-3.svg" alt="">
+                                <img src="images/icon-approach-3.svg" alt="">
                             </div>
                             <div class="approach-item-content">
                                 <h3>Strategic Onsite Coordination</h3>
@@ -298,6 +303,7 @@
                         </div>
                         <!-- Approach Item Body End -->
                     </div>
+</a>
                     <!-- Approach Item End -->
                 </div>
             </div>
@@ -350,9 +356,9 @@
                         <!-- Our Benefits Footer Start -->
                         <div class="our-benefits-footer wow fadeInUp" data-wow-delay="0.6s">
                             <!-- Our Benefits Button Start -->
-                            <div class="our-benefits-btn">
+                            <!-- <div class="our-benefits-btn">
                                 <a href="schedule.php" class="btn-default">View Our Schedule</a>
-                            </div>
+                            </div> -->
                             <!-- Our Benefits Button End -->
 
                             <!-- About Contact Box Start -->
@@ -475,9 +481,9 @@
                         <!-- Achievements List End -->
 
                         <!-- Achievements Content Button Start -->
-                        <div class="achievements-content-btn wow fadeInUp" data-wow-delay="0.6s">
+                        <!-- <div class="achievements-content-btn wow fadeInUp" data-wow-delay="0.6s">
                             <a href="schedule.php" class="btn-default btn-highlighted">Explore Schedule</a>
-                        </div>
+                        </div> -->
                         <!-- Achievements Content Button End -->
                     </div>
                 </div>
@@ -491,33 +497,33 @@
     <!-- Our Speakers Section End -->
 
     <!-- Intro Video Section Start -->
-    <div class="intro-video">
+    <!-- <div class="intro-video">
         <div class="container-fluid">
             <div class="row no-gutters">
-                <div class="col-lg-12">
+                <div class="col-lg-12"> -->
                     <!-- Intro Video Box Start -->
-                    <div class="intro-video-box wow fadeInUp" data-wow-delay="0.2s">
+                    <!-- <div class="intro-video-box wow fadeInUp" data-wow-delay="0.2s"> -->
                         <!-- Intro Video Image Start -->
-                        <div class="intro-video-image">
+                        <!-- <div class="intro-video-image">
                             <figure>
                                 <img src="images/intro-video-image.jpg" alt="">
                             </figure>
-                        </div>
+                        </div> -->
                         <!-- Intro Video Image End -->
                         
                         <!-- Video Play Button Start -->
-                        <div class="video-play-button">
+                        <!-- <div class="video-play-button">
                             <a href="https://www.youtube.com/watch?v=Y-x0efG1seA" class="popup-video" data-cursor-text="Play">
                                 <i class="fa-solid fa-play"></i>
                             </a>
-                        </div>
+                        </div> -->
                         <!-- Video Play Button End -->
-                    </div>
+                    <!-- </div> -->
                     <!-- Intro Video Box End -->
-                </div>
+                <!-- </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- Intro Video Section End -->
 
     <!-- Our Skills Section Start -->
@@ -532,7 +538,7 @@
                             <!-- Skills Image Start -->
                             <div class="skills-image image-1">
                                 <figure class="image-anime reveal">
-                                    <img src="https://html.awaikenthemes.com/evenza/images/our-skill-image-1.jpg" alt="">
+                                    <img src="images/our-skill-image-1.jpg" alt="">
                                 </figure>
                             </div>
                             <!-- Skills Image End -->
@@ -552,7 +558,7 @@
                             <!-- Skills Image Start -->
                             <div class="skills-image image-3">
                                 <figure class="image-anime reveal">
-                                    <img src="https://html.awaikenthemes.com/evenza/images/our-skill-image-3.jpg" alt="">
+                                    <img src="images/our-skill-image-3.jpg" alt="">
                                 </figure>
                             </div>
                             <!-- Skills Image End -->
@@ -560,7 +566,7 @@
                             <!-- Skills Image Start -->
                             <div class="skills-image image-4">
                                 <figure class="image-anime reveal">
-                                    <img src="https://html.awaikenthemes.com/evenza/images/our-skill-image-4.jpg" alt="">
+                                    <img src="images/our-skill-image-4.jpg" alt="">
                                 </figure>
                             </div>
                             <!-- Skills Image End -->
@@ -569,8 +575,8 @@
 
                         <!-- Skills Schedule Circle Start -->
                         <div class="skills-schedule-circle">
-                            <a href="schedule.html">
-                                <img src="https://html.awaikenthemes.com/evenza/images/schedule-circle.svg" alt="">
+                            <a href="contact.php">
+                                <img src="images/schedule.png" alt="">
                             </a>
                         </div>
                         <!-- Skills Schedule Circle End -->
@@ -647,7 +653,7 @@
 
                                 <!-- Skills Button Start -->
                                 <div class="our-skills-btn wow fadeInUp" data-wow-delay="0.2s">
-                                    <a href="contact.php" class="btn-default">Join the Conference</a>
+                                    <a href="contact.php" class="btn-default">Contact Us</a>
                                 </div>
                                 <!-- Skills Button End -->
                             </div>
@@ -675,98 +681,7 @@
     </div>
     <!-- Our Skills Section End -->
 
-    <!-- Our Testimonials Section Start -->
-    <div class="our-testimonials dark-section">
-        <div class="container">
-            <div class="row section-row">
-                <div class="col-lg-12">
-                    <!-- Section Title Start -->
-                    <div class="section-title section-title-center">
-                        <h3 class="wow fadeInUp">Testimonials</h3>
-                        <h2 class="text-anime-style-3" data-cursor="-opaque">What our customers say about their experience</h2>
-                    </div>
-                    <!-- Section Title End -->
-                </div>
-            </div>
-
-            <div class="row">             
-                <div class="col-xl-12 col-lg-12 col-md-12">
-                    <!-- Testimonial Slider Start -->
-                    <div class="testimonial-slider wow fadeInUp" data-wow-delay="0.2s">
-                        <div class="swiper">
-                            <div class="swiper-wrapper" data-cursor-text="Drag">
-                                <!-- Swiper Slider Start -->
-                                <div class="swiper-slide">
-                                    <!-- Testimonial Item Start -->
-                                    <div class="testimonial-item">
-                                        <div class="testimonial-item-header">
-                                            <div class="testimonial-rating">
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-solid fa-star"></i>
-                                            </div>
-                                            <div class="testimonial-item-content">
-                                                <p>"Stunning design and execution! Our stall was easily the best-looking one at the event and drew a huge crowd. For a show-stopping exhibition stand, House of Exhibitions is the go-to team."</p>
-                                            </div>
-                                        </div>                                        
-                                    </div>
-                                    <!-- Testimonial Item End -->
-                                </div>
-                                <!-- Swiper Slider End -->
-
-                                <!-- Swiper Slider Start -->
-                                <div class="swiper-slide">
-                                    <!-- Testimonial Item Start -->
-                                    <div class="testimonial-item">
-                                        <div class="testimonial-item-header">
-                                            <div class="testimonial-rating">
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-solid fa-star"></i>
-                                            </div>
-                                            <div class="testimonial-item-content">
-                                                <p>"Professional, precise, and stress-free. They handled everything from 3D renders to on-site setup perfectly and on time. Their attention to detail is unmatched in the industry."</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- Testimonial Item End -->
-                                </div>
-                                <!-- Swiper Slider End -->
-
-                                <!-- Swiper Slider Start -->
-                                <div class="swiper-slide">
-                                    <!-- Testimonial Item Start -->
-                                    <div class="testimonial-item">
-                                        <div class="testimonial-item-header">
-                                            <div class="testimonial-rating">
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-solid fa-star"></i>
-                                            </div>
-                                            <div class="testimonial-item-content">
-                                                <p>"Highly reliable partners who deliver premium quality on a budget. They are incredibly quick to respond and handle last-minute changes with ease. Highly recommended!"</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- Testimonial Item End -->
-                                </div>
-                                <!-- Swiper Slider End -->
-                            </div>
-                            <div class="testimonial-pagination"></div>
-                        </div>
-                    </div>
-                    <!-- Testimonial Slider End -->
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Our Testimonials Section End -->
+    
 
     <!-- Our Faqs Section Start -->
     <div class="our-faqs">

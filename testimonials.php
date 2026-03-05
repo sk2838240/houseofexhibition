@@ -371,7 +371,7 @@
                             <!-- Skills Image Start -->
                             <div class="skills-image image-1">
                                 <figure class="image-anime reveal">
-                                    <img src="https://html.awaikenthemes.com/evenza/images/our-skill-image-1.jpg" alt="">
+                                    <img src="images/our-skill-image-1.jpg" alt="">
                                 </figure>
                             </div>
                             <!-- Skills Image End -->
@@ -391,7 +391,7 @@
                             <!-- Skills Image Start -->
                             <div class="skills-image image-3">
                                 <figure class="image-anime reveal">
-                                    <img src="https://html.awaikenthemes.com/evenza/images/our-skill-image-3.jpg" alt="">
+                                    <img src="images/our-skill-image-3.jpg" alt="">
                                 </figure>
                             </div>
                             <!-- Skills Image End -->
@@ -399,7 +399,7 @@
                             <!-- Skills Image Start -->
                             <div class="skills-image image-4">
                                 <figure class="image-anime reveal">
-                                    <img src="https://html.awaikenthemes.com/evenza/images/our-skill-image-4.jpg" alt="">
+                                    <img src="images/our-skill-image-4.jpg" alt="">
                                 </figure>
                             </div>
                             <!-- Skills Image End -->

@@ -1,1854 +1,834 @@
 <?php include "incl/header.php"; ?>
-   <!-- Hero Section Start -->
-    <div class="hero-services-1 dark-section parallaxie">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <!-- Hero Box Start -->
-                    <div class="hero-box">
-                        <!-- Hero Content Start -->
-                        <div class="hero-content">
-                            <!-- Section Title Start -->
-                            <div class="section-title">
-                                <h1 class="text-anime-style-3 text-warning" data-cursor="-opaque">Connecting Minds to Shape Tomorrow's Big Ideas</h1>
-                            </div>
-                            <!-- Section Title End -->
 
-                            <!-- Hero Content Body End -->
-                        </div>
-                    </div>
-                    <!-- Hero Box End -->
+<!-- Page Header Section Start -->
+<div class="page-header parallaxie" style="    position: relative;
+    background: url(images/exhibition-stand2.png) no-repeat;
+    background-position: center center;
+    background-size: cover;
+    padding: 180px 0 58px;
+    overflow: hidden;">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <!-- Page Header Box Start -->
+                <div class="page-header-box">
+                    <h1 class="text-anime-style-3" data-cursor="-opaque">Exhibition Stand Builders in Dubai</h1>
+                    <nav class="wow fadeInUp">
+                        <ol class="breadcrumb">
+                            <li class="breadcrumb-item"><a href="index.php">home</a></li>
+                            <i class="fa-solid fa-angles-right" style="color: #fff !important;padding: 3px 25px 0px 20px;"></i>
+                            <li class="breadcrumb-item active" aria-current="page">Exhibition Stand Builders in Dubai</li>
+                        </ol>
+                    </nav>
                 </div>
+                <!-- Page Header Box End -->
             </div>
         </div>
     </div>
-    <!-- Hero Section End -->
-    <!-- About Us Section Start -->
-    <div class="about-us">
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col-xl-6">
-                    <!-- About Us Image Box Start -->
-                    <div class="about-us-image-box wow fadeInUp">
-                        <!-- About Image Cirlce Box Start -->
-                        <div class="about-image-circle-box">
-                            <!-- About Us Image Start -->
-                            <div class="about-us-image">
-                                <figure class="image-anime">
-                                    <img src="images/about-us-image.jpg" alt="">
-                                </figure>
-                            </div>
-                            <!-- About Us Image End -->
-
-                            <!-- Years Experience Circle Start -->
-                            <div class="years-experience-circle">
-                                <figure>
-                                    <img src="images/years-experience-circle.svg" alt="">
-                                </figure>
-    
-                                <!-- Years Experience Counter Box Start -->
-                                <div class="years-experience-counter-box">
-                                    <h2><span class="counter">25</span>+</h2>
-                                </div>
-                                <!-- Years Experience Counter Box End -->
-                            </div>     
-                            <!-- Years Experience Circle End -->
-                        </div>
-                        <!-- About Image Cirlce Box End -->
-                        
-                        <!-- About Achievement Box Start -->
-                        <div class="about-achievement-box">
-                            <!-- About Achievement Box Header Start -->
-                            <div class="about-achievement-box-header">
-                                <!-- About Achievement Image Start -->
-                                <div class="about-achievement-image">
-                                    <figure>
-                                        <img src="images/about-achievement-image.png" alt="">
-                                    </figure>
-                                </div>
-                                <!-- About Achievement Image End -->
-
-                                <!-- About Achievement Content Start -->
-                                <div class="about-achievement-content">
-                                    <h3>“Institute for Professional Achievement Awards 2025”</h3>
-                                    <p>by-Nisha Trivedi</p>
-                                </div>
-                                <!-- About Achievement Content End -->
-                            </div>
-                            <!-- About Achievement Box Header End -->
-
-                            <!-- About Achievement Box Body Start -->
-                            <div class="about-achievement-box-body">
-                                <h3>Celebrating Achievement with Pride</h3>
-                            </div>
-                            <!-- About Achievement Box Body End -->
-                        </div>
-                        <!-- About Achievement Box End -->
-                    </div>
-                    <!-- About Us Image Box End -->
-                </div>
-
-                <div class="col-xl-6">
-                    <!-- About Us Content Start -->
-                    <div class="about-us-content">
-                        <!-- Section Title Start -->
-                        <div class="section-title">
-                            <h3 class="wow fadeInUp">About Us</h3>
-                            <h2 class="text-anime-style-3" data-cursor="-opaque">Uncover our mission & purpose behind this event</h2>
-                            <p class="wow fadeInUp" data-wow-delay="0.2s">Discover the vision that drives this event—a commitment to bringing together innovators, leaders, and changemakers to share knowledge, spark inspiration, and create meaningful connections.</p>
-                        </div>
-                        <!-- Section Title End -->
-
-                        <!-- About Us Body Start -->
-                        <div class="about-us-body wow fadeInUp" data-wow-delay="0.4s">
-                            <!-- About Vision-Mission Box Start -->
-                            <div class="about-mission-vision-box tab-content wow fadeInUp" data-wow-delay="0.4s" id="AboutTab">
-                                <!-- About Vision-Mission Nav start -->
-                                <div class="about-mission-vision-nav">
-                                    <ul class="nav nav-tabs" id="mvTab" role="tablist">
-                                        <li class="nav-item" role="presentation">
-                                            <button class="nav-link" id="mission-tab" data-bs-toggle="tab" data-bs-target="#mission" type="button" role="tab" aria-selected="true">Our Mission</button>
-                                        </li>
-                                        <li class="nav-item" role="presentation">
-                                            <button class="nav-link active" id="vision-tab" data-bs-toggle="tab" data-bs-target="#vision" type="button" role="tab" aria-selected="false">Our Vision</button>
-                                        </li>
-                                        <li class="nav-item" role="presentation">
-                                            <button class="nav-link" id="goal-tab" data-bs-toggle="tab" data-bs-target="#goal" type="button" role="tab" aria-selected="false">Our Goal</button>
-                                        </li>
-                                    </ul>
-                                </div>
-                                <!-- About Vision-Mission Nav End -->
-            
-                                <!-- About Mission Item Start -->
-                                <div class="about-mission-vision-item tab-pane fade" id="mission" role="tabpanel">
-                                    <!-- Vision Mission Content Start -->
-                                    <div class="vision-mission-content">
-                                        <p>Our mission is to build a global community where collaboration fuels innovation we aim encourage fresh thinking, spark inspiring dialogues, and create a space.</p>
-                                    </div>
-                                    <!-- Vision Mission Content End -->
-                                </div>
-                                <!-- About Mission End -->
-            
-                                <!-- About Vision Item Start -->
-                                <div class="about-mission-vision-item tab-pane fade show active" id="vision" role="tabpanel">
-                                    <!-- Vision Mission Content Start -->
-                                    <div class="vision-mission-content">
-                                        <p>Our vision is to build a global community where collaboration fuels innovation we aim encourage fresh thinking, spark inspiring dialogues, and create a space.</p>
-                                    </div>
-                                    <!-- Vision Mission Content End -->
-                                </div>
-                                <!-- About Vision Item End -->
-            
-                                <!-- About Goal Item Start -->
-                                <div class="about-mission-vision-item tab-pane fade" id="goal" role="tabpanel">
-                                    <!-- Vision Mission Content Start -->
-                                    <div class="vision-mission-content">
-                                        <p>Our goal is to build a global community where collaboration fuels innovation we aim encourage fresh thinking, spark inspiring dialogues, and create a space.</p>
-                                    </div>
-                                    <!-- Vision Mission Content End -->
-                                </div>
-                                <!-- About Goal Item End -->
-                            </div>
-                            <!-- About Vision-Mission Box End -->
-
-                            <!-- About Us Item List Start -->
-                            <div class="about-us-item-list wow fadeInUp" data-wow-delay="0.6s">
-                                <!-- About Us Item Start -->
-                                <div class="about-us-item">
-                                    <div class="icon-box">
-                                        <img src="images/icon-about-us-item-1.svg" alt="">
-                                    </div>
-                                    <div class="about-us-item-content">
-                                        <h3>Receive real-time event updates.</h3>
-                                    </div>
-                                </div>
-                                <!-- About Us Item End -->
-
-                                <!-- About Us Item Start -->
-                                <div class="about-us-item">
-                                    <div class="icon-box">
-                                        <img src="images/icon-about-us-item-2.svg" alt="">
-                                    </div>
-                                    <div class="about-us-item-content">
-                                        <h3>Receive real-time event updates.</h3>
-                                    </div>
-                                </div>
-                                <!-- About Us Item End -->
-                            </div>
-                            <!-- About Us Item Lis End -->
-                        </div> 
-                        <!-- About Us Body End -->
-
-                        <!-- About Us Footer Start -->
-                        <div class="about-us-footer wow fadeInUp" data-wow-delay="0.8s">
-                            <!-- About Us Button Start -->
-                            <div class="about-us-btn">
-                                <a href="about.html" class="btn-default">Learn More About</a>
-                            </div>
-                            <!-- About Us Button End -->
-
-                            <!-- About Contact Box Start -->
-                            <div class="about-contact-box">
-                                <div class="icon-box">
-                                    <img src="images/icon-phone-white.svg" alt="">
-                                </div>
-                                <div class="about-contact-box-content">
-                                    <h3>Call Now!</h3>
-                                    <p><a href="tel:+971523426256">🇦🇪 +971 52 342 6256</a></p>
-                                </div>
-                            </div>
-                            <!-- About Contact Box End -->
-                        </div>
-                        <!-- About Us Footer End -->
-                    </div>
-                    <!-- About Us Content End -->
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- About Us Section End -->
-
-    <!-- Our Features Section Start -->
-    <div class="our-features dark-section">
-        <div class="container">
-            <div class="row section-row">
-                <div class="col-lg-12">
-                    <!-- Section Title Start -->
-                    <div class="section-title section-title-center">
-                        <h3 class="wow fadeInUp">Core Feature</h3>
-                        <h2 class="text-anime-style-3" data-cursor="-opaque">Core features that power our exceptional services</h2>
-                    </div>
-                    <!-- Section Title End -->
-                </div>
-            </div>
-
-            <div class="row feature-item-list">
-                <div class="col-xl-3 col-md-6">
-                    <!-- Feature Item Start -->
-                    <div class="feature-item wow fadeInUp">
-                        <div class="icon-box">
-                            <img src="images/icon-feature-item-1.svg" alt="">
-                        </div>
-                        <div class="feature-item-body">
-                            <div class="feature-item-content">
-                                <h3>Event Planning Manage</h3>
-                                <p>Deliver seamless virtual experience with high-quality streaming and interactive tools.</p>
-                            </div>
-                            <div class="feature-item-btn">
-                                <a href="contact.html" class="readmore-btn">Read More</a>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- Feature Item End -->
-                </div>
-
-                <div class="col-xl-3 col-md-6">
-                    <!-- Feature Item Start -->
-                    <div class="feature-item active wow fadeInUp" data-wow-delay="0.2s">
-                        <div class="icon-box">
-                            <img src="images/icon-feature-item-2.svg" alt="">
-                        </div>
-                        <div class="feature-item-body">
-                            <div class="feature-item-content">
-                                <h3>Conference Coordination</h3>
-                                <p>Deliver seamless virtual experience with high-quality streaming and interactive tools.</p>
-                            </div>
-                            <div class="feature-item-btn">
-                                <a href="contact.html" class="readmore-btn">Read More</a>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- Feature Item End -->
-                </div>
-
-                <div class="col-xl-3 col-md-6">
-                    <!-- Feature Item Start -->
-                    <div class="feature-item wow fadeInUp" data-wow-delay="0.4s">
-                        <div class="icon-box">
-                            <img src="images/icon-feature-item-3.svg" alt="">
-                        </div>
-                        <div class="feature-item-body">
-                            <div class="feature-item-content">
-                                <h3>Venue Booking & Setup</h3>
-                                <p>Deliver seamless virtual experience with high-quality streaming and interactive tools.</p>
-                            </div>
-                            <div class="feature-item-btn">
-                                <a href="contact.html" class="readmore-btn">Read More</a>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- Feature Item End -->
-                </div>
-
-                <div class="col-xl-3 col-md-6">
-                    <!-- Feature Item Start -->
-                    <div class="feature-item wow fadeInUp" data-wow-delay="0.6s">
-                        <div class="icon-box">
-                            <img src="images/icon-feature-item-4.svg" alt="">
-                        </div>
-                        <div class="feature-item-body">
-                            <div class="feature-item-content">
-                                <h3>Post-Event Analytics</h3>
-                                <p>Deliver seamless virtual experience with high-quality streaming and interactive tools.</p>
-                            </div>
-                            <div class="feature-item-btn">
-                                <a href="contact.html" class="readmore-btn">Read More</a>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- Feature Item End -->
-                </div>
-
-                <div class="col-lg-12">
-                    <!-- Section Footer Text Start -->
-                    <div class="section-footer-text wow fadeInUp" data-wow-delay="0.4s">
-                        <p>Join our team and help weave innovation, quality, and success together worldwide.</p>
-                        <ul>
-                            <li><span class="counter">4.9</span>/5</li>
-                            <li>
-                                <i class="fa-solid fa-star"></i>
-                                <i class="fa-solid fa-star"></i>
-                                <i class="fa-solid fa-star"></i>
-                                <i class="fa-solid fa-star"></i>
-                                <i class="fa-solid fa-star"></i>
-                            </li>
-                            <li>Our 4200 Review</li>
-                        </ul>
-                    </div>
-                    <!-- Section Footer Text End -->
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Our Features Section End -->
-
-    <!-- Our Benefits Section Start -->
-    <div class="our-benefits">
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col-xl-6">
-                    <!-- Our Benefits Content Start -->
-                    <div class="our-benefits-content">
-                        <!-- Section Title Start -->
-                        <div class="section-title">
-                            <h3 class="wow fadeInUp">Key Benefits</h3>
-                            <h2 class="text-anime-style-3" data-cursor="-opaque">Key advantages that ensure your events stand out</h2>
-                        </div>
-                        <!-- Section Title End -->
-
-                        <!-- Our Benefits Item List Start -->
-                        <div class="benefits-item-list">
-                            <!-- Our Benefits Item Start -->
-                            <div class="benefits-item wow fadeInUp" data-wow-delay="0.2s">
-                                <div class="icon-box">
-                                    <img src="images/icon-benefits-item-1.svg" alt="">
-                                </div>
-                                <div class="benefits-item-content">
-                                    <h3>Expert-Led Keynote Sessions</h3>
-                                    <p>Experience inspiring keynote sessions led by industry experts who share valuable insights, trends, and strategies to help you grow personally and professionally.</p>
-                                </div>
-                            </div>
-                            <!-- Our Benefits Item End -->
-
-                            <!-- Our Benefits Item Start -->
-                            <div class="benefits-item wow fadeInUp" data-wow-delay="0.4s">
-                                <div class="icon-box">
-                                    <img src="images/icon-benefits-item-2.svg" alt="">
-                                </div>
-                                <div class="benefits-item-content">
-                                    <h3>Advanced Event Technology</h3>
-                                    <p>Experience inspiring keynote sessions led by industry experts who share valuable insights, trends, and strategies to help you grow personally and professionally.</p>
-                                </div>
-                            </div>
-                            <!-- Our Benefits Item End -->
-                        </div>
-                        <!-- Our Benefits Item List End -->
-
-                        <!-- Our Benefits Footer Start -->
-                        <div class="our-benefits-footer wow fadeInUp" data-wow-delay="0.6s">
-                            <!-- Our Benefits Button Start -->
-                            <div class="our-benefits-btn">
-                                <a href="schedule.html" class="btn-default">View Our Schedule</a>
-                            </div>
-                            <!-- Our Benefits Button End -->
-
-                            <!-- About Contact Box Start -->
-                            <div class="about-contact-box">
-                                <div class="icon-box">
-                                    <img src="images/icon-phone-white.svg" alt="">
-                                </div>
-                                <div class="about-contact-box-content">
-                                    <h3>Call Now!</h3>
-                                    <p><a href="tel:+971523426256">🇦🇪 +971 52 342 6256</a></p>
-                                </div>
-                            </div>
-                            <!-- About Contact Box End -->
-                        </div>
-                        <!-- Our Benefits Footer End -->
-                    </div>
-                    <!-- Our Benefits Content End -->
-                </div>
-
-                <div class="col-xl-6">
-                     <!-- Our Benefits Images Start -->
-                    <div class="our-benefits-images">
-                        <!-- Our Benefits Image Start -->
-                        <div class="our-benefits-img image-1">
-                            <figure class="image-anime reveal">
-                                <img src="images/our-benefits-image-1.jpg" alt="">
+</div>
+<!-- Page Header Section End -->
+<!-- About Us Section Start -->
+<div class="about-us">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-xl-6">
+                <!-- About Us Image Box Start -->
+                <div class="about-us-image-box wow fadeInUp">
+                    <!-- About Image Cirlce Box Start -->
+                    <div class="about-image-circle-box">
+                        <!-- About Us Image Start -->
+                        <div class="about-us-image">
+                            <figure class="image-anime">
+                                <img src="images/exhibition-stand2.png" alt="">
                             </figure>
                         </div>
-                        <!-- Our Benefits Image End -->
-
-                        <!-- Our Benefits Image Start -->
-                        <div class="our-benefits-img image-2">
-                            <figure class="image-anime reveal">
-                                <img src="images/our-benefits-image-2.jpg" alt="">
-                            </figure>
-                        </div>
-                        <!-- Our Benefits Image End -->
+                        <!-- About Us Image End -->
                     </div>
-                    <!-- Why Choose Images End -->
+                    <!-- About Image Cirlce Box End -->
+                </div>
+                <!-- About Us Image Box End -->
+            </div>
+
+            <div class="col-xl-6">
+                <div class="contact-form">
+                    <!-- Section Title Start -->
+                    <div class="section-title">
+                        <h2 class="text-anime-style-3" data-cursor="-opaque">We’re Here to Help</h2>
+                        <p class="wow fadeInUp" data-wow-delay="0.2s">Questions? Ideas? Just need a hand? Our team is available today to offer the support and insight you need for your next project.</p>
+                    </div>
+                    <!-- Section Title End -->
+
+                    <!-- Contact Form Start -->
+                    <form id="contactForm" action="#" method="POST" data-toggle="validator" class="wow fadeInUp" data-wow-delay="0.4s">
+                        <div class="row">
+                            <div class="form-group col-md-6 mb-4">
+                                <input type="text" name="fname" class="form-control" id="fname" placeholder="First Name" required>
+                                <div class="help-block with-errors"></div>
+                            </div>
+
+                            <div class="form-group col-md-6 mb-4">
+                                <input type="text" name="lname" class="form-control" id="lname" placeholder="Last Name" required>
+                                <div class="help-block with-errors"></div>
+                            </div>
+
+                            <div class="form-group col-md-6 mb-4">
+                                <input type="text" name="phone" class="form-control" id="phone" placeholder="Mobile Number" required>
+                                <div class="help-block with-errors"></div>
+                            </div>
+
+                            <div class="form-group col-md-6 mb-4">
+                                <input type="email" name="email" class="form-control" id="email" placeholder="E-mail Address" required>
+                                <div class="help-block with-errors"></div>
+                            </div>
+
+                            <div class="form-group col-md-12 mb-5">
+                                <textarea name="message" class="form-control" id="message" rows="5" placeholder="Write your message here..."></textarea>
+                                <div class="help-block with-errors"></div>
+                            </div>
+
+                            <div class="col-lg-12">
+                                <div class="contact-form-btn">
+                                    <button type="submit" class="btn-default"><span>Send a Message</span></button>
+                                    <div id="msgSubmit" class="h3 hidden"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </form>
+                    <!-- Contact Form End -->
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+<!-- About Us Section End -->
+
+<div class="our-features dark-section">
+    <div class="container">
+        <div class="row section-row">
+            <div class="col-lg-12">
+                <div class="section-title section-title-center">
+                    <h2 class="text-anime-style-3" data-cursor="-opaque">Request a free stand design consultation today</h2>
                 </div>
             </div>
         </div>
-    </div>
-    <!-- Our Benefits Section End -->
 
-    <!-- Our Event Schedule Section Start -->
-    <div class="our-event-schedule dark-section">
-        <div class="container">
-            <div class="row section-row">
-                <div class="col-lg-12">
-                    <!-- Section Title Start -->
-                    <div class="section-title section-title-center">
-                        <h3 class="wow fadeInUp">Our Event Schedule</h3>
-                        <h2 class="text-anime-style-3" data-cursor="-opaque">Explore the complete schedule for our event</h2>
+        <div class="row feature-item-list">
+
+            <div class="col-md-6">
+                <div class="feature-item wow fadeInUp">
+                    <div class="icon-box">
+                        <img src="images/icon-feature-item-1.svg" alt="Design Icon">
                     </div>
-                    <!-- Section Title End -->
-                </div>
-            </div>
+                    <div class="feature-item-body">
+                        <div class="feature-item-content">
+                            <h3>Custom Exhibition Stand Design in Dubai</h3>
+                            <p>Every brand has a unique story. At Velmora Events and Exhibitions Fz Co, your exhibition stand will reflect that story in a visually compelling way.</p>
+                            <p>Under the House of Exhibitions banner, our in-house design team creates fully customized stand designs tailored exactly to your brand identity, marketing goals, and target audience. We provide:</p>
 
-            <div class="row">
-                <div class="col-lg-12">
-                    <!-- Event Schedule Box Start -->
-                    <div class="event-schedule-box tab-content wow fadeInUp" data-wow-delay="0.2s" id="ScheduleTab">
-                        <!-- Event Schedule Nav start -->
-                        <div class="event-schedule-nav">
-                            <ul class="nav nav-tabs" id="evTab" role="tablist">
-                                <li class="nav-item" role="presentation">
-                                    <button class="nav-link" id="day-1-tab" data-bs-toggle="tab" data-bs-target="#day-1" type="button" role="tab" aria-selected="true">Day 01</button>
-                                </li>
-                                <li class="nav-item" role="presentation">
-                                    <button class="nav-link active" id="day-2-tab" data-bs-toggle="tab" data-bs-target="#day-2" type="button" role="tab" aria-selected="false">Day 02</button>
-                                </li>
-                                <li class="nav-item" role="presentation">
-                                    <button class="nav-link" id="day-3-tab" data-bs-toggle="tab" data-bs-target="#day-3" type="button" role="tab" aria-selected="false">Day 03</button>
-                                </li>
+                            <ul style="list-style: none; padding-left: 0; margin-bottom: 20px;">
+                                <li style="padding: 8px 0; font-weight: 600; color: white;"><i class="fa-solid fa-arrow-right" style="margin-right: 10px; color: white;"></i> 3D stand design & realistic renderings</li>
+                                <li style="padding: 8px 0; font-weight: 600; color: white;"><i class="fa-solid fa-arrow-right" style="margin-right: 10px; color: white;"></i> Concept development</li>
+                                <li style="padding: 8px 0; font-weight: 600; color: white;"><i class="fa-solid fa-arrow-right" style="margin-right: 10px; color: white;"></i> Space planning</li>
+                                <li style="padding: 8px 0; font-weight: 600; color: white;"><i class="fa-solid fa-arrow-right" style="margin-right: 10px; color: white;"></i> Brand-focused layouts</li>
+                                <li style="padding: 8px 0; font-weight: 600; color: white;"><i class="fa-solid fa-arrow-right" style="margin-right: 10px; color: white;"></i> Visitor flow optimization</li>
                             </ul>
+
+                            <p>Whether you are participating in GITEX, Arab Health, The Big 5, or any international trade show in Dubai, our expert designers ensure your booth stands out on the exhibition floor.</p>
                         </div>
-                        <!-- Event Schedule Nav End -->
-    
-                        <!-- Event Schedule Item List Start -->
-                        <div class="event-schedule-item-list tab-pane fade" id="day-1" role="tabpanel">
-                            <!-- Event Schedule Item Start -->
-                            <div class="event-schedule-item">
-                                <div class="schedule-image-box">
-                                    <div class="schedule-image">
-                                        <figure class="image-anime">
-                                            <img src="images/event-schedule-image-1.jpg" alt="">
-                                        </figure>
-                                    </div>
-                                    <div class="schedule-image-content">
-                                        <h3>9:00 AM - 5:30 PM</h3>
-                                        <p>22 March 2025</p>
-                                    </div>
-                                </div>
-                                <div class="schedule-item-content">
-                                    <h3><a href="schedule-single.html">Professional Skills Development Workshop</a></h3>
-                                    <p>Unlock your potential and elevate your career with our Professional Skills Development designed students, working professionals.</p>
-                                </div>
-                                <div class="schedule-item-venue">
-                                    <div class="icon-box">
-                                        <img src="images/icon-location-white.svg" alt="">
-                                    </div>
-                                    <div class="schedule-item-venue-content">
-                                        <p>Street, Block 12 Sector 4, Ipsum City</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Event Schedule Item End -->
-
-                            <!-- Event Schedule Item Start -->
-                            <div class="event-schedule-item">
-                                <div class="schedule-image-box">
-                                    <div class="schedule-image">
-                                        <figure class="image-anime">
-                                            <img src="images/event-schedule-image-2.jpg" alt="">
-                                        </figure>
-                                    </div>
-                                    <div class="schedule-image-content">
-                                        <h3>10:00 AM - 4:00 PM</h3>
-                                        <p>05 May 2025</p>
-                                    </div>
-                                </div>
-                                <div class="schedule-item-content">
-                                    <h3><a href="schedule-single.html">Leadership & Growth Conference</a></h3>
-                                    <p>Unlock your potential and elevate your career with our Professional Skills Development designed students, working professionals.</p>
-                                </div>
-                                <div class="schedule-item-venue">
-                                    <div class="icon-box">
-                                        <img src="images/icon-location-white.svg" alt="">
-                                    </div>
-                                    <div class="schedule-item-venue-content">
-                                        <p>Street, Block 12 Sector 4, Ipsum City</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Event Schedule Item End -->
-
-                            <!-- Event Schedule Item Start -->
-                            <div class="event-schedule-item">
-                                <div class="schedule-image-box">
-                                    <div class="schedule-image">
-                                        <figure class="image-anime">
-                                            <img src="images/event-schedule-image-3.jpg" alt="">
-                                        </figure>
-                                    </div>
-                                    <div class="schedule-image-content">
-                                        <h3>8:30 AM - 6:00 PM</h3>
-                                        <p>20 June 2025</p>
-                                    </div>
-                                </div>
-                                <div class="schedule-item-content">
-                                    <h3><a href="schedule-single.html">Digital Marketing Masterclass</a></h3>
-                                    <p>Unlock your potential and elevate your career with our Professional Skills Development designed students, working professionals.</p>
-                                </div>
-                                <div class="schedule-item-venue">
-                                    <div class="icon-box">
-                                        <img src="images/icon-location-white.svg" alt="">
-                                    </div>
-                                    <div class="schedule-item-venue-content">
-                                        <p>Street, Block 12 Sector 4, Ipsum City</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Event Schedule Item End -->
-
-                            <!-- Event Schedule Item Start -->
-                            <div class="event-schedule-item">
-                                <div class="schedule-image-box">
-                                    <div class="schedule-image">
-                                        <figure class="image-anime">
-                                            <img src="images/event-schedule-image-4.jpg" alt="">
-                                        </figure>
-                                    </div>
-                                    <div class="schedule-image-content">
-                                        <h3>11:00 AM - 3:00 PM</h3>
-                                        <p>10 April 2025</p>
-                                    </div>
-                                </div>
-                                <div class="schedule-item-content">
-                                    <h3><a href="schedule-single.html">Annual Innovation Summit 2025</a></h3>
-                                    <p>Unlock your potential and elevate your career with our Professional Skills Development designed students, working professionals.</p>
-                                </div>
-                                <div class="schedule-item-venue">
-                                    <div class="icon-box">
-                                        <img src="images/icon-location-white.svg" alt="">
-                                    </div>
-                                    <div class="schedule-item-venue-content">
-                                        <p>Street, Block 12 Sector 4, Ipsum City</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Event Schedule Item End -->
+                        <div class="feature-item-btn">
+                            <a href="contact.php" class="readmore-btn">Contact Us</a>
                         </div>
-                        <!-- Event Schedule Item List End -->
-    
-                        <!-- Event Schedule Item List Start -->
-                        <div class="event-schedule-item-list tab-pane fade show active" id="day-2" role="tabpanel">
-                            <!-- Event Schedule Item Start -->
-                            <div class="event-schedule-item">
-                                <div class="schedule-image-box">
-                                    <div class="schedule-image">
-                                        <figure class="image-anime">
-                                            <img src="images/event-schedule-image-1.jpg" alt="">
-                                        </figure>
-                                    </div>
-                                    <div class="schedule-image-content">
-                                        <h3>9:00 AM - 5:30 PM</h3>
-                                        <p>22 March 2025</p>
-                                    </div>
-                                </div>
-                                <div class="schedule-item-content">
-                                    <h3><a href="schedule-single.html">Professional Skills Development Workshop</a></h3>
-                                    <p>Unlock your potential and elevate your career with our Professional Skills Development designed students, working professionals.</p>
-                                </div>
-                                <div class="schedule-item-venue">
-                                    <div class="icon-box">
-                                        <img src="images/icon-location-white.svg" alt="">
-                                    </div>
-                                    <div class="schedule-item-venue-content">
-                                        <p>Street, Block 12 Sector 4, Ipsum City</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Event Schedule Item End -->
-
-                            <!-- Event Schedule Item Start -->
-                            <div class="event-schedule-item">
-                                <div class="schedule-image-box">
-                                    <div class="schedule-image">
-                                        <figure class="image-anime">
-                                            <img src="images/event-schedule-image-2.jpg" alt="">
-                                        </figure>
-                                    </div>
-                                    <div class="schedule-image-content">
-                                        <h3>10:00 AM - 4:00 PM</h3>
-                                        <p>05 May 2025</p>
-                                    </div>
-                                </div>
-                                <div class="schedule-item-content">
-                                    <h3><a href="schedule-single.html">Leadership & Growth Conference</a></h3>
-                                    <p>Unlock your potential and elevate your career with our Professional Skills Development designed students, working professionals.</p>
-                                </div>
-                                <div class="schedule-item-venue">
-                                    <div class="icon-box">
-                                        <img src="images/icon-location-white.svg" alt="">
-                                    </div>
-                                    <div class="schedule-item-venue-content">
-                                        <p>Street, Block 12 Sector 4, Ipsum City</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Event Schedule Item End -->
-
-                            <!-- Event Schedule Item Start -->
-                            <div class="event-schedule-item">
-                                <div class="schedule-image-box">
-                                    <div class="schedule-image">
-                                        <figure class="image-anime">
-                                            <img src="images/event-schedule-image-3.jpg" alt="">
-                                        </figure>
-                                    </div>
-                                    <div class="schedule-image-content">
-                                        <h3>8:30 AM - 6:00 PM</h3>
-                                        <p>20 June 2025</p>
-                                    </div>
-                                </div>
-                                <div class="schedule-item-content">
-                                    <h3><a href="schedule-single.html">Digital Marketing Masterclass</a></h3>
-                                    <p>Unlock your potential and elevate your career with our Professional Skills Development designed students, working professionals.</p>
-                                </div>
-                                <div class="schedule-item-venue">
-                                    <div class="icon-box">
-                                        <img src="images/icon-location-white.svg" alt="">
-                                    </div>
-                                    <div class="schedule-item-venue-content">
-                                        <p>Street, Block 12 Sector 4, Ipsum City</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Event Schedule Item End -->
-
-                            <!-- Event Schedule Item Start -->
-                            <div class="event-schedule-item">
-                                <div class="schedule-image-box">
-                                    <div class="schedule-image">
-                                        <figure class="image-anime">
-                                            <img src="images/event-schedule-image-4.jpg" alt="">
-                                        </figure>
-                                    </div>
-                                    <div class="schedule-image-content">
-                                        <h3>11:00 AM - 3:00 PM</h3>
-                                        <p>10 April 2025</p>
-                                    </div>
-                                </div>
-                                <div class="schedule-item-content">
-                                    <h3><a href="schedule-single.html">Annual Innovation Summit 2025</a></h3>
-                                    <p>Unlock your potential and elevate your career with our Professional Skills Development designed students, working professionals.</p>
-                                </div>
-                                <div class="schedule-item-venue">
-                                    <div class="icon-box">
-                                        <img src="images/icon-location-white.svg" alt="">
-                                    </div>
-                                    <div class="schedule-item-venue-content">
-                                        <p>Street, Block 12 Sector 4, Ipsum City</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Event Schedule Item End -->
-                        </div>
-                        <!-- Event Schedule Item List End -->
-    
-                        <!-- Event Schedule Item List Start -->
-                        <div class="event-schedule-item-list tab-pane fade" id="day-3" role="tabpanel">
-                            <!-- Event Schedule Item Start -->
-                            <div class="event-schedule-item">
-                                <div class="schedule-image-box">
-                                    <div class="schedule-image">
-                                        <figure class="image-anime">
-                                            <img src="images/event-schedule-image-1.jpg" alt="">
-                                        </figure>
-                                    </div>
-                                    <div class="schedule-image-content">
-                                        <h3>9:00 AM - 5:30 PM</h3>
-                                        <p>22 March 2025</p>
-                                    </div>
-                                </div>
-                                <div class="schedule-item-content">
-                                    <h3><a href="schedule-single.html">Professional Skills Development Workshop</a></h3>
-                                    <p>Unlock your potential and elevate your career with our Professional Skills Development designed students, working professionals.</p>
-                                </div>
-                                <div class="schedule-item-venue">
-                                    <div class="icon-box">
-                                        <img src="images/icon-location-white.svg" alt="">
-                                    </div>
-                                    <div class="schedule-item-venue-content">
-                                        <p>Street, Block 12 Sector 4, Ipsum City</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Event Schedule Item End -->
-
-                            <!-- Event Schedule Item Start -->
-                            <div class="event-schedule-item">
-                                <div class="schedule-image-box">
-                                    <div class="schedule-image">
-                                        <figure class="image-anime">
-                                            <img src="images/event-schedule-image-2.jpg" alt="">
-                                        </figure>
-                                    </div>
-                                    <div class="schedule-image-content">
-                                        <h3>10:00 AM - 4:00 PM</h3>
-                                        <p>05 May 2025</p>
-                                    </div>
-                                </div>
-                                <div class="schedule-item-content">
-                                    <h3><a href="schedule-single.html">Leadership & Growth Conference</a></h3>
-                                    <p>Unlock your potential and elevate your career with our Professional Skills Development designed students, working professionals.</p>
-                                </div>
-                                <div class="schedule-item-venue">
-                                    <div class="icon-box">
-                                        <img src="images/icon-location-white.svg" alt="">
-                                    </div>
-                                    <div class="schedule-item-venue-content">
-                                        <p>Street, Block 12 Sector 4, Ipsum City</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Event Schedule Item End -->
-
-                            <!-- Event Schedule Item Start -->
-                            <div class="event-schedule-item">
-                                <div class="schedule-image-box">
-                                    <div class="schedule-image">
-                                        <figure class="image-anime">
-                                            <img src="images/event-schedule-image-3.jpg" alt="">
-                                        </figure>
-                                    </div>
-                                    <div class="schedule-image-content">
-                                        <h3>8:30 AM - 6:00 PM</h3>
-                                        <p>20 June 2025</p>
-                                    </div>
-                                </div>
-                                <div class="schedule-item-content">
-                                    <h3><a href="schedule-single.html">Digital Marketing Masterclass</a></h3>
-                                    <p>Unlock your potential and elevate your career with our Professional Skills Development designed students, working professionals.</p>
-                                </div>
-                                <div class="schedule-item-venue">
-                                    <div class="icon-box">
-                                        <img src="images/icon-location-white.svg" alt="">
-                                    </div>
-                                    <div class="schedule-item-venue-content">
-                                        <p>Street, Block 12 Sector 4, Ipsum City</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Event Schedule Item End -->
-
-                            <!-- Event Schedule Item Start -->
-                            <div class="event-schedule-item">
-                                <div class="schedule-image-box">
-                                    <div class="schedule-image">
-                                        <figure class="image-anime">
-                                            <img src="images/event-schedule-image-4.jpg" alt="">
-                                        </figure>
-                                    </div>
-                                    <div class="schedule-image-content">
-                                        <h3>11:00 AM - 3:00 PM</h3>
-                                        <p>10 April 2025</p>
-                                    </div>
-                                </div>
-                                <div class="schedule-item-content">
-                                    <h3><a href="schedule-single.html">Annual Innovation Summit 2025</a></h3>
-                                    <p>Unlock your potential and elevate your career with our Professional Skills Development designed students, working professionals.</p>
-                                </div>
-                                <div class="schedule-item-venue">
-                                    <div class="icon-box">
-                                        <img src="images/icon-location-white.svg" alt="">
-                                    </div>
-                                    <div class="schedule-item-venue-content">
-                                        <p>Street, Block 12 Sector 4, Ipsum City</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Event Schedule Item End -->
-                        </div>
-                        <!-- Event Schedule Item List End -->
                     </div>
-                    <!-- Event Schedule Box End -->
+                </div>
+            </div>
+
+            <div class="col-md-6">
+                <div class="feature-item active wow fadeInUp" data-wow-delay="0.2s">
+                    <div class="icon-box">
+                        <img src="images/icon-feature-item-2.svg" alt="Fabrication Icon">
+                    </div>
+                    <div class="feature-item-body">
+                        <div class="feature-item-content">
+                            <h3>Exhibition Stand Fabrication & Production</h3>
+                            <p>As premier exhibition stand contractors in Dubai, Velmora Events and Exhibitions Fz Co handles your complete fabrication seamlessly within our dedicated production facility.</p>
+                            <p>This allows the House of Exhibitions team to maintain strict quality control, exceptionally fast turnaround times, and unmatched cost efficiency. Our fabrication services include:</p>
+
+                            <ul style="list-style: none; padding-left: 0; margin-bottom: 20px;">
+                                <li style="padding: 8px 0; font-weight: 600; color: white;"><i class="fa-solid fa-arrow-right" style="margin-right: 10px; color: white;"></i> Custom carpentry & joinery</li>
+                                <li style="padding: 8px 0; font-weight: 600; color: white;"><i class="fa-solid fa-arrow-right" style="margin-right: 10px; color: white;"></i> Metal fabrication</li>
+                                <li style="padding: 8px 0; font-weight: 600; color: white;"><i class="fa-solid fa-arrow-right" style="margin-right: 10px; color: white;"></i> LED integration</li>
+                                <li style="padding: 8px 0; font-weight: 600; color: white;"><i class="fa-solid fa-arrow-right" style="margin-right: 10px; color: white;"></i> Acrylic & glass work</li>
+                                <li style="padding: 8px 0; font-weight: 600; color: white;"><i class="fa-solid fa-arrow-right" style="margin-right: 10px; color: white;"></i> Graphic printing & branding</li>
+                                <li style="padding: 8px 0; font-weight: 600; color: white;"><i class="fa-solid fa-arrow-right" style="margin-right: 10px; color: white;"></i> Electrical & lighting installation</li>
+                            </ul>
+
+                            <p>We exclusively use premium materials and advanced manufacturing techniques to guarantee durability, safety, and full compliance with all exhibition venue regulations.</p>
+                        </div>
+                        <div class="feature-item-btn">
+                            <a href="contact.php" class="readmore-btn">Contact Us</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-12">
+                <div class="section-footer-text wow fadeInUp" data-wow-delay="0.4s">
+                    <p>Join Velmora Events and Exhibitions Fz Co and help weave innovation, quality, and success together worldwide.</p>
+                    <ul>
+                        <li><span class="counter">4.9</span>/5</li>
+                        <li>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                        </li>
+                        <li>Our 4200 Review</li>
+                    </ul>
                 </div>
             </div>
         </div>
     </div>
-    <!-- Our Event Schedule Section End -->
+</div>
 
-    <!-- Our Speakers Section Start -->
-    <div class="our-speakers">
-        <div class="container">
-            <div class="row section-row">
-                <div class="col-lg-12">
-                    <!-- Section Title Start -->
-                    <div class="section-title section-title-center">
-                        <h3 class="wow fadeInUp">Our Speakers</h3>
-                        <h2 class="text-anime-style-3" data-cursor="-opaque">Introducing the expert speakers joining our event</h2>
+<div class="types-of-stands py-5">
+    <div class="container">
+        <div class="row mb-5 text-center">
+            <div class="col-lg-8 mx-auto">
+                <h2 class="fw-bold mb-3">Types of Exhibition Stands We Build</h2>
+                <p class="lead text-muted">We offer a wide range of exhibition stand solutions depending on your event objectives and budget at Velmora Events and Exhibitions Fz Co.</p>
+            </div>
+        </div>
+
+        <div class="row g-4">
+            
+            <div class="col-md-6 col-lg-4">
+                <div class="card h-100 shadow-sm border-0 bg-light">
+                    <div class="card-body p-4">
+                        <h4 class="card-title fw-bold mb-3">
+                            <i class="fa-solid fa-star text-warning me-2"></i>Custom Exhibition Stands
+                        </h4>
+                        <p class="card-text text-secondary">Fully bespoke stands designed from scratch by the House of Exhibitions to match your branding and marketing goals.</p>
                     </div>
-                    <!-- Section Title End -->
                 </div>
             </div>
+
+            <div class="col-md-6 col-lg-4">
+                <div class="card h-100 shadow-sm border-0 bg-light">
+                    <div class="card-body p-4">
+                        <h4 class="card-title fw-bold mb-3">
+                            <i class="fa-solid fa-star text-warning me-2"></i>Modular Exhibition Stands
+                        </h4>
+                        <p class="card-text text-secondary">Cost-effective, reusable systems ideal for businesses attending multiple exhibitions, flawlessly executed by our team.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-6 col-lg-4">
+                <div class="card h-100 shadow-sm border-0 bg-light">
+                    <div class="card-body p-4">
+                        <h4 class="card-title fw-bold mb-3">
+                            <i class="fa-solid fa-star text-warning me-2"></i>Double Decker Stands
+                        </h4>
+                        <p class="card-text text-secondary">Multi-level stands that maximize space and create a premium corporate presence for your brand.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-6 col-lg-6">
+                <div class="card h-100 shadow-sm border-0 bg-light">
+                    <div class="card-body p-4">
+                        <h4 class="card-title fw-bold mb-3">
+                            <i class="fa-solid fa-star text-warning me-2"></i>Portable Display Solutions
+                        </h4>
+                        <p class="card-text text-secondary">Lightweight and easy-to-install systems provided by Velmora Events for smaller exhibitions and roadshows.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-6 col-lg-6">
+                <div class="card h-100 shadow-sm border-0 bg-light">
+                    <div class="card-body p-4">
+                        <h4 class="card-title fw-bold mb-3">
+                            <i class="fa-solid fa-star text-warning me-2"></i>Country Pavilion Stands
+                        </h4>
+                        <p class="card-text text-secondary">Large-scale pavilion builds managed by Velmora Events and Exhibitions Fz Co for government or international trade delegations.</p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="row mt-5 text-center">
+            <div class="col-12">
+                <div class="p-4 bg-dark text-white rounded shadow-sm">
+                    <p class="mb-0 fs-5 fw-semibold">No matter the size or complexity, the House of Exhibitions team ensures flawless execution.</p>
+                    <a href="contact.php" class="btn btn-primary mt-3 px-4 py-2">Contact Us Today</a>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<style>
+    /* Custom CSS for Innovative Hover Effects & Styling */
+    .process-section {
+        background-color: #000000; /* Deep Black Background */
+        padding: 80px 0;
+        color: #ffffff;
+    }
+    .process-card {
+        background-color: #151515; /* Slightly lighter black for cards */
+        border-radius: 15px;
+        transition: all 0.4s ease-in-out;
+        border: 2px solid transparent;
+        height: 100%;
+        position: relative;
+        overflow: hidden;
+    }
+    .process-card:hover {
+        transform: translateY(-10px);
+    }
+    
+    /* Multi-color Theme Accents */
+    .card-red:hover { border-color: #dc3545; box-shadow: 0 10px 25px rgba(220, 53, 69, 0.3); }
+    .card-yellow:hover { border-color: #ffc107; box-shadow: 0 10px 25px rgba(255, 193, 7, 0.3); }
+    .card-green:hover { border-color: #198754; box-shadow: 0 10px 25px rgba(25, 135, 84, 0.3); }
+    .card-white:hover { border-color: #ffffff; box-shadow: 0 10px 25px rgba(255, 255, 255, 0.2); }
+    
+    .icon-box-custom {
+        width: 80px;
+        height: 80px;
+        border-radius: 50%;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 2rem;
+        margin-bottom: 20px;
+        transition: transform 0.4s ease;
+    }
+    .process-card:hover .icon-box-custom {
+        transform: scale(1.1) rotate(5deg);
+    }
+    
+    /* Number Watermark */
+    .step-number-bg {
+        position: absolute;
+        top: -10px;
+        right: -10px;
+        font-size: 100px;
+        font-weight: 900;
+        opacity: 0.05;
+        color: #ffffff;
+        z-index: 0;
+        transition: all 0.4s ease;
+    }
+    .process-card:hover .step-number-bg {
+        opacity: 0.15;
+        transform: scale(1.1);
+    }
+    .card-content {
+        position: relative;
+        z-index: 1;
+    }
+</style>
+
+<div class="process-section">
+    <div class="container">
+        <div class="row justify-content-center mb-5 text-center">
+            <div class="col-lg-8">
+                <h2 class="fw-bold display-5 mb-3" style="color: #ffffff;">Our Exhibition Stand Process</h2>
+                <p class="lead" style="color: #cccccc;">
+                    A successful exhibition stand requires careful planning and coordination. Our process ensures smooth execution from start to finish.
+                </p>
+            </div>
+        </div>
+
+        <div class="row g-4 justify-content-center">
             
-            <div class="row">
-                <div class="col-lg-4 col-md-6">
-                    <!-- Speaker Item Start -->
-                    <div class="speaker-item wow fadeInUp">
-                        <!-- Speaker Item Image Start -->
-                        <div class="speaker-item-image">
-                            <a href="speaker-single.html" data-cursor-text="View">
-                                <figure class="image-anime">
-                                    <img src="images/speaker-1.jpg" alt="">
-                                </figure>
-                            </a>
-                
-                            <!-- Speaker Social List Start -->
-                            <div class="speaker-social-list">
-                                <ul>
-                                    <li><a href="#" class="social-icon"><i class="fa-brands fa-pinterest-p"></i></a></li>
-                                    <li><a href="#" class="social-icon"><i class="fa-brands fa-instagram"></i></a></li>
-                                    <li><a href="#" class="social-icon"><i class="fa-brands fa-x-twitter"></i></a></li>
-                                    <li><a href="#" class="social-icon"><i class="fa-brands fa-facebook-f"></i></a></li>
-                                </ul>
-                            </div>
-                            <!-- Speaker Social List End -->
+            <div class="col-lg-4 col-md-6">
+                <div class="process-card card-red p-4 shadow-sm text-center">
+                    <div class="step-number-bg">1</div>
+                    <div class="card-content">
+                        <div class="icon-box-custom bg-danger text-white shadow">
+                            <i class="fa-solid fa-handshake"></i>
                         </div>
-                        <!-- Speaker Item Image End -->
-                
-                        <!-- Speaker Item Body Start -->
-                        <div class="speaker-item-body"> 
-                            <!-- Speaker Item Content Start -->
-                            <div class="speaker-item-content">
-                                <h2><a href="speaker-single.html">Sophia Rodrigues</a></h2>
-                                <p>Global Marketing Director</p>
-                            </div>
-                            <!-- Speaker Item Content End -->
-                            
-                            <!-- Speaker Social Button Start -->
-                            <div class="speaker-social-btn">
-                                <a href="#"><img src="images/icon-speaker-share-white.svg" alt=""></a>
-                            </div> 
-                            <!-- Speaker Social Button End -->
-                        </div>
-                        <!-- Speaker Item Body End -->
+                        <h4 class="fw-bold text-danger mb-2">Step 1</h4>
+                        <h5 class="fw-semibold text-white mb-3">Consultation & Briefing</h5>
+                        <p style="color: #aaaaaa; font-size: 15px;">We understand your objectives, target audience, budget, and event requirements.</p>
                     </div>
-                    <!-- Speaker Item End -->
                 </div>
+            </div>
 
-                <div class="col-lg-4 col-md-6">
-                    <!-- Speaker Item Start -->
-                    <div class="speaker-item wow fadeInUp" data-wow-delay="0.2s">
-                        <!-- Speaker Item Image Start -->
-                        <div class="speaker-item-image">
-                            <a href="speaker-single.html" data-cursor-text="View">
-                                <figure class="image-anime">
-                                    <img src="images/speaker-2.jpg" alt="">
-                                </figure>
-                            </a>
-                
-                            <!-- Speaker Social List Start -->
-                            <div class="speaker-social-list">
-                                <ul>
-                                    <li><a href="#" class="social-icon"><i class="fa-brands fa-pinterest-p"></i></a></li>
-                                    <li><a href="#" class="social-icon"><i class="fa-brands fa-instagram"></i></a></li>
-                                    <li><a href="#" class="social-icon"><i class="fa-brands fa-x-twitter"></i></a></li>
-                                    <li><a href="#" class="social-icon"><i class="fa-brands fa-facebook-f"></i></a></li>
-                                </ul>
-                            </div>
-                            <!-- Speaker Social List End -->
+            <div class="col-lg-4 col-md-6">
+                <div class="process-card card-yellow p-4 shadow-sm text-center">
+                    <div class="step-number-bg">2</div>
+                    <div class="card-content">
+                        <div class="icon-box-custom bg-warning text-dark shadow">
+                            <i class="fa-solid fa-cube"></i>
                         </div>
-                        <!-- Speaker Item Image End -->
-                
-                        <!-- Speaker Item Body Start -->
-                        <div class="speaker-item-body"> 
-                            <!-- Speaker Item Content Start -->
-                            <div class="speaker-item-content">
-                                <h2><a href="speaker-single.html">Jacob Jones</a></h2>
-                                <p>Lead AI Research Scientist</p>
-                            </div>
-                            <!-- Speaker Item Content End -->
-                            
-                            <!-- Speaker Social Button Start -->
-                            <div class="speaker-social-btn">
-                                <a href="#"><img src="images/icon-speaker-share-white.svg" alt=""></a>
-                            </div> 
-                            <!-- Speaker Social Button End -->
-                        </div>
-                        <!-- Speaker Item Body End -->
+                        <h4 class="fw-bold text-warning mb-2">Step 2</h4>
+                        <h5 class="fw-semibold text-white mb-3">Concept & 3D Design</h5>
+                        <p style="color: #aaaaaa; font-size: 15px;">Our designers create visual concepts and detailed 3D renderings for approval.</p>
                     </div>
-                    <!-- Speaker Item End -->
                 </div>
+            </div>
 
-                <div class="col-lg-4 col-md-6">
-                    <!-- Speaker Item Start -->
-                    <div class="speaker-item wow fadeInUp" data-wow-delay="0.4s">
-                        <!-- Speaker Item Image Start -->
-                        <div class="speaker-item-image">
-                            <a href="speaker-single.html" data-cursor-text="View">
-                                <figure class="image-anime">
-                                    <img src="images/speaker-3.jpg" alt="">
-                                </figure>
-                            </a>
-                
-                            <!-- Speaker Social List Start -->
-                            <div class="speaker-social-list">
-                                <ul>
-                                    <li><a href="#" class="social-icon"><i class="fa-brands fa-pinterest-p"></i></a></li>
-                                    <li><a href="#" class="social-icon"><i class="fa-brands fa-instagram"></i></a></li>
-                                    <li><a href="#" class="social-icon"><i class="fa-brands fa-x-twitter"></i></a></li>
-                                    <li><a href="#" class="social-icon"><i class="fa-brands fa-facebook-f"></i></a></li>
-                                </ul>
-                            </div>
-                            <!-- Speaker Social List End -->
+            <div class="col-lg-4 col-md-6">
+                <div class="process-card card-green p-4 shadow-sm text-center">
+                    <div class="step-number-bg">3</div>
+                    <div class="card-content">
+                        <div class="icon-box-custom bg-success text-white shadow">
+                            <i class="fa-solid fa-cogs"></i>
                         </div>
-                        <!-- Speaker Item Image End -->
-                
-                        <!-- Speaker Item Body Start -->
-                        <div class="speaker-item-body"> 
-                            <!-- Speaker Item Content Start -->
-                            <div class="speaker-item-content">
-                                <h2><a href="speaker-single.html">Arlene McCoy</a></h2>
-                                <p>Innovation Strategy Expert</p>
-                            </div>
-                            <!-- Speaker Item Content End -->
-                            
-                            <!-- Speaker Social Button Start -->
-                            <div class="speaker-social-btn">
-                                <a href="#"><img src="images/icon-speaker-share-white.svg" alt=""></a>
-                            </div> 
-                            <!-- Speaker Social Button End -->
-                        </div>
-                        <!-- Speaker Item Body End -->
+                        <h4 class="fw-bold text-success mb-2">Step 3</h4>
+                        <h5 class="fw-semibold text-white mb-3">Engineering & Production</h5>
+                        <p style="color: #aaaaaa; font-size: 15px;">Once approved, we move to fabrication with quality checks at every stage.</p>
                     </div>
-                    <!-- Speaker Item End -->
                 </div>
-                
-                <div class="col-lg-12">
-                    <!-- Section Footer Text Start -->
-                    <div class="section-footer-text section-satisfy-img wow fadeInUp" data-wow-delay="0.6s">
-                        <!-- Satisfy Client Images Start -->
-                        <div class="satisfy-client-images">
-                            <div class="satisfy-client-image">
-                                <figure class="image-anime">
-                                    <img src="images/author-1.jpg" alt="">
-                                </figure>
-                            </div>
-                            <div class="satisfy-client-image add-more">
+            </div>
+
+            <div class="col-lg-4 col-md-6">
+                <div class="process-card card-white p-4 shadow-sm text-center">
+                    <div class="step-number-bg">4</div>
+                    <div class="card-content">
+                        <div class="icon-box-custom bg-white text-dark shadow">
+                            <i class="fa-solid fa-truck-fast"></i>
+                        </div>
+                        <h4 class="fw-bold text-white mb-2">Step 4</h4>
+                        <h5 class="fw-semibold text-white mb-3">Installation at Venue</h5>
+                        <p style="color: #aaaaaa; font-size: 15px;">Our team handles logistics, on-site assembly, and technical setup.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6">
+                <div class="process-card card-red p-4 shadow-sm text-center">
+                    <div class="step-number-bg">5</div>
+                    <div class="card-content">
+                        <div class="icon-box-custom bg-danger text-white shadow">
+                            <i class="fa-solid fa-warehouse"></i>
+                        </div>
+                        <h4 class="fw-bold text-danger mb-2">Step 5</h4>
+                        <h5 class="fw-semibold text-white mb-3">Dismantling & Storage</h5>
+                        <p style="color: #aaaaaa; font-size: 15px;">Post-event dismantling and storage options are available.</p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="row mt-5 text-center">
+            <div class="col-12">
+                <div class="d-inline-block px-5 py-3 border border-secondary rounded-pill" style="background-color: #111111;">
+                    <h5 class="mb-0 fw-bold" style="color: #ffc107;">
+                        <i class="fa-solid fa-check-circle text-success me-2"></i> This turnkey approach ensures a stress-free exhibition experience.
+                    </h5>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<!-- Our Benefits Section Start -->
+<div class="our-benefits">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-xl-6">
+                <!-- Our Benefits Content Start -->
+                <div class="our-benefits-content">
+                    <!-- Section Title Start -->
+                    <div class="section-title">
+                        <h2 class="text-anime-style-3" data-cursor="-opaque">Why Choose NS Events & Exhibitions?</h2>
+                    </div>
+                    <!-- Section Title End -->
+
+                    <!-- Our Benefits Item List Start -->
+                    <div class="benefits-item-list">
+    <div class="benefits-item wow fadeInUp" data-wow-delay="0.2s">
+        <div class="icon-box">
+            <img src="images/icon-benefits-item-1.svg" alt="Design Team">
+        </div>
+        <div class="benefits-item-content">
+            <h3>In-House Design & Production</h3>
+            <p>Our dedicated team handles everything from creative concepts to final fabrication, ensuring consistent quality and a seamless workflow for your exhibition stand.</p>
+        </div>
+    </div>
+    <div class="benefits-item wow fadeInUp" data-wow-delay="0.4s">
+        <div class="icon-box">
+            <img src="images/icon-benefits-item-2.svg" alt="Management">
+        </div>
+        <div class="benefits-item-content">
+            <h3>Experienced Project Management</h3>
+            <p>From DWTC to Expo City, our managers navigate venue regulations and technical approvals, guaranteeing timely delivery and stress-free execution.</p>
+        </div>
+    </div>    
+    </div>
+                    <!-- Our Benefits Item List End -->
+
+                    <!-- Our Benefits Footer Start -->
+                    <div class="our-benefits-footer wow fadeInUp" data-wow-delay="0.6s">
+                        <!-- Our Benefits Button Start -->
+                        <div class="our-benefits-btn">
+                            <a href="contact.php" class="btn-default">Contact Us</a>
+                        </div>
+                        <!-- Our Benefits Button End -->
+
+                        <!-- About Contact Box Start -->
+                        <div class="about-contact-box">
+                            <div class="icon-box">
                                 <img src="images/icon-phone-white.svg" alt="">
                             </div>
+                            <div class="about-contact-box-content">
+                                <h3>Call Now!</h3>
+                                <p><a href="tel:+971523426256">🇦🇪 +971 52 342 6256</a></p>
+                            </div>
                         </div>
-                        <!-- Satisfy Client Images End -->    
-                        <p>Join our speaker and help weave innovation, quality, and success together worldwide.</p>
+                        <!-- About Contact Box End -->
                     </div>
-                    <!-- Section Footer Text End -->
+                    <!-- Our Benefits Footer End -->
                 </div>
+                <!-- Our Benefits Content End -->
+            </div>
+
+            <div class="col-xl-6">
+                <!-- Our Benefits Images Start -->
+                <div class="our-benefits-images">
+                    <!-- Our Benefits Image Start -->
+                    <div class="our-benefits-img image-1">
+                        <figure class="image-anime reveal">
+                            <img src="images/design-production.png" alt="">
+                        </figure>
+                    </div>
+                    <!-- Our Benefits Image End -->
+
+                    <!-- Our Benefits Image Start -->
+                    <div class="our-benefits-img image-2">
+                        <figure class="image-anime reveal">
+                            <img src="images/project-management.png" alt="">
+                        </figure>
+                    </div>
+                    <!-- Our Benefits Image End -->
+                </div>
+                <!-- Why Choose Images End -->
             </div>
         </div>
     </div>
-    <!-- Our Speakers Section End -->
+</div>
+<!-- Our Benefits Section End -->
 
-    <!-- Interactive Process Layout Start -->
-    <div class="interactive interactive-process-layout">
-        <!-- Interactive Process Wrapper Start -->
-        <div class="interactive-interactive-process-wrapper interactive-wrapper">
-            <div class="interactive-con">
-                <!-- Interactive Inner Grid Start -->
-                <div class="interactive-con-inner interactive-grid">
-                    <!-- Interactive Process Item Start -->
-                    <div class="interactive-process-item">
-                        <div class="interactive-inner-process" data-index="0">
-                            <div class="process-content-wap">
-                                <div class="interactive-process-item-wap">
-                                    <div class="interactive-process-item-title-wap">
-                                        <h4>Panels</h4>
-                                        <h3><a href="#">Interactive Panel Discussions</a></h3>
-                                    </div>
-                                    <div class="interactive-process-item-body-wap">
-                                        <div class="interactive-process-item-content-wap">
-                                            <p>Build meaningful relationships with industry leaders, innovators.</p>
-                                        </div>
+<style>
+    .velmora-features {
+        background-color: #734bdf; 
+        color: #ffffff;
+        padding: 80px 0;
+    }
+    
+    .feature-card-modern {
+        background: #1a1a1a;
+        border-radius: 20px;
+        overflow: hidden;
+        border: 1px solid #333;
+        transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+    }
 
-                                        <div class="interactive-process-item-btn">
-                                            <a href="#" class="readmore-btn">read more</a>
-                                        </div>
-                                    </div>
-                                </div>                                
-                            </div>
-                        </div>
-                    </div>
-                    <!-- Interactive Process Item End -->
-                    
-                    <!-- Interactive Process Item Start -->
-                    <div class="interactive-process-item">
-                        <div class="interactive-inner-process activate" data-index="1">
-                            <div class="process-content-wap">
-                                <div class="interactive-process-item-wap">                                    
-                                    <div class="interactive-process-item-title-wap">
-                                        <h4>Networking</h4>
-                                        <h3><a href="#">Connect With Top Professionals</a></h3>
-                                    </div>
-                                    <div class="interactive-process-item-body-wap">
-                                        <div class="interactive-process-item-content-wap">
-                                            <p>Build meaningful relationships with industry leaders, innovators.</p>
-                                        </div>
+    .feature-card-modern:hover {
+        transform: translateY(-15px);
+        border-color: #f7931e;
+        box-shadow: 0 15px 30px rgba(247, 147, 30, 0.3);
+    }
 
-                                        <div class="interactive-process-item-btn">
-                                            <a href="#" class="readmore-btn">read more</a>
-                                        </div>
-                                    </div>                                                                                                    
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- Interactive Process Item End -->
+    .feature-img-wrapper {
+        position: relative;
+        height: 240px;
+        overflow: hidden;
+    }
 
-                    <!-- Interactive Process Item Start -->
-                    <div class="interactive-process-item">
-                        <div class="interactive-inner-process" data-index="2">
-                            <div class="process-content-wap">
-                                <div class="interactive-process-item-wap">
-                                    <div class="interactive-process-item-title-wap">
-                                        <h4>Resources</h4>
-                                        <h3><a href="#">Exclusive Access Event Material</a></h3>
-                                    </div>
-                                    <div class="interactive-process-item-body-wap">
-                                        <div class="interactive-process-item-content-wap">
-                                            <p>Build meaningful relationships with industry leaders, innovators.</p>
-                                        </div>
+    .feature-img-wrapper img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        transition: transform 0.5s ease;
+    }
 
-                                        <div class="interactive-process-item-btn">
-                                            <a href="#" class="readmore-btn">read more</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- Interactive Process Item End -->
-                    
-                    <!-- Interactive Process Item Start -->
-                    <div class="interactive-process-item">
-                        <div class="interactive-inner-process" data-index="3">
-                            <div class="process-content-wap">
-                                <div class="interactive-process-item-wap">
-                                    <div class="interactive-process-item-title-wap">
-                                        <h4>Updates</h4>
-                                        <h3><a href="#">Real-Time Event Announcement</a></h3>
-                                    </div>
-                                    <div class="interactive-process-item-body-wap">
-                                        <div class="interactive-process-item-content-wap">
-                                            <p>Build meaningful relationships with industry leaders, innovators.</p>
-                                        </div>
+    .feature-card-modern:hover .feature-img-wrapper img {
+        transform: scale(1.1);
+    }
 
-                                        <div class="interactive-process-item-btn">
-                                            <a href="#" class="readmore-btn">read more</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- Interactive Process Item End -->
-                </div>
-                <!-- Interactive Inner Grid End -->
+    .feature-number-badge {
+        position: absolute;
+        top: 20px;
+        left: 20px;
+        background: #f7931e;
+        color: #fff;
+        font-weight: 800;
+        font-size: 1.2rem;
+        padding: 10px 20px;
+        border-radius: 30px;
+        box-shadow: 0 5px 15px rgba(0,0,0,0.5);
+        z-index: 2;
+    }
 
-                <!-- Interactive Process Image Start -->
-                <div class="interactive-process-list-image">
-                    <div class="interactive-process-image img-0" data-bg="images/interactive-process-image-1.jpg" style="background-image: url('images/interactive-process-image-1.jpg');"></div>
-                    <div class="interactive-process-image img-1 show" data-bg="images/interactive-process-image-2.jpg" style="background-image: url('images/interactive-process-image-2.jpg');"></div>
-                    <div class="interactive-process-image img-2" data-bg="images/interactive-process-image-3.jpg" style="background-image: url('images/interactive-process-image-3.jpg');"></div>
-                    <div class="interactive-process-image img-3" data-bg="images/interactive-process-image-4.jpg" style="background-image: url('images/interactive-process-image-4.jpg');"></div>
-                </div>
-                <!-- Interactive Process Image End -->
+    .feature-img-overlay {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        height: 50%;
+        background: linear-gradient(to top, #1a1a1a, transparent);
+        z-index: 1;
+    }
+
+    .feature-card-body {
+        padding: 30px;
+        flex-grow: 1;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .feature-card-body h3 {
+        font-weight: 700;
+        margin-bottom: 15px;
+        font-size: 1.5rem;
+        color: #ffffff; 
+    }
+
+    .custom-feature-list {
+        list-style: none;
+        padding: 0;
+        margin: 20px 0;
+        flex-grow: 1;
+    }
+
+    .custom-feature-list li {
+        margin-bottom: 12px;
+        font-size: 0.95rem;
+        color: #cccccc;
+        display: flex; /* Aligns the icon and text perfectly */
+        align-items: flex-start;
+        gap: 10px; /* Space between icon and text */
+    }
+
+    .feature-footer-text {
+        font-size: 0.9rem;
+        font-style: italic;
+        color: #999;
+        margin-top: auto;
+        padding-top: 15px;
+        border-top: 1px dashed #444;
+    }
+</style>
+
+<div class="velmora-features">
+    <div class="container">
+        <div class="row justify-content-center mb-5 text-center">
+            <div class="col-lg-8">
+                <h2 class="display-5 fw-bold mb-3 text-white">Why Partner With Us?</h2>
+                <p class="lead" style="color: #e0d4fc;">The House of Exhibitions standard: Where innovative design meets flawless technical execution.</p>
             </div>
         </div>
-        <!-- Interactive Process Wrapper End -->
-    </div>
-    <!-- Interactive Process Layout End -->
 
-    <!-- Our Pricing Section Start -->
-    <div class="our-pricing">
-        <div class="container">
-            <div class="row section-row">
-                <div class="col-lg-12">
-                    <!-- Section Title Start -->
-                    <div class="section-title section-title-center">
-                        <h3 class="wow fadeInUp">Pricing Plan</h3>
-                        <h2 class="text-anime-style-3" data-cursor="-opaque">Discover our flexible pricing plans for attendees</h2>
+        <div class="row g-4">
+            
+            <div class="col-lg-4 col-md-6">
+                <div class="feature-card-modern">
+                    <div class="feature-img-wrapper">
+                        <div class="feature-number-badge">01</div>
+                        <img src="images/Experienced-Exhibition-Team.png" alt="Velmora Experienced Team">
+                        <div class="feature-img-overlay"></div>
                     </div>
-                    <!-- Section Title End -->
-                </div>
-            </div>
-
-            <div class="row">
-                <div class="col-xl-4 col-md-6">
-                    <!-- Pricing Item Start -->
-                    <div class="pricing-item wow fadeInUp">
-                        <!-- Pricing Item Header Start -->
-                        <div class="pricing-item-header">
-                            <div class="pricing-item-header-box">
-                                <div class="icon-box">
-                                    <img src="images/icon-pricing-1.svg" alt="">
-                                </div>
-                                <div class="pricing-item-header-content">
-                                    <h3>Basic Package</h3>
-                                    <p>Perfect for first-time attend</p>
-                                </div>
-                            </div> 
-                            <div class="pricing-item-price">
-                                <h2>$49<sub> /One-Time</sub></h2>
-                            </div>
-                        </div>
-                        <!-- Pricing Item Header End -->                        
-
-                        <!-- Pricing Item Body Start -->
-                        <div class="pricing-item-body">
-                            <div class="pricing-item-body-content">
-                                <h3>What's Included:</h3>
-                                <p>It could relate to a subscription</p>
-                            </div>
-                            <div class="pricing-item-list">   
-                                <ul>
-                                    <li>Entry to all standard sessions</li>
-                                    <li>Reserved seating in select session</li>
-                                    <li>Meet & greet with speakers</li>
-                                    <li>Premium networking lounge</li>
-                                </ul>
-                            </div>
-                            <div class="pricing-item-btn">
-                                <a href="contact.html" class="btn-default">Get Standard Pass</a>
-                            </div>
-                        </div>
-                        <!-- Pricing Item Body End -->
-                    </div>
-                    <!-- Pricing Item End -->
-                </div>
-
-                <div class="col-xl-4 col-md-6">
-                    <!-- Pricing Item Start -->
-                    <div class="pricing-item highlighted-box wow fadeInUp" data-wow-delay="0.2s">
-                        <!-- Pricing Item Header Start -->
-                        <div class="pricing-item-header">
-                            <div class="pricing-item-header-box">
-                                <div class="icon-box">
-                                    <img src="images/icon-pricing-2.svg" alt="">
-                                </div>                                
-                                <div class="pricing-item-header-content">
-                                    <h3>Standard Pass</h3>
-                                    <p>Perfect for first-time attend</p>
-                                </div>                                
-                            </div> 
-                            <div class="pricing-item-price">
-                                <h2>$59<sub> /One-Time</sub></h2>
-                            </div>
-                        </div>
-                        <!-- Pricing Item Header End -->                        
-
-                        <!-- Pricing Item Body Start -->
-                        <div class="pricing-item-body">
-                            <div class="pricing-item-body-content">
-                                <h3>What's Included:</h3>
-                                <p>It could relate to a subscription</p>
-                            </div>
-                            <div class="pricing-item-list">                                
-                                <ul>
-                                    <li>Entry to all standard sessions</li>
-                                    <li>Reserved seating in select session</li>
-                                    <li>Meet & greet with speakers</li>
-                                    <li>Premium networking lounge</li>
-                                </ul>
-                            </div>
-                            <div class="pricing-item-btn">
-                                <a href="contact.html" class="btn-default">Get Standard Pass</a>
-                            </div>
-                        </div>
-                        <!-- Pricing Item Body End -->
-                    </div>
-                    <!-- Pricing Item End -->
-                </div>
-
-                <div class="col-xl-4 col-md-6">
-                    <!-- Pricing Item Start -->
-                    <div class="pricing-item wow fadeInUp" data-wow-delay="0.4s">
-                        <!-- Pricing Item Header Start -->
-                        <div class="pricing-item-header">
-                            <div class="pricing-item-header-box">
-                                <div class="icon-box">
-                                    <img src="images/icon-pricing-3.svg" alt="">
-                                </div>
-                                <div class="pricing-item-header-content">
-                                    <h3>Premium Pass</h3>
-                                    <p>Perfect for first-time attend</p>
-                                </div>
-                            </div> 
-                            <div class="pricing-item-price">
-                                <h2>$69<sub> /One-Time</sub></h2>
-                            </div>
-                        </div>
-                        <!-- Pricing Item Header End -->               
-
-                        <!-- Pricing Item Body Start -->
-                        <div class="pricing-item-body">
-                            <div class="pricing-item-body-content">
-                                <h3>What's Included:</h3>
-                                <p>It could relate to a subscription</p>
-                            </div>
-                            <div class="pricing-item-list">                                
-                                <ul>
-                                    <li>Entry to all standard sessions</li>
-                                    <li>Reserved seating in select session</li>
-                                    <li>Meet & greet with speakers</li>
-                                    <li>Premium networking lounge</li>
-                                </ul>
-                            </div>
-                            <div class="pricing-item-btn">
-                                <a href="contact.html" class="btn-default">Get Standard Pass</a>
-                            </div>
-                        </div>
-                        <!-- Pricing Item Body End -->
-                    </div>
-                    <!-- Pricing Item End -->
-                </div>
-
-                <div class="col-lg-12">
-                    <!-- Pricing Benifit List Start -->
-                    <div class="pricing-benefit-list wow fadeInUp" data-wow-delay="0.6s">
-                        <ul>
-                            <li><img src="images/icon-pricing-benefit-1.svg" alt="">Get 30 day free trial</li>
-                            <li><img src="images/icon-pricing-benefit-2.svg" alt="">No any hidden fee pay</li>
-                            <li><img src="images/icon-pricing-benefit-3.svg" alt="">You can cancel anytime </li>
+                    <div class="feature-card-body">
+                        <h3>Experienced Exhibition Team</h3>
+                        <p class="text-secondary" style="font-size: 0.95rem;">Velmora Events and Exhibitions Fz Co is trusted across Dubai because our dedicated House of Exhibitions team includes:</p>
+                        <ul class="custom-feature-list">
+                            <li><i class="fa-solid fa-check mt-1" style="color: #f7931e;"></i> Expert exhibition stand designers</li>
+                            <li><i class="fa-solid fa-check mt-1" style="color: #f7931e;"></i> Skilled booth fabricators</li>
+                            <li><i class="fa-solid fa-check mt-1" style="color: #f7931e;"></i> Dedicated project managers</li>
+                            <li><i class="fa-solid fa-check mt-1" style="color: #f7931e;"></i> On-site installation & support crew</li>
                         </ul>
+                        <p class="feature-footer-text">We handle the entire booth process so you can focus on products, leads, and growth.</p>
                     </div>
-                    <!-- Pricing Benifit List End -->
                 </div>
             </div>
-        </div>
-    </div>
-    <!-- Our Pricing Section End -->
 
-    <!-- Intro Video Section Start -->
-    <div class="intro-video">
-        <div class="container-fluid">
-            <div class="row no-gutters">
-                <div class="col-lg-12">
-                    <!-- Intro Video Box Start -->
-                    <div class="intro-video-box wow fadeInUp" data-wow-delay="0.2s">
-                        <!-- Intro Video Image Start -->
-                        <div class="intro-video-image">
-                            <figure>
-                                <img src="images/intro-video-image.jpg" alt="">
-                            </figure>
-                        </div>
-                        <!-- Intro Video Image End -->
-                        
-                        <!-- Video Play Button Start -->
-                        <div class="video-play-button">
-                            <a href="https://www.youtube.com/watch?v=Y-x0efG1seA" class="popup-video" data-cursor-text="Play">
-                                <i class="fa-solid fa-play"></i>
-                            </a>
-                        </div>
-                        <!-- Video Play Button End -->
+            <div class="col-lg-4 col-md-6">
+                <div class="feature-card-modern">
+                    <div class="feature-img-wrapper">
+                        <div class="feature-number-badge">02</div>
+                        <img src="images/Innovative-Approach.png" alt="House of Exhibitions Innovative Design">
+                        <div class="feature-img-overlay"></div>
                     </div>
-                    <!-- Intro Video Box End -->
+                    <div class="feature-card-body">
+                        <h3>Innovative Approach</h3>
+                        <p class="text-secondary" style="font-size: 0.95rem;">We don't design “just another booth.” As premier builders in Dubai, Velmora creates stands that deliver ultimate value:</p>
+                        <ul class="custom-feature-list">
+                            <li><i class="fa-solid fa-check mt-1" style="color: #f7931e;"></i> Optimized visitor flow</li>
+                            <li><i class="fa-solid fa-check mt-1" style="color: #f7931e;"></i> Stronger brand visibility</li>
+                            <li><i class="fa-solid fa-check mt-1" style="color: #f7931e;"></i> High-quality finishing</li>
+                            <li><i class="fa-solid fa-check mt-1" style="color: #f7931e;"></i> Smart layouts for meetings & demos</li>
+                        </ul>
+                        <p class="feature-footer-text">Every House of Exhibitions design is built strictly around your business goals.</p>
+                    </div>
                 </div>
             </div>
+
+            <div class="col-lg-4 col-md-6">
+                <div class="feature-card-modern">
+                    <div class="feature-img-wrapper">
+                        <div class="feature-number-badge">03</div>
+                        <img src="images/Fully-Equipped-Workshop.png" alt="Velmora Fabrication Workshop">
+                        <div class="feature-img-overlay"></div>
+                    </div>
+                    <div class="feature-card-body">
+                        <h3>Fully Equipped Workshop</h3>
+                        <p class="text-secondary" style="font-size: 0.95rem;">All Velmora booths and stands are meticulously crafted using our in-house, professional production setup. We focus on:</p>
+                        <ul class="custom-feature-list">
+                            <li><i class="fa-solid fa-check mt-1" style="color: #f7931e;"></i> Precision fabrication</li>
+                            <li><i class="fa-solid fa-check mt-1" style="color: #f7931e;"></i> Premium finishing & materials</li>
+                            <li><i class="fa-solid fa-check mt-1" style="color: #f7931e;"></i> Guaranteed on-time delivery</li>
+                            <li><i class="fa-solid fa-check mt-1" style="color: #f7931e;"></i> Eco-conscious build options</li>
+                        </ul>
+                        <p class="feature-footer-text">Ensuring structural integrity, durability, and a stunning final presentation.</p>
+                    </div>
+                </div>
+            </div>
+
         </div>
     </div>
-    <!-- Intro Video Section End -->
+</div>
 
-    <!-- Our Faqs Section Start -->
-    <div class="our-faqs">
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col-xl-5">
-                    <!-- Faqs Image Box Start -->
-                    <div class="faqs-image-box wow fadeInUp" data-wow-delay="0.2s">
-                        <!-- Faqs Image Start -->
-                        <div class="faqs-image">
-                            <figure class="image-anime">
-                                <img src="images/faqs-image.jpg" alt="">
-                            </figure>
-                        </div>
-                        <!-- Faqs Image End -->
+<!-- Our Faqs Section Start -->
+<div class="our-faqs">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-xl-5">
+                <!-- Faqs Image Box Start -->
+                <div class="faqs-image-box wow fadeInUp" data-wow-delay="0.2s">
+                    <!-- Faqs Image Start -->
+                    <div class="faqs-image">
+                        <figure class="image-anime">
+                            <img src="images/about-faq.png" alt="">
+                        </figure>
+                    </div>
+                    <!-- Faqs Image End -->
 
-                        <!-- Faqs CTA Image Box Start -->
-                        <div class="faqs-cta-image-box">
-                            <!-- Faqs CTA Box Start -->
-                            <div class="faqs-cta-box">
-                                <!-- Faqs CTA Box Title Start -->
-                                <div class="faqs-cta-box-title">
-                                    <h3>Your Questions, Clearly Answer</h3>
-                                </div>
-                                <!-- Faqs CTA Box Title End -->
-
-                                <!-- Faqs CTA Box Item Start -->
-                                <div class="faqs-cta-box-item">
-                                    <div class="icon-box">
-                                        <img src="images/icon-phone-accent.svg" alt="">
-                                    </div>
-                                    <p><a href="tel:+971523426256">🇦🇪 +971 52 342 6256</a></p>
-                                </div>
-                                <!-- Faqs CTA Box Item End -->
+                    <!-- Faqs CTA Image Box Start -->
+                    <div class="faqs-cta-image-box">
+                        <!-- Faqs CTA Box Start -->
+                        <div class="faqs-cta-box">
+                            <!-- Faqs CTA Box Title Start -->
+                            <div class="faqs-cta-box-title">
+                                <h3>Your Questions, Clearly Answer</h3>
                             </div>
-                            <!-- Faqs CTA Box End -->
-                        </div>
-                        <!-- Faqs CTA Image Box End -->
-                    </div>
-                    <!-- Faqs Image Box End -->
-                </div>
+                            <!-- Faqs CTA Box Title End -->
 
+                            <!-- Faqs CTA Box Item Start -->
+                            <div class="faqs-cta-box-item">
+                                <div class="icon-box">
+                                    <img src="images/icon-phone-accent.svg" alt="">
+                                </div>
+                                <p><a href="tel:+971523426256">🇦🇪 +971 52 342 6256</a></p>
+                            </div>
+                            <!-- Faqs CTA Box Item End -->
+                        </div>
+                        <!-- Faqs CTA Box End -->
+                    </div>
+                    <!-- Faqs CTA Image Box End -->
+                </div>
+                <!-- Faqs Image Box End -->
+            </div>
+
+                <!-- Faqs Content Start -->
                 <div class="col-xl-7">
-                    <!-- Faqs Content Start -->
-                    <div class="faqs-content">
-                        <!-- Section Title Start -->
-                        <div class="section-title">
-                            <h3 class="wow fadeInUp">FAQ's</h3>
-                            <h2 class="text-anime-style-3" data-cursor="-opaque">What our customers say about their experience</h2>
-                        </div>
-                        <!-- Section Title End -->
-
-                        <!-- FAQ Accordion Start -->
-                        <div class="faq-accordion" id="accordion">
-                            <!-- FAQ Item Start -->
-                            <div class="accordion-item wow fadeInUp">
-                                <h2 class="accordion-header" id="heading1">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse1" aria-expanded="true" aria-controls="collapse1">
-                                        1. How does the complete event register process actually work?
-                                    </button>
-                                </h2>
-                                <div id="collapse1" class="accordion-collapse collapse" role="region" aria-labelledby="heading1" data-bs-parent="#accordion">
-                                    <div class="accordion-body">
-                                        <p>Our event is designed with flexible scheduling, allowing you to move between halls, select sessions that interest you most, and customize your learning experience throughout the day.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- FAQ Item End -->
-
-                            <!-- FAQ Item Start -->
-                            <div class="accordion-item wow fadeInUp" data-wow-delay="0.2s">
-                                <h2 class="accordion-header" id="heading2">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
-                                        2. Where is the main event venue located precisely?
-                                    </button>
-                                </h2>
-                                <div id="collapse2" class="accordion-collapse collapse" role="region" aria-labelledby="heading2" data-bs-parent="#accordion">
-                                    <div class="accordion-body">
-                                        <p>Our event is designed with flexible scheduling, allowing you to move between halls, select sessions that interest you most, and customize your learning experience throughout the day.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- FAQ Item End -->
-
-                            <!-- FAQ Item Start -->
-                            <div class="accordion-item wow fadeInUp" data-wow-delay="0.4s">
-                                <h2 class="accordion-header" id="heading3">
-                                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
-                                        3. Can attendees freely switch between sessions and tracks?
-                                    </button>
-                                </h2>
-                                <div id="collapse3" class="accordion-collapse collapse show" role="region" aria-labelledby="heading3" data-bs-parent="#accordion">
-                                    <div class="accordion-body">
-                                        <p>Our event is designed with flexible scheduling, allowing you to move between halls, select sessions that interest you most, and customize your learning experience throughout the day.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- FAQ Item End -->
-
-                            <!-- FAQ Item Start -->
-                            <div class="accordion-item wow fadeInUp" data-wow-delay="0.6s">
-                                <h2 class="accordion-header" id="heading4">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
-                                        4. Does the event provide virtual participation options online?
-                                    </button>
-                                </h2>
-                                <div id="collapse4" class="accordion-collapse collapse" role="region" aria-labelledby="heading4" data-bs-parent="#accordion">
-                                    <div class="accordion-body">
-                                        <p>Our event is designed with flexible scheduling, allowing you to move between halls, select sessions that interest you most, and customize your learning experience throughout the day.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- FAQ Item End -->
-
-                            <!-- FAQ Item Start -->
-                            <div class="accordion-item wow fadeInUp" data-wow-delay="0.8s">
-                                <h2 class="accordion-header" id="heading5">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse5" aria-expanded="false" aria-controls="collapse5">
-                                        5. What is the event refund and cancellation policy?
-                                    </button>
-                                </h2>
-                                <div id="collapse5" class="accordion-collapse collapse" role="region" aria-labelledby="heading5" data-bs-parent="#accordion">
-                                    <div class="accordion-body">
-                                        <p>Our event is designed with flexible scheduling, allowing you to move between halls, select sessions that interest you most, and customize your learning experience throughout the day.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- FAQ Item End -->
-                        </div>
-                        <!-- FAQ Accordion End -->
-                    </div>
-                    <!-- Faqs Content End -->
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Our Faqs Section End -->
-
-    <!-- Our Testimonials Section Start -->
-    <div class="our-testimonials dark-section">
-        <div class="container">
-            <div class="row section-row">
-                <div class="col-lg-12">
+                <!-- Faqs Content Start -->
+                <div class="faqs-content">
                     <!-- Section Title Start -->
-                    <div class="section-title section-title-center">
-                        <h3 class="wow fadeInUp">Testimonials</h3>
+                    <div class="section-title">
+                        <h3 class="wow fadeInUp">FAQ's</h3>
                         <h2 class="text-anime-style-3" data-cursor="-opaque">What our customers say about their experience</h2>
                     </div>
                     <!-- Section Title End -->
+
+                    <!-- FAQ Accordion Start -->
+                    <div class="faq-accordion" id="accordion">
+                        <div class="accordion-item wow fadeInUp">
+                            <h2 class="accordion-header" id="heading1">
+                                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse1" aria-expanded="true" aria-controls="collapse1">
+                                    1. How do I register my brand for an upcoming exhibition?
+                                </button>
+                            </h2>
+                            <div id="collapse1" class="accordion-collapse collapse show" role="region" aria-labelledby="heading1" data-bs-parent="#accordion">
+                                <div class="accordion-body">
+                                    <p>You can register directly through our online portal by selecting your desired event, choosing a stall category, and submitting your brand profile for review by our curation team.</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="accordion-item wow fadeInUp" data-wow-delay="0.2s">
+                            <h2 class="accordion-header" id="heading2">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
+                                    2. Where can I find the specific floor plan and stall locations?
+                                </button>
+                            </h2>
+                            <div id="collapse2" class="accordion-collapse collapse" role="region" aria-labelledby="heading2" data-bs-parent="#accordion">
+                                <div class="accordion-body">
+                                    <p>Once your registration is confirmed, a detailed digital floor plan will be available in your exhibitor dashboard, showing precise dimensions and neighboring brand placements.</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="accordion-item wow fadeInUp" data-wow-delay="0.4s">
+                            <h2 class="accordion-header" id="heading3">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
+                                    3. Can exhibitors customize their stall designs and layouts?
+                                </button>
+                            </h2>
+                            <div id="collapse3" class="accordion-collapse collapse" role="region" aria-labelledby="heading3" data-bs-parent="#accordion">
+                                <div class="accordion-body">
+                                    <p>Absolutely. We offer both shell-scheme packages and raw space options, allowing you to work with our design partners or your own team to create a bespoke brand experience.</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="accordion-item wow fadeInUp" data-wow-delay="0.6s">
+                            <h2 class="accordion-header" id="heading4">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
+                                    4. Do you provide on-site technical and logistical support?
+                                </button>
+                            </h2>
+                            <div id="collapse4" class="accordion-collapse collapse" role="region" aria-labelledby="heading4" data-bs-parent="#accordion">
+                                <div class="accordion-body">
+                                    <p>Yes, House of Exhibitions provides dedicated on-site support for electrical needs, high-speed Wi-Fi, and material handling to ensure your setup runs smoothly.</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="accordion-item wow fadeInUp" data-wow-delay="0.8s">
+                            <h2 class="accordion-header" id="heading5">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse5" aria-expanded="false" aria-controls="collapse5">
+                                    5. What is the policy for cancellation or rescheduling?
+                                </button>
+                            </h2>
+                            <div id="collapse5" class="accordion-collapse collapse" role="region" aria-labelledby="heading5" data-bs-parent="#accordion">
+                                <div class="accordion-body">
+                                    <p>Cancellations made 30 days prior to the event are eligible for a partial refund. For rescheduling, we offer credit that can be applied to any House of Exhibitions event within the same calendar year.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- FAQ Accordion End -->
                 </div>
-            </div>
-
-            <div class="row">
-                <div class="col-xl-3 col-lg-5 col-md-5">
-                    <!-- Testimonials Client Box Start -->
-                    <div class="testimonial-client-box wow fadeInUp" data-wow-delay="0.2s">
-                        <!-- Testimonials Client Box Header Start -->
-                        <div class="testimonial-client-box-header">
-                            <!-- Satisfy Client Images Start -->
-                            <div class="satisfy-client-images">
-                                <div class="satisfy-client-image">
-                                    <figure class="image-anime">
-                                        <img src="images/author-1.jpg" alt="">
-                                    </figure>
-                                </div>
-                                <div class="satisfy-client-image">
-                                    <figure class="image-anime">
-                                        <img src="images/author-2.jpg" alt="">
-                                    </figure>
-                                </div>
-                                <div class="satisfy-client-image">
-                                    <figure class="image-anime">
-                                        <img src="images/author-3.jpg" alt="">
-                                    </figure>
-                                </div>
-                                <div class="satisfy-client-image">
-                                    <figure class="image-anime">
-                                        <img src="images/author-4.jpg" alt="">
-                                    </figure>
-                                </div>
-                            </div>
-                            <!-- Satisfy Client Images End -->
-
-                            <div class="testimonial-client-header-content">
-                                <p>Over 15,000+ Attendees Connected Worldwide</p>
-                            </div>
-                        </div>
-                        <!-- Testimonials Client Box Header End -->
-
-                        <!-- Testimonials Client Box Body Start -->
-                        <div class="testimonial-client-box-body">
-                            <div class="testimonial-client-body-content">
-                                <h3>Client Experience Speak For Themselves</h3>
-                            </div>
-                            <div class="testimonial-client-box-btn">
-                                <a href="testimonials.html" class="btn-default btn-highlighted">View All Reviews</a>
-                            </div>
-                        </div>
-                        <!-- Testimonials Client Box Body End -->
-                    </div>
-                    <!-- Testimonials Client Box End -->
-                </div>
-
-                <div class="col-xl-9 col-lg-7 col-md-7">
-                    <!-- Testimonial Slider Start -->
-                    <div class="testimonial-slider wow fadeInUp" data-wow-delay="0.2s">
-                        <div class="swiper">
-                            <div class="swiper-wrapper" data-cursor-text="Drag">
-                                <!-- Swiper Slider Start -->
-                                <div class="swiper-slide">
-                                    <!-- Testimonial Item Start -->
-                                    <div class="testimonial-item">
-                                        <div class="testimonial-item-header">
-                                            <div class="testimonial-rating">
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-solid fa-star"></i>
-                                            </div>
-                                            <div class="testimonial-item-content">
-                                                <p>"Truly outstanding service! The team exceeded our expectations with their professionalism, creativity, and quick turnaround time. Highly recommended for anyone seeking quality and reliability."</p>
-                                            </div>
-                                        </div>
-                                        <div class="testimonial-item-footer">
-                                            <div class="testimonial-author">
-                                                <div class="testimonial-author-image">
-                                                    <figure class="image-anime">
-                                                        <img src="images/author-1.jpg" alt="">
-                                                    </figure>
-                                                </div>
-                                                <div class="testimonial-author-content">
-                                                    <h3>Sophia Rodrigues</h3>
-                                                    <p>Global Marketing Director</p>
-                                                </div>
-                                            </div>
-                                            <div class="testimonial-item-quote">
-                                                <img src="images/testimonial-item-quote.svg" alt="">
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- Testimonial Item End -->
-                                </div>
-                                <!-- Swiper Slider End -->
-
-                                <!-- Swiper Slider Start -->
-                                <div class="swiper-slide">
-                                    <!-- Testimonial Item Start -->
-                                    <div class="testimonial-item">
-                                        <div class="testimonial-item-header">
-                                            <div class="testimonial-rating">
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-solid fa-star"></i>
-                                            </div>
-                                            <div class="testimonial-item-content">
-                                                <p>"Truly outstanding service! The team exceeded our expectations with their professionalism, creativity, and quick turnaround time. Highly recommended for anyone seeking quality and reliability."</p>
-                                            </div>
-                                        </div>
-                                        <div class="testimonial-item-footer">
-                                            <div class="testimonial-author">
-                                                <div class="testimonial-author-image">
-                                                    <figure class="image-anime">
-                                                        <img src="images/author-2.jpg" alt="">
-                                                    </figure>
-                                                </div>
-                                                <div class="testimonial-author-content">
-                                                    <h3>Ralph Edwards</h3>
-                                                    <p>Global Marketing Director</p>
-                                                </div>
-                                            </div>
-                                            <div class="testimonial-item-quote">
-                                                <img src="images/testimonial-item-quote.svg" alt="">
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- Testimonial Item End -->
-                                </div>
-                                <!-- Swiper Slider End -->
-
-                                <!-- Swiper Slider Start -->
-                                <div class="swiper-slide">
-                                    <!-- Testimonial Item Start -->
-                                    <div class="testimonial-item">
-                                        <div class="testimonial-item-header">
-                                            <div class="testimonial-rating">
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-solid fa-star"></i>
-                                            </div>
-                                            <div class="testimonial-item-content">
-                                                <p>"Truly outstanding service! The team exceeded our expectations with their professionalism, creativity, and quick turnaround time. Highly recommended for anyone seeking quality and reliability."</p>
-                                            </div>
-                                        </div>
-                                        <div class="testimonial-item-footer">
-                                            <div class="testimonial-author">
-                                                <div class="testimonial-author-image">
-                                                    <figure class="image-anime">
-                                                        <img src="images/author-3.jpg" alt="">
-                                                    </figure>
-                                                </div>
-                                                <div class="testimonial-author-content">
-                                                    <h3>Kristin Watson</h3>
-                                                    <p>Global Marketing Director</p>
-                                                </div>
-                                            </div>
-                                            <div class="testimonial-item-quote">
-                                                <img src="images/testimonial-item-quote.svg" alt="">
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- Testimonial Item End -->
-                                </div>
-                                <!-- Swiper Slider End -->
-                            </div>
-                            <div class="testimonial-pagination"></div>
-                        </div>
-                    </div>
-                    <!-- Testimonial Slider End -->
-                </div>
-
-                <div class="col-lg-12">
-                    <!-- Comapany Support Slider Start -->
-                    <div class="company-supports-slider-box wow fadeInUp" data-wow-delay="0.2s">
-                        <!-- Comapany Support Content Start -->
-                        <div class="company-supports-content">
-                            <hr>
-                            <h3>Supported by Brands That Inspire Innovation</h3>
-                            <hr>
-                        </div>
-                        <!-- Comapany Support Content End -->
-
-                        <!-- Comapany Support Slider Start -->
-                        <div class="company-supports-slider">
-                            <div class="swiper">
-                                <div class="swiper-wrapper">
-                                    <!-- Company Support Logo Start -->
-                                    <div class="swiper-slide">
-                                        <div class="company-supports-logo">
-                                            <img src="images/company-supports-logo-1.svg" alt="">
-                                        </div>
-                                    </div>
-                                    <!-- Comapany Support Logo End -->
-    
-                                    <!-- Company Support Logo Start -->
-                                    <div class="swiper-slide">
-                                        <div class="company-supports-logo">
-                                            <img src="images/company-supports-logo-2.svg" alt="">
-                                        </div>
-                                    </div>
-                                    <!-- Comapany Support Logo End -->
-    
-                                    <!-- Company Support Logo Start -->
-                                    <div class="swiper-slide">
-                                        <div class="company-supports-logo">
-                                            <img src="images/company-supports-logo-3.svg" alt="">
-                                        </div>
-                                    </div>
-                                    <!-- Comapany Support Logo End -->
-    
-                                    <!-- Company Support Logo Start -->
-                                    <div class="swiper-slide">
-                                        <div class="company-supports-logo">
-                                            <img src="images/company-supports-logo-4.svg" alt="">
-                                        </div>
-                                    </div>
-                                    <!-- Comapany Support Logo End -->
-    
-                                    <!-- Company Support Logo Start -->
-                                    <div class="swiper-slide">
-                                        <div class="company-supports-logo">
-                                            <img src="images/company-supports-logo-1.svg" alt="">
-                                        </div>
-                                    </div>
-                                    <!-- Comapany Support Logo End -->
-    
-                                    <!-- Company Support Logo Start -->
-                                    <div class="swiper-slide">
-                                        <div class="company-supports-logo">
-                                            <img src="images/company-supports-logo-2.svg" alt="">
-                                        </div>
-                                    </div>
-                                    <!-- Comapany Support Logo End -->
-
-                                    <!-- Company Support Logo Start -->
-                                    <div class="swiper-slide">
-                                        <div class="company-supports-logo">
-                                            <img src="images/company-supports-logo-3.svg" alt="">
-                                        </div>
-                                    </div>
-                                    <!-- Comapany Support Logo End -->
-
-                                    <!-- Company Support Logo Start -->
-                                    <div class="swiper-slide">
-                                        <div class="company-supports-logo">
-                                            <img src="images/company-supports-logo-4.svg" alt="">
-                                        </div>
-                                    </div>
-                                    <!-- Comapany Support Logo End -->
-                                </div>
-                            </div>
-                        </div>
-                        <!-- Comapany Support Slider End -->
-                    </div>
-                    <!-- Comapany Support Slider End -->
-                </div>
+                <!-- Faqs Content End -->
             </div>
         </div>
     </div>
-    <!-- Our Testimonials Section End -->
+</div>
+<!-- Our Faqs Section End -->
 
-    <!-- Our Blog Section Start -->
-    <div class="our-blog">
-        <div class="container">
-            <div class="row section-row">
-                <div class="col-lg-12">
-                    <!-- Section Title Start -->
-                    <div class="section-title section-title-center">
-                        <h3 class="wow fadeInUp">Latest Blog</h3>
-                        <h2 class="text-anime-style-3" data-cursor="-opaque">Explore our latest insights stories and updates</h2>
-                    </div>
-                    <!-- Section Title End -->
-                </div>
-            </div>
-
-            <div class="row">
-                <div class="col-xl-6">
-                    <!-- Post Item Start -->
-                    <div class="post-item wow fadeInUp">
-                        <!-- Post Featured Image Start-->
-                        <div class="post-featured-image">
-                            <a href="blog-single.html"  data-cursor-text="View">
-                                <figure class="image-anime">
-                                    <img src="images/post-1.jpg" alt="">
-                                </figure>    
-                            </a>                            
-                        </div>
-                        <!-- Post Featured Image End -->
-
-                        <!-- Post Item Body Start -->
-                        <div class="post-item-body">
-                            <!-- Post Item Body Content Start -->
-                            <div class="post-item-body-content">
-                                <!-- Post Item Meta Start -->
-                                <div class="post-item-meta">
-                                    <ul>
-                                        <li><img src="images/icon-author.svg" alt="">Esther Howard</li>
-                                    </ul>
-                                </div>
-                                <!-- Post Item Meta End -->
-
-                                <!-- Post Item Content Start -->
-                                <div class="post-item-content">
-                                    <h2><a href="blog-single.html">Mastering Public Speaking: Expert Tips for Confident Presentations</a></h2>
-                                    <p>Improve your communication skills with proven techniques used by world-class speakers to captivate and inspire audiences.</p>
-                                </div>
-                                <!-- Post Item Content End -->
-                            </div>
-                            <!-- Post Item Body Content End -->
-
-                            <!-- Post Readmore Button Start-->
-                            <div class="post-item-btn">
-                                <a href="blog-single.html" class="readmore-btn">read more</a>
-                            </div>
-                            <!-- Post Readmore Button End-->
-                        </div>
-                        <!-- Post Item Body End -->
-                    </div>
-                    <!-- Post Item End -->
-                </div>
-
-                <div class="col-xl-6">
-                    <!-- Post Item List Start -->
-                    <div class="post-item-list">
-                        <!-- Post Item Start -->
-                        <div class="post-item wow fadeInUp" data-wow-delay="0.2s">
-                            <!-- Post Featured Image Start-->
-                            <div class="post-featured-image">
-                                <a href="blog-single.html"  data-cursor-text="View">
-                                    <figure class="image-anime">
-                                        <img src="images/post-2.jpg" alt="">
-                                    </figure>    
-                                </a>                            
-                            </div>
-                            <!-- Post Featured Image End -->
-
-                            <!-- Post Item Body Start -->
-                            <div class="post-item-body">
-                                <!-- Post Item Body Content Start -->
-                                <div class="post-item-body-content">
-                                    <!-- Post Item Meta Start -->
-                                    <div class="post-item-meta">
-                                        <ul>
-                                            <li><img src="images/icon-author.svg" alt="">Esther Howard</li>
-                                        </ul>
-                                    </div>
-                                    <!-- Post Item Meta End -->
-
-                                    <!-- Post Item Content Start -->
-                                    <div class="post-item-content">
-                                        <h2><a href="blog-single.html">Simple Self-Defense Skills Everyone Should Learn for Safety</a></h2>
-                                    </div>
-                                    <!-- Post Item Content End -->
-                                </div>
-                                <!-- Post Item Body Content End -->
-
-                                <!-- Post Readmore Button Start-->
-                                <div class="post-item-btn">
-                                    <a href="blog-single.html" class="readmore-btn">read more</a>
-                                </div>
-                                <!-- Post Readmore Button End-->
-                            </div>
-                            <!-- Post Item Body End -->
-                        </div>
-                        <!-- Post Item End -->
-
-                        <!-- Post Item Start -->
-                        <div class="post-item wow fadeInUp" data-wow-delay="0.4s">
-                            <!-- Post Featured Image Start-->
-                            <div class="post-featured-image">
-                                <a href="blog-single.html"  data-cursor-text="View">
-                                    <figure class="image-anime">
-                                        <img src="images/post-3.jpg" alt="">
-                                    </figure>    
-                                </a>                            
-                            </div>
-                            <!-- Post Featured Image End -->
-
-                            <!-- Post Item Body Start -->
-                            <div class="post-item-body">
-                                <!-- Post Item Body Content Start -->
-                                <div class="post-item-body-content">
-                                    <!-- Post Item Meta Start -->
-                                    <div class="post-item-meta">
-                                        <ul>
-                                            <li><img src="images/icon-author.svg" alt="">Esther Howard</li>
-                                        </ul>
-                                    </div>
-                                    <!-- Post Item Meta End -->
-
-                                    <!-- Post Item Content Start -->
-                                    <div class="post-item-content">
-                                        <h2><a href="blog-single.html">The Power of Networking: Building Connections That Last</a></h2>
-                                    </div>
-                                    <!-- Post Item Content End -->
-                                </div>
-                                <!-- Post Item Body Content End -->
-
-                                <!-- Post Readmore Button Start-->
-                                <div class="post-item-btn">
-                                    <a href="blog-single.html" class="readmore-btn">read more</a>
-                                </div>
-                                <!-- Post Readmore Button End-->
-                            </div>
-                            <!-- Post Item Body End -->
-                        </div>
-                        <!-- Post Item End -->
-                    </div>
-                    <!-- Post Item List End -->
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Our Blog Section End -->
-    <?php include "incl/footer.php"; ?>
+<?php include "incl/footer.php"; ?>

@@ -2,7 +2,7 @@
 
 <!-- Page Header Section Start -->
 <div class="page-header parallaxie" style="    position: relative;
-    background: url(images/Interior-Fit-Out-Company-banner.png) no-repeat;
+    background: url(images/stage-production-banner.png) no-repeat;
     background-position: center center;
     background-size: cover;
     padding: 180px 0 58px;
@@ -12,12 +12,12 @@
             <div class="col-lg-12">
                 <!-- Page Header Box Start -->
                 <div class="page-header-box">
-                    <h1 class="text-anime-style-3" data-cursor="-opaque">Interior Fit Out Company in Dubai</h1>
+                    <h1 class="text-anime-style-3" data-cursor="-opaque">Stage Production Company in Dubai</h1>
                     <nav class="wow fadeInUp">
                         <ol class="breadcrumb">
                             <li class="breadcrumb-item"><a href="index.php">home</a></li>
                             <i class="fa-solid fa-angles-right" style="color: #fff !important;padding: 3px 25px 0px 20px;"></i>
-                            <li class="breadcrumb-item active" aria-current="page">Interior Fit Out Company in Dubai</li>
+                            <li class="breadcrumb-item active" aria-current="page">Stage Production Company in Dubai</li>
                         </ol>
                     </nav>
                 </div>
@@ -39,7 +39,7 @@
                         <!-- About Us Image Start -->
                         <div class="about-us-image">
                             <figure class="image-anime">
-                                <img src="images/Interior-Fit-Out-Company-banner.png" alt="">
+                                <img src="images/exhibition-stand4.png" alt="">
                             </figure>
                         </div>
                         <!-- About Us Image End -->
@@ -108,7 +108,7 @@
         <div class="row section-row">
             <div class="col-lg-12">
                 <div class="section-title section-title-center">
-                    <h2 class="text-anime-style-3" data-cursor="-opaque">Transform Your Commercial Space with Expert Fit-Out Solutions</h2>
+                    <h2 class="text-anime-style-3" data-cursor="-opaque">Elevate Your Presence with Cutting-Edge Audio Visual Solutions</h2>
                 </div>
             </div>
         </div>
@@ -118,23 +118,23 @@
             <div class="col-md-6">
                 <div class="feature-item wow fadeInUp">
                     <div class="icon-box">
-                        <img src="images/icon-feature-item-1.svg" alt="Interior Design Icon">
+                        <img src="images/icon-feature-item-1.svg" alt="AV Rental Icon">
                     </div>
                     <div class="feature-item-body">
                         <div class="feature-item-content">
-                            <h3>Turnkey Interior Fit Out Services in Dubai</h3>
-                            <p>As an experienced commercial interior contractor in Dubai, Velmora Events and Exhibitions Fz Co provides comprehensive, end-to-end fit-out solutions tailored to your specific business requirements.</p>
-                            <p>Under the House of Exhibitions banner, our turnkey services ensure a seamless transition from a shell-and-core space to a fully functional, branded environment. Our expertise includes:</p>
+                            <h3>Complete AV Rental Solutions for Events in Dubai</h3>
+                            <p>Velmora Events and Exhibitions Fz Co provides sophisticated audio-visual ecosystems designed to captivate audiences. We offer end-to-end technical production tailored to the scale and ambition of your event.</p>
+                            <p>Under the House of Exhibitions banner, our technical specialists deploy high-performance AV hardware to ensure your message is delivered with crystal clarity. Our core AV services include:</p>
 
                             <ul style="list-style: none; padding-left: 0; margin-bottom: 20px;">
-                                <li style="padding: 8px 0; font-weight: 600; color: white;"><i class="fa-solid fa-arrow-right" style="margin-right: 10px; color: white;"></i> Space planning & concept design</li>
-                                <li style="padding: 8px 0; font-weight: 600; color: white;"><i class="fa-solid fa-arrow-right" style="margin-right: 10px; color: white;"></i> 3D visualization & layout development</li>
-                                <li style="padding: 8px 0; font-weight: 600; color: white;"><i class="fa-solid fa-arrow-right" style="margin-right: 10px; color: white;"></i> Civil & structural modifications</li>
-                                <li style="padding: 8px 0; font-weight: 600; color: white;"><i class="fa-solid fa-arrow-right" style="margin-right: 10px; color: white;"></i> MEP (Mechanical, Electrical & Plumbing) works</li>
-                                <li style="padding: 8px 0; font-weight: 600; color: white;"><i class="fa-solid fa-arrow-right" style="margin-right: 10px; color: white;"></i> Custom joinery, flooring & partitions</li>
+                                <li style="padding: 8px 0; font-weight: 600; color: white;"><i class="fa-solid fa-arrow-right" style="margin-right: 10px; color: white;"></i> Professional sound systems & wireless audio</li>
+                                <li style="padding: 8px 0; font-weight: 600; color: white;"><i class="fa-solid fa-arrow-right" style="margin-right: 10px; color: white;"></i> Advanced projection mapping & display systems</li>
+                                <li style="padding: 8px 0; font-weight: 600; color: white;"><i class="fa-solid fa-arrow-right" style="margin-right: 10px; color: white;"></i> Dynamic stage lighting & atmospheric effects</li>
+                                <li style="padding: 8px 0; font-weight: 600; color: white;"><i class="fa-solid fa-arrow-right" style="margin-right: 10px; color: white;"></i> Live streaming & hybrid event integration</li>
+                                <li style="padding: 8px 0; font-weight: 600; color: white;"><i class="fa-solid fa-arrow-right" style="margin-right: 10px; color: white;"></i> On-site technical support & engineering</li>
                             </ul>
 
-                            <p>We coordinate every technical detail to ensure strict compliance with local regulations and timely project handover, allowing you to focus on your core business.</p>
+                            <p>From intimate corporate briefings to global conferences, we provide the technical reliability and high-spec equipment required for a flawless event execution.</p>
                         </div>
                         <div class="feature-item-btn">
                             <a href="contact.php" class="readmore-btn">Contact Us</a>
@@ -146,23 +146,23 @@
             <div class="col-md-6">
                 <div class="feature-item active wow fadeInUp" data-wow-delay="0.2s">
                     <div class="icon-box">
-                        <img src="images/icon-feature-item-2.svg" alt="Office Fit Out Icon">
+                        <img src="images/icon-feature-item-2.svg" alt="LED Screen Icon">
                     </div>
                     <div class="feature-item-body">
                         <div class="feature-item-content">
-                            <h3>Premium Office Fit Out Services in Dubai</h3>
-                            <p>At Velmora Events and Exhibitions Fz Co, we believe a well-designed office is the heart of productivity. We deliver inspiring workspaces that enhance employee satisfaction and elevate your brand image.</p>
-                            <p>Our dedicated House of Exhibitions team creates modern business environments that combine high-end aesthetics with ergonomic functionality. Our office solutions cover:</p>
+                            <h3>Premium LED Screen & Video Wall Rental</h3>
+                            <p>Maximum visual impact is non-negotiable in modern event design. Velmora Events and Exhibitions Fz Co offers high-definition LED technologies that transform standard venues into immersive digital environments.</p>
+                            <p>Our House of Exhibitions technical team handles the intricate calibration and installation of high-resolution displays for both indoor and outdoor settings, including:</p>
 
                             <ul style="list-style: none; padding-left: 0; margin-bottom: 20px;">
-                                <li style="padding: 8px 0; font-weight: 600; color: white;"><i class="fa-solid fa-arrow-right" style="margin-right: 10px; color: white;"></i> Open-plan & executive office layouts</li>
-                                <li style="padding: 8px 0; font-weight: 600; color: white;"><i class="fa-solid fa-arrow-right" style="margin-right: 10px; color: white;"></i> Smart meeting & conference room design</li>
-                                <li style="padding: 8px 0; font-weight: 600; color: white;"><i class="fa-solid fa-arrow-right" style="margin-right: 10px; color: white;"></i> Reception & premium waiting areas</li>
-                                <li style="padding: 8px 0; font-weight: 600; color: white;"><i class="fa-solid fa-arrow-right" style="margin-right: 10px; color: white;"></i> Collaborative zones & acoustic solutions</li>
-                                <li style="padding: 8px 0; font-weight: 600; color: white;"><i class="fa-solid fa-arrow-right" style="margin-right: 10px; color: white;"></i> Custom furniture & lighting installation</li>
+                                <li style="padding: 8px 0; font-weight: 600; color: white;"><i class="fa-solid fa-arrow-right" style="margin-right: 10px; color: white;"></i> High-pitch P2, P3 & P4 HD LED screens</li>
+                                <li style="padding: 8px 0; font-weight: 600; color: white;"><i class="fa-solid fa-arrow-right" style="margin-right: 10px; color: white;"></i> Seamless indoor & weather-resistant outdoor displays</li>
+                                <li style="padding: 8px 0; font-weight: 600; color: white;"><i class="fa-solid fa-arrow-right" style="margin-right: 10px; color: white;"></i> Curved & custom-configured video walls</li>
+                                <li style="padding: 8px 0; font-weight: 600; color: white;"><i class="fa-solid fa-arrow-right" style="margin-right: 10px; color: white;"></i> Transparent LED technology for creative branding</li>
+                                <li style="padding: 8px 0; font-weight: 600; color: white;"><i class="fa-solid fa-arrow-right" style="margin-right: 10px; color: white;"></i> Integrated LED backdrops for exhibition stands</li>
                             </ul>
 
-                            <p>From tech-driven workstations to executive suites, we utilize premium materials to ensure your office reflects the corporate excellence of your brand.</p>
+                            <p>We combine premium hardware with precision testing to guarantee sharp visuals, vibrant colors, and uninterrupted performance throughout your entire event schedule.</p>
                         </div>
                         <div class="feature-item-btn">
                             <a href="contact.php" class="readmore-btn">Contact Us</a>
@@ -173,7 +173,7 @@
 
             <div class="col-lg-12">
                 <div class="section-footer-text wow fadeInUp" data-wow-delay="0.4s">
-                    <p>Partner with Velmora Events and Exhibitions Fz Co to weave innovation, quality, and interior excellence together.</p>
+                    <p>Partner with Velmora Events and Exhibitions Fz Co to bring your brand to life through world-class audio-visual excellence.</p>
                     <ul>
                         <li><span class="counter">4.9</span>/5</li>
                         <li>
@@ -183,7 +183,7 @@
                             <i class="fa-solid fa-star"></i>
                             <i class="fa-solid fa-star"></i>
                         </li>
-                        <li>Our 4200 Reviews</li>
+                        <li>Based on 4200+ Reviews</li>
                     </ul>
                 </div>
             </div>
@@ -195,8 +195,8 @@
     <div class="container">
         <div class="row mb-5 text-center">
             <div class="col-lg-8 mx-auto">
-                <h2 class="fw-bold mb-3">Specialized Commercial Fit-Out Solutions</h2>
-                <p class="lead text-muted">At Velmora Events and Exhibitions Fz Co, we deliver bespoke interior environments tailored to your brand’s physical footprint and commercial goals.</p>
+                <h2 class="fw-bold mb-3">Concert & Entertainment Stage Production</h2>
+                <p class="lead text-muted">As a premier concert stage production company in UAE, Velmora Events and Exhibitions Fz Co provides advanced rigging, lighting, and sound integration for large-scale entertainment events.</p>
             </div>
         </div>
 
@@ -206,9 +206,9 @@
                 <div class="card h-100 shadow-sm border-0 bg-light">
                     <div class="card-body p-4">
                         <h4 class="card-title fw-bold mb-3">
-                            <i class="fa-solid fa-star text-warning me-2"></i>Retail Fit-Out Solutions
+                            <i class="fa-solid fa-star text-warning me-2"></i>Stage & Rigging Solutions
                         </h4>
-                        <p class="card-text text-secondary">Strategic store layouts and display systems designed by the House of Exhibitions to maximize foot traffic and enhance product visibility in the UAE market.</p>
+                        <p class="card-text text-secondary">Comprehensive setup including trussing systems, heavy-duty stage platforms, motorized rigging, and full safety compliance inspections for seamless event execution.</p>
                     </div>
                 </div>
             </div>
@@ -217,9 +217,9 @@
                 <div class="card h-100 shadow-sm border-0 bg-light">
                     <div class="card-body p-4">
                         <h4 class="card-title fw-bold mb-3">
-                            <i class="fa-solid fa-star text-warning me-2"></i>Hospitality Interiors
+                            <i class="fa-solid fa-star text-warning me-2"></i>Stage Lighting & Visual FX
                         </h4>
-                        <p class="card-text text-secondary">Premium interior solutions for restaurants, cafés, and hotels that combine unique design concepts with high-quality finishes and brand standards.</p>
+                        <p class="card-text text-secondary">Enhancing stage presence with intelligent moving heads, DMX-controlled systems, wash and spot lighting, and specialized backdrop illumination.</p>
                     </div>
                 </div>
             </div>
@@ -228,9 +228,9 @@
                 <div class="card h-100 shadow-sm border-0 bg-light">
                     <div class="card-body p-4">
                         <h4 class="card-title fw-bold mb-3">
-                            <i class="fa-solid fa-star text-warning me-2"></i>Showrooms & Lounges
+                            <i class="fa-solid fa-star text-warning me-2"></i>LED Backdrops & Integration
                         </h4>
-                        <p class="card-text text-secondary">Sophisticated corporate lounges and showroom builds that reflect your company’s prestige and create immersive brand experiences for your clients.</p>
+                        <p class="card-text text-secondary">Immersive visual experiences featuring high-quality LED screens, video wall installations, custom digital backgrounds, and advanced projection mapping.</p>
                     </div>
                 </div>
             </div>
@@ -239,9 +239,9 @@
                 <div class="card h-100 shadow-sm border-0 bg-light">
                     <div class="card-body p-4">
                         <h4 class="card-title fw-bold mb-3">
-                            <i class="fa-solid fa-star text-warning me-2"></i>Integrated Branding & Lighting
+                            <i class="fa-solid fa-star text-warning me-2"></i>Technical Coordination
                         </h4>
-                        <p class="card-text text-secondary">Comprehensive signage, graphic integration, and smart lighting design provided by Velmora Events to ensure your commercial space captivates every visitor.</p>
+                        <p class="card-text text-secondary">Expert management of technical crews, performers, and venue logistics to ensure high-engagement environments for corporate and entertainment events.</p>
                     </div>
                 </div>
             </div>
@@ -250,9 +250,9 @@
                 <div class="card h-100 shadow-sm border-0 bg-light">
                     <div class="card-body p-4">
                         <h4 class="card-title fw-bold mb-3">
-                            <i class="fa-solid fa-star text-warning me-2"></i>Full Lifecycle Management
+                            <i class="fa-solid fa-star text-warning me-2"></i>Branding & Special Effects
                         </h4>
-                        <p class="card-text text-secondary">From POS counter installations to final handover, Velmora Events and Exhibitions Fz Co manages every technical detail with absolute precision and local compliance.</p>
+                        <p class="card-text text-secondary">Integrating custom branding panels with pyrotechnics and special effects to create visually powerful stage environments that maximize brand impact.</p>
                     </div>
                 </div>
             </div>
@@ -262,7 +262,7 @@
         <div class="row mt-5 text-center">
             <div class="col-12">
                 <div class="p-4 bg-dark text-white rounded shadow-sm">
-                    <p class="mb-0 fs-5 fw-semibold">Whether it's a luxury boutique or a high-traffic pavilion, the House of Exhibitions team guarantees excellence.</p>
+                    <p class="mb-0 fs-5 fw-semibold">From intimate corporate stages to massive outdoor concerts, the House of Exhibitions team ensures technical perfection.</p>
                     <a href="contact.php" class="btn btn-primary mt-3 px-4 py-2">Contact Us Today</a>
                 </div>
             </div>
@@ -338,9 +338,9 @@
     <div class="container">
         <div class="row justify-content-center mb-5 text-center">
             <div class="col-lg-8">
-                <h2 class="fw-bold display-5 mb-3" style="color: #ffffff;">Our Interior Fit-Out Journey</h2>
+                <h2 class="fw-bold display-5 mb-3" style="color: #ffffff;">Our Stage Production Process</h2>
                 <p class="lead" style="color: #cccccc;">
-                    At Velmora Events and Exhibitions Fz Co, we employ a meticulous, structured methodology to ensure every project is delivered with surgical precision and aesthetic excellence.
+                    Velmora Events and Exhibitions Fz Co follows a structured five-step methodology to ensure safety, technical efficiency, and visual excellence for every event.
                 </p>
             </div>
         </div>
@@ -352,11 +352,11 @@
                     <div class="step-number-bg">1</div>
                     <div class="card-content">
                         <div class="icon-box-custom bg-danger text-white shadow">
-                            <i class="fa-solid fa-clipboard-check"></i>
+                            <i class="fa-solid fa-comments"></i>
                         </div>
                         <h4 class="fw-bold text-danger mb-2">Step 1</h4>
-                        <h5 class="fw-semibold text-white mb-3">Consultation & Site Audit</h5>
-                        <p style="color: #aaaaaa; font-size: 15px;">We begin with a comprehensive spatial assessment to align with your commercial objectives and technical requirements.</p>
+                        <h5 class="fw-semibold text-white mb-3">Event Consultation</h5>
+                        <p style="color: #aaaaaa; font-size: 15px;">We conduct a detailed assessment of event type, audience size, venue layout, and specific technical requirements to align with your goals.</p>
                     </div>
                 </div>
             </div>
@@ -366,11 +366,11 @@
                     <div class="step-number-bg">2</div>
                     <div class="card-content">
                         <div class="icon-box-custom bg-warning text-dark shadow">
-                            <i class="fa-solid fa-swatchbook"></i>
+                            <i class="fa-solid fa-pen-nib"></i>
                         </div>
                         <h4 class="fw-bold text-warning mb-2">Step 2</h4>
-                        <h5 class="fw-semibold text-white mb-3">Creative Vision & 3D Design</h5>
-                        <p style="color: #aaaaaa; font-size: 15px;">Our House of Exhibitions design studio develops immersive 3D renderings and mood boards to visualize your future workspace.</p>
+                        <h5 class="fw-semibold text-white mb-3">Concept & Design</h5>
+                        <p style="color: #aaaaaa; font-size: 15px;">Our design team develops comprehensive 3D stage layouts and detailed technical plans for client review and final approval.</p>
                     </div>
                 </div>
             </div>
@@ -380,11 +380,11 @@
                     <div class="step-number-bg">3</div>
                     <div class="card-content">
                         <div class="icon-box-custom bg-success text-white shadow">
-                            <i class="fa-solid fa-file-invoice-dollar"></i>
+                            <i class="fa-solid fa-tools"></i>
                         </div>
                         <h4 class="fw-bold text-success mb-2">Step 3</h4>
-                        <h5 class="fw-semibold text-white mb-3">Strategic BOQ & Budgeting</h5>
-                        <p style="color: #aaaaaa; font-size: 15px;">We provide a transparent Bill of Quantities, offering a detailed and honest cost breakdown to ensure total financial alignment.</p>
+                        <h5 class="fw-semibold text-white mb-3">Technical Preparation</h5>
+                        <p style="color: #aaaaaa; font-size: 15px;">Stage components are manufactured in-house, ensuring quality control and technical readiness before moving to the venue.</p>
                     </div>
                 </div>
             </div>
@@ -394,11 +394,11 @@
                     <div class="step-number-bg">4</div>
                     <div class="card-content">
                         <div class="icon-box-custom bg-white text-dark shadow">
-                            <i class="fa-solid fa-building-shield"></i>
+                            <i class="fa-solid fa-layer-group"></i>
                         </div>
                         <h4 class="fw-bold text-white mb-2">Step 4</h4>
-                        <h5 class="fw-semibold text-white mb-3">Governmental Approvals</h5>
-                        <p style="color: #aaaaaa; font-size: 15px;">We navigate the complexities of Dubai’s regulatory landscape, securing all necessary permits from authorities and management.</p>
+                        <h5 class="fw-semibold text-white mb-3">Installation & Rigging</h5>
+                        <p style="color: #aaaaaa; font-size: 15px;">Our technicians manage on-site installation, including structural safety checks, rigging, and rigorous system testing for all equipment.</p>
                     </div>
                 </div>
             </div>
@@ -408,25 +408,11 @@
                     <div class="step-number-bg">5</div>
                     <div class="card-content">
                         <div class="icon-box-custom bg-danger text-white shadow">
-                            <i class="fa-solid fa-helmet-safety"></i>
+                            <i class="fa-solid fa-calendar-check"></i>
                         </div>
                         <h4 class="fw-bold text-danger mb-2">Step 5</h4>
-                        <h5 class="fw-semibold text-white mb-3">Precision Execution</h5>
-                        <p style="color: #aaaaaa; font-size: 15px;">Our master craftsmen and engineers manage all Civil and MEP works under rigorous project supervision for a flawless build.</p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-lg-4 col-md-6">
-                <div class="process-card card-yellow p-4 shadow-sm text-center">
-                    <div class="step-number-bg">6</div>
-                    <div class="card-content">
-                        <div class="icon-box-custom bg-warning text-dark shadow">
-                            <i class="fa-solid fa-key"></i>
-                        </div>
-                        <h4 class="fw-bold text-warning mb-2">Step 6</h4>
-                        <h5 class="fw-semibold text-white mb-3">Quality Audit & Handover</h5>
-                        <p style="color: #aaaaaa; font-size: 15px;">Following a strict final quality inspection, we handover your bespoke interior, ready for immediate commercial operation.</p>
+                        <h5 class="fw-semibold text-white mb-3">On-Day Management</h5>
+                        <p style="color: #aaaaaa; font-size: 15px;">We supervise all technical operations throughout the event and manage the professional dismantling process afterward.</p>
                     </div>
                 </div>
             </div>
@@ -437,7 +423,7 @@
             <div class="col-12">
                 <div class="d-inline-block px-5 py-3 border border-secondary rounded-pill" style="background-color: #111111;">
                     <h5 class="mb-0 fw-bold" style="color: #ffc107;">
-                        <i class="fa-solid fa-check-circle text-success me-2"></i> This systematic turnkey approach ensures peak efficiency without ever compromising on quality.
+                        <i class="fa-solid fa-shield-halved text-success me-2"></i> This structured approach ensures maximum safety, efficiency, and visual excellence.
                     </h5>
                 </div>
             </div>

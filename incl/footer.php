@@ -275,24 +275,23 @@
                         <div class="footer-links">
                             <h3>Quick Links</h3>
                             <ul>
-                                <li><a href="index-2.html">Home</a></li>
-                                <li><a href="about.html">About Us</a></li>
-                                <li><a href="speaker.html">Speakers</a></li>
-                                <li><a href="schedule.html">Events</a></li>
-                                <li><a href="contact.html">Contact Us</a></li>
+                                <li><a href="index.php">Home</a></li>
+                                <li><a href="about.php">About Us</a></li>
+                                <li><a href="exhibition-stand-builder.php">Services</a></li>
+                                <li><a href="home.php">Pay Online</a></li>
+                                <li><a href="contact.php">Contact Us</a></li>
                             </ul>
                         </div>
                         <!-- Footer Links End -->
 
                         <!-- Footer Links End -->
                         <div class="footer-links">
-                            <h3>Schedules</h3>
+                            <h3>Services</h3>
                             <ul>
-                                <li><a href="speaker-single.html">Event Management</a></li>
-                                <li><a href="speaker-single.html">Live Streaming</a></li>
-                                <li><a href="speaker-single.html">Virtual Event Setup</a></li>
-                                <li><a href="speaker-single.html">Keynote Sessions</a></li>
-                                <li><a href="speaker-single.html">Networking Programs</a></li>
+                                <li><a href="exhibition-stand-builder.php">Exhibition Stand Builder</a></li>
+                                <li><a href="interior-fit-out-company.php">Interior Fit Out Company</a></li>
+                                <li><a href="audio-visual-rental-services.php">Audio Visual Rental Services in</a></li>
+                                <li><a href="stage-production.php">Stage Production</a></li>
                             </ul>
                         </div>
                         <!-- Footer Links End -->

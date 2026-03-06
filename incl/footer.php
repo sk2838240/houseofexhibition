@@ -288,7 +288,7 @@
                         <div class="footer-links">
                             <h3>Services</h3>
                             <ul>
-                                <li><a href="exhibition-stand-builder.php">Exhibition Stand Builder</a></li>
+                                <li><a href="exhibition-stand-builders.php">Exhibition Stand Builder</a></li>
                                 <li><a href="interior-fit-out-company.php">Interior Fit Out Company</a></li>
                                 <li><a href="audio-visual-rental-services.php">Audio Visual Rental Services in</a></li>
                                 <li><a href="stage-production.php">Stage Production</a></li>

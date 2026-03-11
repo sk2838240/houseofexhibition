@@ -27,187 +27,96 @@
 <div class="about-us">
     <div class="container">
         <div class="row align-items-center">
-            <div class="col-xl-6">
-                <!-- About Us Image Box Start -->
-                <div class="about-us-image-box wow fadeInUp">
-                    <!-- About Image Cirlce Box Start -->
-                    <div class="about-image-circle-box">
-                        <!-- About Us Image Start -->
-                        <div class="about-us-image">
-                            <figure class="image-anime">
-                                <img src="images/about-us-1.png" alt="">
-                            </figure>
-                        </div>
-                        <!-- About Us Image End -->
-
-                        <!-- Years Experience Circle Start -->
-                        <div class="years-experience-circle">
-                            <!-- <figure>
-                                    <img src="images/years-experience-circle.svg" alt="">
-                                </figure> -->
-
-                            <!-- Years Experience Counter Box Start -->
-                            <!-- <div class="years-experience-counter-box">
-                                    <h2><span class="counter">25</span>+</h2>
-                                </div> -->
-                            <!-- Years Experience Counter Box End -->
-                        </div>
-                        <!-- Years Experience Circle End -->
-                    </div>
-                    <!-- About Image Cirlce Box End -->
-
-                    <!-- About Achievement Box Start -->
-                    <div class="about-achievement-box">
-                        <!-- About Achievement Box Header Start -->
-                        <div class="about-achievement-box-header">
-                            <!-- About Achievement Image Start -->
-                            <div class="about-achievement-image">
-                                <figure>
-                                    <img src="images/black-logo.png" alt="">
-                                </figure>
-                            </div>
-                            <!-- About Achievement Image End -->
-
-                            <!-- About Achievement Content Start -->
-                            <div class="about-achievement-content">
-                                <h3>“Excellence Unveiled at the House of Exhibition”</h3>
-
-                            </div>
-                            <!-- About Achievement Content End -->
-                        </div>
-                        <!-- About Achievement Box Header End -->
-
-                        <!-- About Achievement Box Body Start -->
-                        <div class="about-achievement-box-body">
-                            <!-- <h3>Celebrating Achievement with Pride</h3> -->
-                        </div>
-                        <!-- About Achievement Box Body End -->
-                    </div>
-                    <!-- About Achievement Box End -->
-                </div>
-                <!-- About Us Image Box End -->
-            </div>
-
-            <div class="col-xl-6">
-                <!-- About Us Content Start -->
+            
+            <div class="col-xl-6 order-last order-xl-first">
                 <div class="about-us-content">
-                    <!-- Section Title Start -->
                     <div class="section-title">
                         <h3 class="wow fadeInUp">About Us</h3>
-                        <h2 class="text-anime-style-3" data-cursor="-opaque">Elevate Your Brand with House of Exhibitions</h2>
-                        <p class="wow fadeInUp" data-wow-delay="0.2s">At House of Exhibitions, we don't just build stands; we craft immersive brand environments. Our mission is to transform your vision into a physical landmark that captures attention and drives engagement.</p>
+                        <h2 class="text-anime-style-3" data-cursor="-opaque">Defining Excellence with House of Exhibitions</h2>
+                        <p class="wow fadeInUp" data-wow-delay="0.2s">
+                            At House of Exhibitions, we transform temporary spaces into enduring brand landmarks. Our expertise lies in crafting high-impact exhibition environments that transcend traditional booth design to become immersive brand experiences. 
+                        </p>
+                        <p class="wow fadeInUp" data-wow-delay="0.3s">
+                            Our methodology is rooted in a structured technical chronology: starting with strategic consultation to define your commercial goals, followed by bespoke 3D conceptualization to bring your vision to life. From precision engineering and in-house fabrication to flawless on-site installation, we manage every detail. The result is a captivating, high-performance space that commands the exhibition floor and maximizes meaningful attendee engagement.
+                        </p>
                     </div>
-                    <!-- Section Title End -->
-
-                    <!-- About Us Body Start -->
-                    <div class="about-us-body wow fadeInUp" data-wow-delay="0.4s">
-                        <!-- About Vision-Mission Box Start -->
-                        <div class="about-mission-vision-box tab-content wow fadeInUp" data-wow-delay="0.4s" id="AboutTab">
-                            <!-- About Vision-Mission Nav start -->
-                            <div class="about-mission-vision-nav">
-                                <ul class="nav nav-tabs" id="mvTab" role="tablist">
-                                    <li class="nav-item" role="presentation">
-                                        <button class="nav-link" id="mission-tab" data-bs-toggle="tab" data-bs-target="#mission" type="button" role="tab" aria-selected="true">Our Mission</button>
-                                    </li>
-                                    <li class="nav-item" role="presentation">
-                                        <button class="nav-link active" id="vision-tab" data-bs-toggle="tab" data-bs-target="#vision" type="button" role="tab" aria-selected="false">Our Vision</button>
-                                    </li>
-                                    <li class="nav-item" role="presentation">
-                                        <button class="nav-link" id="goal-tab" data-bs-toggle="tab" data-bs-target="#goal" type="button" role="tab" aria-selected="false">Our Goal</button>
-                                    </li>
-                                </ul>
-                            </div>
-                            <!-- About Vision-Mission Nav End -->
-
-                            <!-- About Mission Item Start -->
-                            <div class="about-mission-vision-item tab-pane fade" id="mission" role="tabpanel">
-                                <!-- Vision Mission Content Start -->
-                                <div class="vision-mission-content">
-                                    <p>We craft bespoke exhibition environments that turn your vision into reality. Our mission delivers industry-leading designs for unforgettable brand experiences.</p>
-                                </div>
-                                <!-- Vision Mission Content End -->
-                            </div>
-                            <!-- About Mission End -->
-
-                            <!-- About Vision Item Start -->
-                            <div class="about-mission-vision-item tab-pane fade show active" id="vision" role="tabpanel">
-                                <!-- Vision Mission Content Start -->
-                                <div class="vision-mission-content">
-                                    <p>Our vision is to redefine brand presentation through innovative design. We aim to be the global leader in creating immersive and impactful exhibition experiences.</p>
-                                </div>
-                                <!-- Vision Mission Content End -->
-                            </div>
-                            <!-- About Vision Item End -->
-
-                            <!-- About Goal Item Start -->
-                            <div class="about-mission-vision-item tab-pane fade" id="goal" role="tabpanel">
-                                <!-- Vision Mission Content Start -->
-                                <div class="vision-mission-content">
-                                    <p>Our goal is to build industry-leading exhibition spaces that drive brand growth. We focus on delivering precise, high-quality results that exceed every client’s expectations.</p>
-                                </div>
-                                <!-- Vision Mission Content End -->
-                            </div>
-                            <!-- About Goal Item End -->
-                        </div>
-                        <!-- About Vision-Mission Box End -->
-
-                        <!-- About Us Item List Start -->
-                        <div class="about-us-item-list wow fadeInUp" data-wow-delay="0.6s">
-                            <!-- About Us Item Start -->
-                            <div class="about-us-item">
-                                <div class="icon-box">
-                                    <img src="images/icon-about-us-item-1.svg" alt="">
-                                </div>
-                                <div class="about-us-item-content">
-                                    <h3>Receive real-time event updates.</h3>
-                                </div>
-                            </div>
-                            <!-- About Us Item End -->
-
-                            <!-- About Us Item Start -->
-                            <div class="about-us-item">
-                                <div class="icon-box">
-                                    <img src="images/icon-about-us-item-2.svg" alt="">
-                                </div>
-                                <div class="about-us-item-content">
-                                    <h3>Stay informed with instant session alerts.</h3>
-                                </div>
-                            </div>
-                            <!-- About Us Item End -->
-                        </div>
-                        <!-- About Us Item Lis End -->
                     </div>
-                    <!-- About Us Body End -->
-
-                    <!-- About Us Footer Start -->
-                    <div class="about-us-footer wow fadeInUp" data-wow-delay="0.8s">
-                        <!-- About Us Button Start -->
-                        <div class="about-us-btn">
-                            <a href="contact.php" class="btn-default">Contact now</a>
-                        </div>
-                        <!-- About Us Button End -->
-
-                        <!-- About Contact Box Start -->
-                        <div class="about-contact-box">
-                            <div class="icon-box">
-                                <img src="images/icon-phone-white.svg" alt="">
-                            </div>
-                            <div class="about-contact-box-content">
-                                <h3>Call Now!</h3>
-                                <p><a href="tel:+971523426256">🇦🇪 +971 52 342 6256</a></p>
-                            </div>
-                        </div>
-                        <!-- About Contact Box End -->
-                    </div>
-                    <!-- About Us Footer End -->
-                </div>
-                <!-- About Us Content End -->
             </div>
-        </div>
+            <div class="col-xl-6 order-first order-xl-last">
+                <div class="about-us-image-box wow fadeInUp">
+                    <div class="about-image-circle-box">
+                        <div class="about-us-image">
+                            <figure class="image-anime">
+                                <img src="images/our-speaker.png" alt="House of Exhibitions Production">
+                            </figure>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            </div>
     </div>
 </div>
-<!-- About Us Section End -->
 
+<!-- About Us Section End -->
+<div class="core-values-section" style="padding: 80px 0; background-color: #f9f9f9;">
+    <div class="container">
+
+        <div class="row align-items-center mb-5 pb-lg-4">
+            <div class="col-lg-6 wow fadeInLeft" data-wow-delay="0.1s">
+                <div class="core-value-image">
+                    <figure class="image-anime reveal">
+                        <img src="images/our-mission.png" alt="Our Mission" class="img-fluid rounded shadow-sm">
+                    </figure>
+                </div>
+            </div>
+            <div class="col-lg-6 wow fadeInRight" data-wow-delay="0.2s">
+                <div class="core-value-content ps-lg-5">
+                    <div class="section-title mb-3">
+                        <h2 style="font-size: 36px; margin-bottom: 20px;">Our Mission</h2>
+                    </div>
+                    <p>We craft bespoke exhibition environments that turn your vision into reality. Our mission is to deliver industry-leading designs that foster unforgettable brand experiences and create physical landmarks that command attention on any exhibition floor. Our passion lies in the intersection of art and engineering, transforming raw space into a powerful marketing tool that captures your brand’s essence and delivers measurable success at every event.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="row align-items-center mb-5 pb-lg-4">
+            <div class="col-lg-6 order-lg-1 order-2 wow fadeInLeft" data-wow-delay="0.3s">
+                <div class="core-value-content pe-lg-5">
+                    <div class="section-title mb-3">
+                        <h2 style="font-size: 36px; margin-bottom: 20px;">Our Vision</h2>
+                    </div>
+                    <p>Our vision is to redefine brand presentation through innovative design. We aim to be the global leader in creating immersive and impactful exhibition experiences that set new standards for engagement, aesthetics, and architectural excellence. We envision a future where every event space is an interactive journey, seamlessly blending digital technology with physical craftsmanship. By constantly pushing the boundaries of what is possible on the exhibition floor, we strive to transform temporary installations into timeless brand legacies that resonate across borders and industries.</p>
+                </div>
+            </div>
+            <div class="col-lg-6 order-lg-2 order-1 wow fadeInRight" data-wow-delay="0.4s">
+                <div class="core-value-image">
+                    <figure class="image-anime reveal">
+                        <img src="images/our-vision.png" alt="Our Vision" class="img-fluid rounded shadow-sm">
+                    </figure>
+                </div>
+            </div>
+        </div>
+
+        <div class="row align-items-center">
+            <div class="col-lg-6 wow fadeInLeft" data-wow-delay="0.5s">
+                <div class="core-value-image">
+                    <figure class="image-anime reveal">
+                        <img src="images/our-goal.png" alt="Our Goal" class="img-fluid rounded shadow-sm">
+                    </figure>
+                </div>
+            </div>
+            <div class="col-lg-6 wow fadeInRight" data-wow-delay="0.6s">
+                <div class="core-value-content ps-lg-5">
+                    <div class="section-title mb-3">
+                        <h2 style="font-size: 36px; margin-bottom: 20px;">Our Goal</h2>
+                    </div>
+                    <p>Our goal is to build industry-leading exhibition spaces that drive brand growth. We focus on delivering precise, high-quality results that exceed expectations while maintaining a seamless, turnkey process from initial fabrication to final installation. Ultimately, we measure our success by the success of our clients; we aim to maximize your return on investment by creating high-traffic environments that facilitate meaningful networking and lead generation. We are committed to operational excellence, ensuring that every project is delivered on time, within budget, and with the uncompromising quality that has become the hallmark of House of Exhibitions.</p>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
 <!-- Our Approach Section Start -->
 <div class="our-approach dark-section">
     <div class="container">
@@ -404,128 +313,6 @@
 </div>
 <!-- Our Benefits Section End -->
 
-<!-- Our Achievements Section Start -->
-<div class="our-achievements dark-section">
-    <div class="container">
-        <div class="row align-items-center">
-            <div class="col-xl-6">
-                <!-- Achievements Image Start -->
-                <div class="achievements-image wow fadeInUp">
-                    <figure>
-                        <img src="images/our-achievement.png" alt="">
-                    </figure>
-                </div>
-                <!-- Achievements Image End -->
-            </div>
-
-            <div class="col-xl-6">
-                <div class="achievements-content">
-                    <!-- Section Title Start -->
-                    <div class="section-title">
-                        <h3 class="wow fadeInUp">Our Achievements</h3>
-                        <h2 class="text-anime-style-3" data-cursor="-opaque">Our milestones achievement over the tears</h2>
-                        <p class="wow fadeInUp" data-wow-delay="0.2s">Our journey is marked by years of growth, innovation, and successful event experiences that have brought people together from around the world.</p>
-                    </div>
-                    <!-- Section Title End -->
-
-                    <!-- Achievements List Start -->
-                    <!-- <div class="achievement-items-list wow fadeInUp" data-wow-delay="0.4s"> -->
-                    <!-- Achievement Item Start -->
-                    <!-- <div class="achievement-item">
-                                <div class="icon-box">
-                                    <img src="https://html.awaikenthemes.com/evenza/images/icon-our-achievement-1.svg" alt="">
-                                </div>
-                                <div class="achievement-item-content">
-                                    <h3><span class="counter">500</span>+</h3>
-                                    <p>Global Events Delivered</p>
-                                </div>
-                            </div> -->
-                    <!-- Achievement Item End -->
-
-                    <!-- Achievement Item Start -->
-                    <!-- <div class="achievement-item">
-                                <div class="icon-box">
-                                    <img src="https://html.awaikenthemes.com/evenza/images/icon-our-achievement-2.svg" alt="">
-                                </div>
-                                <div class="achievement-item-content">
-                                    <h3><span class="counter">100</span>K+</h3>
-                                    <p>Attende Connect Worldwide</p>
-                                </div>
-                            </div> -->
-                    <!-- Achievement Item End -->
-
-                    <!-- Achievement Item Start -->
-                    <!-- <div class="achievement-item">
-                                <div class="icon-box">
-                                    <img src="https://html.awaikenthemes.com/evenza/images/icon-our-achievement-3.svg" alt="">
-                                </div>
-                                <div class="achievement-item-content">
-                                    <h3><span class="counter">150</span>+</h3>
-                                    <p>Industry-Leading Speakers</p>
-                                </div>
-                            </div> -->
-                    <!-- Achievement Item End -->
-
-                    <!-- Achievement Item Start -->
-                    <!-- <div class="achievement-item">
-                                <div class="icon-box">
-                                    <img src="https://html.awaikenthemes.com/evenza/images/icon-our-achievement-4.svg" alt="">
-                                </div>
-                                <div class="achievement-item-content">
-                                    <h3><span class="counter">80</span>+</h3>
-                                    <p>Citie Host Across 10+ Countrie</p>
-                                </div>
-                            </div> -->
-                    <!-- Achievement Item End -->
-                    <!-- </div> -->
-                    <!-- Achievements List End -->
-
-                    <!-- Achievements Content Button Start -->
-                    <!-- <div class="achievements-content-btn wow fadeInUp" data-wow-delay="0.6s">
-                            <a href="schedule.php" class="btn-default btn-highlighted">Explore Schedule</a>
-                        </div> -->
-                    <!-- Achievements Content Button End -->
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- Our Achievements Section End -->
-
-<!-- Our Speakers Section Start -->
-
-<!-- Our Speakers Section End -->
-
-<!-- Intro Video Section Start -->
-<!-- <div class="intro-video">
-        <div class="container-fluid">
-            <div class="row no-gutters">
-                <div class="col-lg-12"> -->
-<!-- Intro Video Box Start -->
-<!-- <div class="intro-video-box wow fadeInUp" data-wow-delay="0.2s"> -->
-<!-- Intro Video Image Start -->
-<!-- <div class="intro-video-image">
-                            <figure>
-                                <img src="images/intro-video-image.jpg" alt="">
-                            </figure>
-                        </div> -->
-<!-- Intro Video Image End -->
-
-<!-- Video Play Button Start -->
-<!-- <div class="video-play-button">
-                            <a href="https://www.youtube.com/watch?v=Y-x0efG1seA" class="popup-video" data-cursor-text="Play">
-                                <i class="fa-solid fa-play"></i>
-                            </a>
-                        </div> -->
-<!-- Video Play Button End -->
-<!-- </div> -->
-<!-- Intro Video Box End -->
-<!-- </div>
-            </div>
-        </div>
-    </div> -->
-<!-- Intro Video Section End -->
-
 <!-- Our Skills Section Start -->
 <div class="our-skills">
     <div class="container">
@@ -546,7 +333,7 @@
                         <!-- Skills Image Start -->
                         <div class="skills-image image-2">
                             <figure class="image-anime reveal">
-                                <img src="images/our-skill-2.png" alt="">
+                                <img src="images/event-schedule-image-4.jpg" alt="">
                             </figure>
                         </div>
                         <!-- Skills Image End -->
@@ -591,7 +378,7 @@
                     <div class="section-title">
                         <h3 class="wow fadeInUp">Expert Skill</h3>
                         <h2 class="text-anime-style-3" data-cursor="-opaque">Highlighting the specialized skills our experts offer</h2>
-                        <p class="wow fadeInUp" data-wow-delay="0.2s">Our team brings together a refined blend of technical expertise, creative thinking, and hands-on experience to deliver work that actually makes a difference.</p>
+                        <p class="wow fadeInUp" data-wow-delay="0.2s">Our team brings together a refined blend of technical expertise, creative thinking, and hands-on experience to deliver work that actually makes a difference. By bridging the gap between complex technology and user-centric design, we transform challenges into scalable solutions that drive measurable growth.</p>
                     </div>
                     <!-- Section Title End -->
 
@@ -606,8 +393,7 @@
                                     <!-- Skill Item Start -->
                                     <div class="skillbar" data-percent="91%">
                                         <div class="skill-data">
-                                            <div class="skill-title">Leadership</div>
-                                            <div class="skill-no">91%</div>
+                                            <div class="skill-title">Skilled Worker</div>
                                         </div>
                                         <div class="skill-progress">
                                             <div class="count-bar"></div>
@@ -622,8 +408,7 @@
                                     <!-- Skill Item Start -->
                                     <div class="skillbar" data-percent="86%">
                                         <div class="skill-data">
-                                            <div class="skill-title">Communication</div>
-                                            <div class="skill-no">86%</div>
+                                            <div class="skill-title">Highly Skilled Team</div>
                                         </div>
                                         <div class="skill-progress">
                                             <div class="count-bar"></div>
@@ -638,8 +423,7 @@
                                     <!-- Skill Item Start -->
                                     <div class="skillbar" data-percent="66%">
                                         <div class="skill-data">
-                                            <div class="skill-title">Management</div>
-                                            <div class="skill-no">66%</div>
+                                            <div class="skill-title">Technical & IT Expertise</div>
                                         </div>
                                         <div class="skill-progress">
                                             <div class="count-bar"></div>
@@ -693,7 +477,7 @@
                     <!-- Faqs Image Start -->
                     <div class="faqs-image">
                         <figure class="image-anime">
-                            <img src="images/about-faq.png" alt="">
+                            <img src="images/faqs-image.jpg" alt="">
                         </figure>
                     </div>
                     <!-- Faqs Image End -->
@@ -739,12 +523,12 @@
                         <div class="accordion-item wow fadeInUp">
                             <h2 class="accordion-header" id="heading1">
                                 <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse1" aria-expanded="true" aria-controls="collapse1">
-                                    1. How do I register my brand for an upcoming exhibition?
+                                    1. How is event management priced in Dubai?
                                 </button>
                             </h2>
                             <div id="collapse1" class="accordion-collapse collapse show" role="region" aria-labelledby="heading1" data-bs-parent="#accordion">
                                 <div class="accordion-body">
-                                    <p>You can register directly through our online portal by selecting your desired event, choosing a stall category, and submitting your brand profile for review by our curation team.</p>
+                                    <p>Expenses fluctuate based on the size of the event and the level of technical detail involved. To ensure accuracy, we provide personalized cost estimates based on your vision.</p>
                                 </div>
                             </div>
                         </div>
@@ -752,12 +536,12 @@
                         <div class="accordion-item wow fadeInUp" data-wow-delay="0.2s">
                             <h2 class="accordion-header" id="heading2">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
-                                    2. Where can I find the specific floor plan and stall locations?
+                                    2. Can your team handle major exhibition projects?
                                 </button>
                             </h2>
                             <div id="collapse2" class="accordion-collapse collapse" role="region" aria-labelledby="heading2" data-bs-parent="#accordion">
                                 <div class="accordion-body">
-                                    <p>Once your registration is confirmed, a detailed digital floor plan will be available in your exhibitor dashboard, showing precise dimensions and neighboring brand placements.</p>
+                                    <p>Yes, we specialize in large-scale event management. We have a proven track record of delivering complex builds, including multi-level structures and custom pavilions, with precision.</p>
                                 </div>
                             </div>
                         </div>
@@ -787,16 +571,15 @@
                                 </div>
                             </div>
                         </div>
-
-                        <div class="accordion-item wow fadeInUp" data-wow-delay="0.8s">
-                            <h2 class="accordion-header" id="heading5">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse5" aria-expanded="false" aria-controls="collapse5">
-                                    5. What is the policy for cancellation or rescheduling?
+                        <div class="accordion-item wow fadeInUp" data-wow-delay="0.6s">
+                            <h2 class="accordion-header" id="heading4">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
+                                    5. Are your services available in other locations?
                                 </button>
                             </h2>
-                            <div id="collapse5" class="accordion-collapse collapse" role="region" aria-labelledby="heading5" data-bs-parent="#accordion">
+                            <div id="collapse4" class="accordion-collapse collapse" role="region" aria-labelledby="heading4" data-bs-parent="#accordion">
                                 <div class="accordion-body">
-                                    <p>Cancellations made 30 days prior to the event are eligible for a partial refund. For rescheduling, we offer credit that can be applied to any House of Exhibitions event within the same calendar year.</p>
+                                    <p>Absolutely. We support projects across the United Arab Emirates and the broader GCC, ensuring high-quality service wherever you need us.</p>
                                 </div>
                             </div>
                         </div>
@@ -807,6 +590,8 @@
             </div>
         </div>
     </div>
+</div>
+
 </div>
 <!-- Our Faqs Section End -->
 <?php include "incl/footer.php"; ?>

@@ -21,6 +21,8 @@
                                         <li class="nav-item"><a class="nav-link" href="interior-fit-out-company.php">Interior Fit Out Company</a></li>
                                         <li class="nav-item"><a class="nav-link" href="audio-visual-rental-services.php">Audio Visual Rental Services</a></li>
                                         <li class="nav-item"><a class="nav-link" href="stage-production.php">Stage Production</a></li>
+                                        <li class="nav-item"><a class="nav-link" href="event-management.php">Event Management</a></li>
+                                        <li class="nav-item"><a class="nav-link" href="graphic-design-printing.php">Graphic Design & Printing</a></li>
                                     </ul>
                                 </li>
                                 <li class="nav-item"><a class="nav-link" href="contact.php">Contact Us</a></li>

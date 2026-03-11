@@ -49,6 +49,13 @@
                                         <h3>Call Now</h3>
                                         <p><a href="tel:+971523426256">🇦🇪 +971 52 342 6256</a></p>
                                     </div>
+                                    <div class="icon-box">
+                                        <img src="images/whatsapp.png" alt="">
+                                    </div>
+                                    <div class="contact-info-content">
+                                       
+                                        <p><a href="tel:+971523426256">🇦🇪 +971 55 5269397</a></p>
+                                    </div>
                                 </div>
                                 <!-- Conatct Info Item End -->
 
@@ -111,11 +118,14 @@
                                         <input type="email" name ="email" class="form-control" id="email" placeholder="E-mail Address" required>
                                         <div class="help-block with-errors"></div>
                                     </div>
-            
+                                    <div class="form-group col-md-6 mb-4">
+                                <input type="text" name="company-name" class="form-control" id="company-name" placeholder="Company Name" required>
+                                <div class="help-block with-errors"></div>
+                            </div>
                                     <div class="form-group col-md-12 mb-5">
-                                        <textarea name="message" class="form-control" id="message" rows="5" placeholder="Write your message here..."></textarea>
-                                        <div class="help-block with-errors"></div>
-                                    </div>
+                                <textarea name="message" class="form-control" id="message" rows="5" placeholder="Describe Your requirements"></textarea>
+                                <div class="help-block with-errors"></div>
+                            </div>
             
                                     <div class="col-lg-12">
                                         <div class="contact-form-btn">

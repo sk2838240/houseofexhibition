@@ -1,3 +1,4 @@
+
 <div class="our-testimonials dark-section">
         <div class="container">
             <div class="row section-row">
@@ -140,7 +141,7 @@
                                     <!-- Company Support Logo Start -->
                                     <div class="swiper-slide">
                                         <div class="company-supports-logo">
-                                            <img src="images/company-supports-logo-1.svg" alt="">
+                                            <img src="images/client-logo-1.png" alt="">
                                         </div>
                                     </div>
                                     <!-- Comapany Support Logo End -->
@@ -148,7 +149,7 @@
                                     <!-- Company Support Logo Start -->
                                     <div class="swiper-slide">
                                         <div class="company-supports-logo">
-                                            <img src="images/company-supports-logo-2.svg" alt="">
+                                            <img src="images/client-logo-2.png" alt="">
                                         </div>
                                     </div>
                                     <!-- Comapany Support Logo End -->
@@ -156,7 +157,7 @@
                                     <!-- Company Support Logo Start -->
                                     <div class="swiper-slide">
                                         <div class="company-supports-logo">
-                                            <img src="images/company-supports-logo-3.svg" alt="">
+                                            <img src="images/client-logo-3.png" alt="">
                                         </div>
                                     </div>
                                     <!-- Comapany Support Logo End -->
@@ -164,7 +165,7 @@
                                     <!-- Company Support Logo Start -->
                                     <div class="swiper-slide">
                                         <div class="company-supports-logo">
-                                            <img src="images/company-supports-logo-4.svg" alt="">
+                                            <img src="images/client-logo-4.png" alt="">
                                         </div>
                                     </div>
                                     <!-- Comapany Support Logo End -->
@@ -172,7 +173,7 @@
                                     <!-- Company Support Logo Start -->
                                     <div class="swiper-slide">
                                         <div class="company-supports-logo">
-                                            <img src="images/company-supports-logo-1.svg" alt="">
+                                            <img src="images/client-logo-5.png" alt="">
                                         </div>
                                     </div>
                                     <!-- Comapany Support Logo End -->
@@ -180,7 +181,7 @@
                                     <!-- Company Support Logo Start -->
                                     <div class="swiper-slide">
                                         <div class="company-supports-logo">
-                                            <img src="images/company-supports-logo-2.svg" alt="">
+                                            <img src="images/client-logo-6.png" alt="">
                                         </div>
                                     </div>
                                     <!-- Comapany Support Logo End -->
@@ -188,7 +189,7 @@
                                     <!-- Company Support Logo Start -->
                                     <div class="swiper-slide">
                                         <div class="company-supports-logo">
-                                            <img src="images/company-supports-logo-3.svg" alt="">
+                                            <img src="images/client-logo-7.png" alt="">
                                         </div>
                                     </div>
                                     <!-- Comapany Support Logo End -->
@@ -196,7 +197,7 @@
                                     <!-- Company Support Logo Start -->
                                     <div class="swiper-slide">
                                         <div class="company-supports-logo">
-                                            <img src="images/company-supports-logo-4.svg" alt="">
+                                            <img src="images/client-logo-8.png" alt="">
                                         </div>
                                     </div>
                                     <!-- Comapany Support Logo End -->

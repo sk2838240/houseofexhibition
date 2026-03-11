@@ -53,7 +53,7 @@
                 <div class="contact-form">
                     <!-- Section Title Start -->
                     <div class="section-title">
-                        <h2 class="text-anime-style-3" data-cursor="-opaque">We’re Here to Help</h2>
+                        <h2 class="text-anime-style-3" data-cursor="-opaque">Request Quote</h2>
                         <p class="wow fadeInUp" data-wow-delay="0.2s">Questions? Ideas? Just need a hand? Our team is available today to offer the support and insight you need for your next project.</p>
                     </div>
                     <!-- Section Title End -->
@@ -80,9 +80,13 @@
                                 <input type="email" name="email" class="form-control" id="email" placeholder="E-mail Address" required>
                                 <div class="help-block with-errors"></div>
                             </div>
+                            <div class="form-group col-md-6 mb-4">
+                                <input type="text" name="company-name" class="form-control" id="company-name" placeholder="Company Name" required>
+                                <div class="help-block with-errors"></div>
+                            </div>
 
                             <div class="form-group col-md-12 mb-5">
-                                <textarea name="message" class="form-control" id="message" rows="5" placeholder="Write your message here..."></textarea>
+                                <textarea name="message" class="form-control" id="message" rows="5" placeholder="Describe Your requirements"></textarea>
                                 <div class="help-block with-errors"></div>
                             </div>
 
@@ -108,7 +112,7 @@
         <div class="row section-row">
             <div class="col-lg-12">
                 <div class="section-title section-title-center">
-                    <h2 class="text-anime-style-3" data-cursor="-opaque">Request a free stand design consultation today</h2>
+                    <h2 class="text-anime-style-3" data-cursor="-opaque">Request a bespoke stand design consultation today</h2>
                 </div>
             </div>
         </div>
@@ -122,19 +126,19 @@
                     </div>
                     <div class="feature-item-body">
                         <div class="feature-item-content">
-                            <h3>Custom Exhibition Stand Design in Dubai</h3>
-                            <p>Every brand has a unique story. At Velmora Events and Exhibitions Fz Co, your exhibition stand will reflect that story in a visually compelling way.</p>
-                            <p>Under the House of Exhibitions banner, our in-house design team creates fully customized stand designs tailored exactly to your brand identity, marketing goals, and target audience. We provide:</p>
+                            <h3>Bespoke Exhibition Stand Design in Dubai</h3>
+                            <p>Every brand carries a distinct narrative. At House of Exhibitions, we transform that narrative into a visually arresting physical environment.</p>
+                            <p>Our award-winning in-house design studio specializes in fully customized environments tailored to your brand’s DNA and strategic objectives. Our design suite includes:</p>
 
                             <ul style="list-style: none; padding-left: 0; margin-bottom: 20px;">
-                                <li style="padding: 8px 0; font-weight: 600; color: white;"><i class="fa-solid fa-arrow-right" style="margin-right: 10px; color: white;"></i> 3D stand design & realistic renderings</li>
-                                <li style="padding: 8px 0; font-weight: 600; color: white;"><i class="fa-solid fa-arrow-right" style="margin-right: 10px; color: white;"></i> Concept development</li>
-                                <li style="padding: 8px 0; font-weight: 600; color: white;"><i class="fa-solid fa-arrow-right" style="margin-right: 10px; color: white;"></i> Space planning</li>
-                                <li style="padding: 8px 0; font-weight: 600; color: white;"><i class="fa-solid fa-arrow-right" style="margin-right: 10px; color: white;"></i> Brand-focused layouts</li>
-                                <li style="padding: 8px 0; font-weight: 600; color: white;"><i class="fa-solid fa-arrow-right" style="margin-right: 10px; color: white;"></i> Visitor flow optimization</li>
+                                <li style="padding: 8px 0; font-weight: 600; color: white;"><i class="fa-solid fa-arrow-right" style="margin-right: 10px; color: white;"></i> Immersive 3D design & hyper-realistic renders</li>
+                                <li style="padding: 8px 0; font-weight: 600; color: white;"><i class="fa-solid fa-arrow-right" style="margin-right: 10px; color: white;"></i> Strategic concept development</li>
+                                <li style="padding: 8px 0; font-weight: 600; color: white;"><i class="fa-solid fa-arrow-right" style="margin-right: 10px; color: white;"></i> Architectural space planning</li>
+                                <li style="padding: 8px 0; font-weight: 600; color: white;"><i class="fa-solid fa-arrow-right" style="margin-right: 10px; color: white;"></i> Identity-focused booth layouts</li>
+                                <li style="padding: 8px 0; font-weight: 600; color: white;"><i class="fa-solid fa-arrow-right" style="margin-right: 10px; color: white;"></i> Optimized visitor engagement paths</li>
                             </ul>
 
-                            <p>Whether you are participating in GITEX, Arab Health, The Big 5, or any international trade show in Dubai, our expert designers ensure your booth stands out on the exhibition floor.</p>
+                            <p>Whether you are showcasing at GITEX, Arab Health, or The Big 5, House of Exhibitions ensures your presence dominates the exhibition floor.</p>
                         </div>
                         <div class="feature-item-btn">
                             <a href="contact.php" class="readmore-btn">Contact Us</a>
@@ -150,20 +154,20 @@
                     </div>
                     <div class="feature-item-body">
                         <div class="feature-item-content">
-                            <h3>Exhibition Stand Fabrication & Production</h3>
-                            <p>As premier exhibition stand contractors in Dubai, Velmora Events and Exhibitions Fz Co handles your complete fabrication seamlessly within our dedicated production facility.</p>
-                            <p>This allows the House of Exhibitions team to maintain strict quality control, exceptionally fast turnaround times, and unmatched cost efficiency. Our fabrication services include:</p>
+                            <h3>Precision Fabrication & Turnkey Production</h3>
+                            <p>As leading exhibition stand contractors in Dubai, House of Exhibitions manages the entire production lifecycle within our state-of-the-art facility.</p>
+                            <p>By keeping fabrication in-house, we guarantee absolute quality control, rapid lead times, and superior cost efficiency. Our production capabilities include:</p>
 
                             <ul style="list-style: none; padding-left: 0; margin-bottom: 20px;">
-                                <li style="padding: 8px 0; font-weight: 600; color: white;"><i class="fa-solid fa-arrow-right" style="margin-right: 10px; color: white;"></i> Custom carpentry & joinery</li>
-                                <li style="padding: 8px 0; font-weight: 600; color: white;"><i class="fa-solid fa-arrow-right" style="margin-right: 10px; color: white;"></i> Metal fabrication</li>
-                                <li style="padding: 8px 0; font-weight: 600; color: white;"><i class="fa-solid fa-arrow-right" style="margin-right: 10px; color: white;"></i> LED integration</li>
-                                <li style="padding: 8px 0; font-weight: 600; color: white;"><i class="fa-solid fa-arrow-right" style="margin-right: 10px; color: white;"></i> Acrylic & glass work</li>
-                                <li style="padding: 8px 0; font-weight: 600; color: white;"><i class="fa-solid fa-arrow-right" style="margin-right: 10px; color: white;"></i> Graphic printing & branding</li>
-                                <li style="padding: 8px 0; font-weight: 600; color: white;"><i class="fa-solid fa-arrow-right" style="margin-right: 10px; color: white;"></i> Electrical & lighting installation</li>
+                                <li style="padding: 8px 0; font-weight: 600; color: white;"><i class="fa-solid fa-arrow-right" style="margin-right: 10px; color: white;"></i> Master carpentry & bespoke joinery</li>
+                                <li style="padding: 8px 0; font-weight: 600; color: white;"><i class="fa-solid fa-arrow-right" style="margin-right: 10px; color: white;"></i> Structural metal & alloy fabrication</li>
+                                <li style="padding: 8px 0; font-weight: 600; color: white;"><i class="fa-solid fa-arrow-right" style="margin-right: 10px; color: white;"></i> Seamless LED & AV integration</li>
+                                <li style="padding: 8px 0; font-weight: 600; color: white;"><i class="fa-solid fa-arrow-right" style="margin-right: 10px; color: white;"></i> Specialized acrylic & glass craftsmanship</li>
+                                <li style="padding: 8px 0; font-weight: 600; color: white;"><i class="fa-solid fa-arrow-right" style="margin-right: 10px; color: white;"></i> High-definition graphic & brand printing</li>
+                                <li style="padding: 8px 0; font-weight: 600; color: white;"><i class="fa-solid fa-arrow-right" style="margin-right: 10px; color: white;"></i> Certified electrical & lighting setups</li>
                             </ul>
 
-                            <p>We exclusively use premium materials and advanced manufacturing techniques to guarantee durability, safety, and full compliance with all exhibition venue regulations.</p>
+                            <p>We utilize premium materials to ensure safety, durability, and full compliance with all major UAE venue regulations.</p>
                         </div>
                         <div class="feature-item-btn">
                             <a href="contact.php" class="readmore-btn">Contact Us</a>
@@ -174,7 +178,7 @@
 
             <div class="col-lg-12">
                 <div class="section-footer-text wow fadeInUp" data-wow-delay="0.4s">
-                    <p>Join Velmora Events and Exhibitions Fz Co and help weave innovation, quality, and success together worldwide.</p>
+                    <p>Partner with House of Exhibitions and define the future of exhibition excellence worldwide.</p>
                     <ul>
                         <li><span class="counter">4.9</span>/5</li>
                         <li>
@@ -184,7 +188,7 @@
                             <i class="fa-solid fa-star"></i>
                             <i class="fa-solid fa-star"></i>
                         </li>
-                        <li>Our 4200 Review</li>
+                        <li>Over 4,200 Client Reviews</li>
                     </ul>
                 </div>
             </div>
@@ -196,8 +200,8 @@
     <div class="container">
         <div class="row mb-5 text-center">
             <div class="col-lg-8 mx-auto">
-                <h2 class="fw-bold mb-3">Types of Exhibition Stands We Build</h2>
-                <p class="lead text-muted">We offer a wide range of exhibition stand solutions depending on your event objectives and budget at Velmora Events and Exhibitions Fz Co.</p>
+                <h2 class="fw-bold mb-3">Exhibition Stand Solutions</h2>
+                <p class="lead text-muted">House of Exhibitions offers a diverse portfolio of stand architectures designed to meet your specific marketing objectives and budget.</p>
             </div>
         </div>
 
@@ -209,7 +213,7 @@
                         <h4 class="card-title fw-bold mb-3">
                             <i class="fa-solid fa-star text-warning me-2"></i>Custom Exhibition Stands
                         </h4>
-                        <p class="card-text text-secondary">Fully bespoke stands designed from scratch by the House of Exhibitions to match your branding and marketing goals.</p>
+                        <p class="card-text text-secondary">Unique, high-impact environments designed from the ground up to reflect your brand's specific identity and prestige.</p>
                     </div>
                 </div>
             </div>
@@ -218,9 +222,9 @@
                 <div class="card h-100 shadow-sm border-0 bg-light">
                     <div class="card-body p-4">
                         <h4 class="card-title fw-bold mb-3">
-                            <i class="fa-solid fa-star text-warning me-2"></i>Modular Exhibition Stands
+                            <i class="fa-solid fa-star text-warning me-2"></i>Modular Display Systems
                         </h4>
-                        <p class="card-text text-secondary">Cost-effective, reusable systems ideal for businesses attending multiple exhibitions, flawlessly executed by our team.</p>
+                        <p class="card-text text-secondary">Sustainable, versatile, and cost-effective solutions ideal for brands with an active international exhibition calendar.</p>
                     </div>
                 </div>
             </div>
@@ -231,7 +235,7 @@
                         <h4 class="card-title fw-bold mb-3">
                             <i class="fa-solid fa-star text-warning me-2"></i>Double Decker Stands
                         </h4>
-                        <p class="card-text text-secondary">Multi-level stands that maximize space and create a premium corporate presence for your brand.</p>
+                        <p class="card-text text-secondary">Architectural multi-level builds that maximize your floor footprint and provide exclusive VIP hospitality zones.</p>
                     </div>
                 </div>
             </div>
@@ -240,9 +244,9 @@
                 <div class="card h-100 shadow-sm border-0 bg-light">
                     <div class="card-body p-4">
                         <h4 class="card-title fw-bold mb-3">
-                            <i class="fa-solid fa-star text-warning me-2"></i>Portable Display Solutions
+                            <i class="fa-solid fa-star text-warning me-2"></i>Agile Display Solutions
                         </h4>
-                        <p class="card-text text-secondary">Lightweight and easy-to-install systems provided by Velmora Events for smaller exhibitions and roadshows.</p>
+                        <p class="card-text text-secondary">Portable and high-quality systems engineered for rapid deployment at roadshows and boutique events.</p>
                     </div>
                 </div>
             </div>
@@ -251,9 +255,9 @@
                 <div class="card h-100 shadow-sm border-0 bg-light">
                     <div class="card-body p-4">
                         <h4 class="card-title fw-bold mb-3">
-                            <i class="fa-solid fa-star text-warning me-2"></i>Country Pavilion Stands
+                            <i class="fa-solid fa-star text-warning me-2"></i>International Pavilions
                         </h4>
-                        <p class="card-text text-secondary">Large-scale pavilion builds managed by Velmora Events and Exhibitions Fz Co for government or international trade delegations.</p>
+                        <p class="card-text text-secondary">Large-scale turnkey builds for government bodies and global trade delegations, managed with logistical excellence.</p>
                     </div>
                 </div>
             </div>
@@ -263,8 +267,8 @@
         <div class="row mt-5 text-center">
             <div class="col-12">
                 <div class="p-4 bg-dark text-white rounded shadow-sm">
-                    <p class="mb-0 fs-5 fw-semibold">No matter the size or complexity, the House of Exhibitions team ensures flawless execution.</p>
-                    <a href="contact.php" class="btn btn-primary mt-3 px-4 py-2">Contact Us Today</a>
+                    <p class="mb-0 fs-5 fw-semibold">Regardless of scale or complexity, House of Exhibitions delivers flawless execution.</p>
+                    <a href="contact.php" class="btn btn-primary mt-3 px-4 py-2">Consult with Our Experts</a>
                 </div>
             </div>
         </div>
@@ -341,7 +345,7 @@
             <div class="col-lg-8">
                 <h2 class="fw-bold display-5 mb-3" style="color: #ffffff;">Our Exhibition Stand Process</h2>
                 <p class="lead" style="color: #cccccc;">
-                    A successful exhibition stand requires careful planning and coordination. Our process ensures smooth execution from start to finish.
+                    Delivering a high-impact presence requires meticulous coordination. At House of Exhibitions, our proven methodology ensures a seamless journey from initial concept to the exhibition floor.
                 </p>
             </div>
         </div>
@@ -356,8 +360,8 @@
                             <i class="fa-solid fa-handshake"></i>
                         </div>
                         <h4 class="fw-bold text-danger mb-2">Step 1</h4>
-                        <h5 class="fw-semibold text-white mb-3">Consultation & Briefing</h5>
-                        <p style="color: #aaaaaa; font-size: 15px;">We understand your objectives, target audience, budget, and event requirements.</p>
+                        <h5 class="fw-semibold text-white mb-3">Strategic Briefing</h5>
+                        <p style="color: #aaaaaa; font-size: 15px;">We deep-dive into your marketing objectives, brand identity, and venue logistics to build a comprehensive project roadmap.</p>
                     </div>
                 </div>
             </div>
@@ -370,8 +374,8 @@
                             <i class="fa-solid fa-cube"></i>
                         </div>
                         <h4 class="fw-bold text-warning mb-2">Step 2</h4>
-                        <h5 class="fw-semibold text-white mb-3">Concept & 3D Design</h5>
-                        <p style="color: #aaaaaa; font-size: 15px;">Our designers create visual concepts and detailed 3D renderings for approval.</p>
+                        <h5 class="fw-semibold text-white mb-3">3D Conceptualization</h5>
+                        <p style="color: #aaaaaa; font-size: 15px;">Our design studio translates your vision into hyper-realistic 3D renderings, allowing you to visualize the stand before production begins.</p>
                     </div>
                 </div>
             </div>
@@ -384,8 +388,8 @@
                             <i class="fa-solid fa-cogs"></i>
                         </div>
                         <h4 class="fw-bold text-success mb-2">Step 3</h4>
-                        <h5 class="fw-semibold text-white mb-3">Engineering & Production</h5>
-                        <p style="color: #aaaaaa; font-size: 15px;">Once approved, we move to fabrication with quality checks at every stage.</p>
+                        <h5 class="fw-semibold text-white mb-3">Precision Fabrication</h5>
+                        <p style="color: #aaaaaa; font-size: 15px;">Manufacturing takes place in our specialized facility, where we apply rigorous quality control to every material and structural element.</p>
                     </div>
                 </div>
             </div>
@@ -398,8 +402,8 @@
                             <i class="fa-solid fa-truck-fast"></i>
                         </div>
                         <h4 class="fw-bold text-white mb-2">Step 4</h4>
-                        <h5 class="fw-semibold text-white mb-3">Installation at Venue</h5>
-                        <p style="color: #aaaaaa; font-size: 15px;">Our team handles logistics, on-site assembly, and technical setup.</p>
+                        <h5 class="fw-semibold text-white mb-3">Logistics & Installation</h5>
+                        <p style="color: #aaaaaa; font-size: 15px;">Our expert crew manages the secure transport and on-site assembly, ensuring all AV and electrical systems are fully operational.</p>
                     </div>
                 </div>
             </div>
@@ -412,8 +416,8 @@
                             <i class="fa-solid fa-warehouse"></i>
                         </div>
                         <h4 class="fw-bold text-danger mb-2">Step 5</h4>
-                        <h5 class="fw-semibold text-white mb-3">Dismantling & Storage</h5>
-                        <p style="color: #aaaaaa; font-size: 15px;">Post-event dismantling and storage options are available.</p>
+                        <h5 class="fw-semibold text-white mb-3">Dismantling & Support</h5>
+                        <p style="color: #aaaaaa; font-size: 15px;">Post-event, we handle the efficient teardown and offer professional storage solutions for your modular assets for future use.</p>
                     </div>
                 </div>
             </div>
@@ -424,7 +428,7 @@
             <div class="col-12">
                 <div class="d-inline-block px-5 py-3 border border-secondary rounded-pill" style="background-color: #111111;">
                     <h5 class="mb-0 fw-bold" style="color: #ffc107;">
-                        <i class="fa-solid fa-check-circle text-success me-2"></i> This turnkey approach ensures a stress-free exhibition experience.
+                        <i class="fa-solid fa-check-circle text-success me-2"></i> This turnkey approach by House of Exhibitions ensures a world-class, stress-free experience.
                     </h5>
                 </div>
             </div>
@@ -438,83 +442,61 @@
     <div class="container">
         <div class="row align-items-center">
             <div class="col-xl-6">
-                <!-- Our Benefits Content Start -->
                 <div class="our-benefits-content">
-                    <!-- Section Title Start -->
                     <div class="section-title">
-                        <h2 class="text-anime-style-3" data-cursor="-opaque">Why Choose NS Events & Exhibitions?</h2>
+                        <h2 class="text-anime-style-3" data-cursor="-opaque">The House of Exhibitions Advantage</h2>
                     </div>
-                    <!-- Section Title End -->
-
-                    <!-- Our Benefits Item List Start -->
                     <div class="benefits-item-list">
-    <div class="benefits-item wow fadeInUp" data-wow-delay="0.2s">
-        <div class="icon-box">
-            <img src="images/icon-benefits-item-1.svg" alt="Design Team">
-        </div>
-        <div class="benefits-item-content">
-            <h3>In-House Design & Production</h3>
-            <p>Our dedicated team handles everything from creative concepts to final fabrication, ensuring consistent quality and a seamless workflow for your exhibition stand.</p>
-        </div>
-    </div>
-    <div class="benefits-item wow fadeInUp" data-wow-delay="0.4s">
-        <div class="icon-box">
-            <img src="images/icon-benefits-item-2.svg" alt="Management">
-        </div>
-        <div class="benefits-item-content">
-            <h3>Experienced Project Management</h3>
-            <p>From DWTC to Expo City, our managers navigate venue regulations and technical approvals, guaranteeing timely delivery and stress-free execution.</p>
-        </div>
-    </div>    
-    </div>
-                    <!-- Our Benefits Item List End -->
-
-                    <!-- Our Benefits Footer Start -->
-                    <div class="our-benefits-footer wow fadeInUp" data-wow-delay="0.6s">
-                        <!-- Our Benefits Button Start -->
-                        <div class="our-benefits-btn">
-                            <a href="contact.php" class="btn-default">Contact Us</a>
+                        <div class="benefits-item wow fadeInUp" data-wow-delay="0.2s">
+                            <div class="icon-box">
+                                <img src="images/icon-benefits-item-1.svg" alt="Design & Production">
+                            </div>
+                            <div class="benefits-item-content">
+                                <h3>Turnkey Design & Fabrication</h3>
+                                <p>We bridge the gap between creative vision and physical reality by managing everything in-house. From bespoke 3D concepts to precision manufacturing, we guarantee unmatched quality control.</p>
+                            </div>
                         </div>
-                        <!-- Our Benefits Button End -->
-
-                        <!-- About Contact Box Start -->
+                        <div class="benefits-item wow fadeInUp" data-wow-delay="0.4s">
+                            <div class="icon-box">
+                                <img src="images/icon-benefits-item-2.svg" alt="Project Management">
+                            </div>
+                            <div class="benefits-item-content">
+                                <h3>Strategic Project Leadership</h3>
+                                <p>Our team excels at navigating the complexities of UAE venues. Whether at DWTC or Expo City, we handle all technical approvals and logistics for a seamless, on-time delivery.</p>
+                            </div>
+                        </div>    
+                    </div>
+                    <div class="our-benefits-footer wow fadeInUp" data-wow-delay="0.6s">
+                        <div class="our-benefits-btn">
+                            <a href="contact.php" class="btn-default">Get a Free Quote</a>
+                        </div>
                         <div class="about-contact-box">
                             <div class="icon-box">
-                                <img src="images/icon-phone-white.svg" alt="">
+                                <img src="images/icon-phone-white.svg" alt="Phone Icon">
                             </div>
                             <div class="about-contact-box-content">
-                                <h3>Call Now!</h3>
+                                <h3>Expert Consultation</h3>
                                 <p><a href="tel:+971523426256">🇦🇪 +971 52 342 6256</a></p>
                             </div>
                         </div>
-                        <!-- About Contact Box End -->
+                        </div>
                     </div>
-                    <!-- Our Benefits Footer End -->
                 </div>
-                <!-- Our Benefits Content End -->
-            </div>
 
             <div class="col-xl-6">
-                <!-- Our Benefits Images Start -->
                 <div class="our-benefits-images">
-                    <!-- Our Benefits Image Start -->
                     <div class="our-benefits-img image-1">
                         <figure class="image-anime reveal">
-                            <img src="images/design-production.png" alt="">
+                            <img src="images/design-production.png" alt="House of Exhibitions Design Studio">
                         </figure>
                     </div>
-                    <!-- Our Benefits Image End -->
-
-                    <!-- Our Benefits Image Start -->
                     <div class="our-benefits-img image-2">
                         <figure class="image-anime reveal">
-                            <img src="images/project-management.png" alt="">
+                            <img src="images/project-management.png" alt="House of Exhibitions Venue Management">
                         </figure>
                     </div>
-                    <!-- Our Benefits Image End -->
+                    </div>
                 </div>
-                <!-- Why Choose Images End -->
-            </div>
         </div>
     </div>
 </div>
@@ -630,7 +612,7 @@
         <div class="row justify-content-center mb-5 text-center">
             <div class="col-lg-8">
                 <h2 class="display-5 fw-bold mb-3 text-white">Why Partner With Us?</h2>
-                <p class="lead" style="color: #e0d4fc;">The House of Exhibitions standard: Where innovative design meets flawless technical execution.</p>
+                <p class="lead" style="color: #e0d4fc;">The House of Exhibitions standard: Where world-class design meets flawless technical execution.</p>
             </div>
         </div>
 
@@ -640,19 +622,19 @@
                 <div class="feature-card-modern">
                     <div class="feature-img-wrapper">
                         <div class="feature-number-badge">01</div>
-                        <img src="images/Experienced-Exhibition-Team.png" alt="Velmora Experienced Team">
+                        <img src="images/Experienced-Exhibition-Team.png" alt="House of Exhibitions Expert Team">
                         <div class="feature-img-overlay"></div>
                     </div>
                     <div class="feature-card-body">
-                        <h3>Experienced Exhibition Team</h3>
-                        <p class="text-secondary" style="font-size: 0.95rem;">Velmora Events and Exhibitions Fz Co is trusted across Dubai because our dedicated House of Exhibitions team includes:</p>
+                        <h3>Elite Exhibition Specialists</h3>
+                        <p class="text-secondary" style="font-size: 0.95rem;">House of Exhibitions is a trusted name across the UAE because our dedicated internal team includes:</p>
                         <ul class="custom-feature-list">
-                            <li><i class="fa-solid fa-check mt-1" style="color: #f7931e;"></i> Expert exhibition stand designers</li>
-                            <li><i class="fa-solid fa-check mt-1" style="color: #f7931e;"></i> Skilled booth fabricators</li>
-                            <li><i class="fa-solid fa-check mt-1" style="color: #f7931e;"></i> Dedicated project managers</li>
-                            <li><i class="fa-solid fa-check mt-1" style="color: #f7931e;"></i> On-site installation & support crew</li>
+                            <li><i class="fa-solid fa-check mt-1" style="color: #f7931e;"></i> Strategic exhibition stand designers</li>
+                            <li><i class="fa-solid fa-check mt-1" style="color: #f7931e;"></i> Master-grade booth fabricators</li>
+                            <li><i class="fa-solid fa-check mt-1" style="color: #f7931e;"></i> Proactive senior project managers</li>
+                            <li><i class="fa-solid fa-check mt-1" style="color: #f7931e;"></i> Expert on-site technical & rigging crews</li>
                         </ul>
-                        <p class="feature-footer-text">We handle the entire booth process so you can focus on products, leads, and growth.</p>
+                        <p class="feature-footer-text">We manage the end-to-end production so you can focus on audience engagement and growth.</p>
                     </div>
                 </div>
             </div>
@@ -661,19 +643,19 @@
                 <div class="feature-card-modern">
                     <div class="feature-img-wrapper">
                         <div class="feature-number-badge">02</div>
-                        <img src="images/Innovative-Approach.png" alt="House of Exhibitions Innovative Design">
+                        <img src="images/Innovative-Approach.png" alt="House of Exhibitions Strategic Design">
                         <div class="feature-img-overlay"></div>
                     </div>
                     <div class="feature-card-body">
-                        <h3>Innovative Approach</h3>
-                        <p class="text-secondary" style="font-size: 0.95rem;">We don't design “just another booth.” As premier builders in Dubai, Velmora creates stands that deliver ultimate value:</p>
+                        <h3>Strategic Creative Direction</h3>
+                        <p class="text-secondary" style="font-size: 0.95rem;">We build more than just a booth. As premier contractors in Dubai, House of Exhibitions delivers high-ROI environments:</p>
                         <ul class="custom-feature-list">
-                            <li><i class="fa-solid fa-check mt-1" style="color: #f7931e;"></i> Optimized visitor flow</li>
-                            <li><i class="fa-solid fa-check mt-1" style="color: #f7931e;"></i> Stronger brand visibility</li>
-                            <li><i class="fa-solid fa-check mt-1" style="color: #f7931e;"></i> High-quality finishing</li>
-                            <li><i class="fa-solid fa-check mt-1" style="color: #f7931e;"></i> Smart layouts for meetings & demos</li>
+                            <li><i class="fa-solid fa-check mt-1" style="color: #f7931e;"></i> Scientifically optimized visitor flow</li>
+                            <li><i class="fa-solid fa-check mt-1" style="color: #f7931e;"></i> Commanding brand visibility</li>
+                            <li><i class="fa-solid fa-check mt-1" style="color: #f7931e;"></i> High-specification luxury finishes</li>
+                            <li><i class="fa-solid fa-check mt-1" style="color: #f7931e;"></i> Product-centric demo & meeting zones</li>
                         </ul>
-                        <p class="feature-footer-text">Every House of Exhibitions design is built strictly around your business goals.</p>
+                        <p class="feature-footer-text">Every House of Exhibitions concept is engineered strictly around your commercial KPIs.</p>
                     </div>
                 </div>
             </div>
@@ -682,19 +664,19 @@
                 <div class="feature-card-modern">
                     <div class="feature-img-wrapper">
                         <div class="feature-number-badge">03</div>
-                        <img src="images/Fully-Equipped-Workshop.png" alt="Velmora Fabrication Workshop">
+                        <img src="images/Fully-Equipped-Workshop.png" alt="House of Exhibitions Production Facility">
                         <div class="feature-img-overlay"></div>
                     </div>
                     <div class="feature-card-body">
-                        <h3>Fully Equipped Workshop</h3>
-                        <p class="text-secondary" style="font-size: 0.95rem;">All Velmora booths and stands are meticulously crafted using our in-house, professional production setup. We focus on:</p>
+                        <h3>State-of-the-Art Production</h3>
+                        <p class="text-secondary" style="font-size: 0.95rem;">All our stands and architectural structures are meticulously crafted in our private production facility. We offer:</p>
                         <ul class="custom-feature-list">
-                            <li><i class="fa-solid fa-check mt-1" style="color: #f7931e;"></i> Precision fabrication</li>
-                            <li><i class="fa-solid fa-check mt-1" style="color: #f7931e;"></i> Premium finishing & materials</li>
-                            <li><i class="fa-solid fa-check mt-1" style="color: #f7931e;"></i> Guaranteed on-time delivery</li>
-                            <li><i class="fa-solid fa-check mt-1" style="color: #f7931e;"></i> Eco-conscious build options</li>
+                            <li><i class="fa-solid fa-check mt-1" style="color: #f7931e;"></i> Industrial-grade precision fabrication</li>
+                            <li><i class="fa-solid fa-check mt-1" style="color: #f7931e;"></i> Premium sustainable materials</li>
+                            <li><i class="fa-solid fa-check mt-1" style="color: #f7931e;"></i> Absolute on-time delivery guarantee</li>
+                            <li><i class="fa-solid fa-check mt-1" style="color: #f7931e;"></i> Strict quality-assurance inspections</li>
                         </ul>
-                        <p class="feature-footer-text">Ensuring structural integrity, durability, and a stunning final presentation.</p>
+                        <p class="feature-footer-text">Ensuring total structural integrity and a world-class presence on the show floor.</p>
                     </div>
                 </div>
             </div>
@@ -705,130 +687,130 @@
 
 <!-- Our Faqs Section Start -->
 <div class="our-faqs">
-    <div class="container">
-        <div class="row align-items-center">
-            <div class="col-xl-5">
-                <!-- Faqs Image Box Start -->
-                <div class="faqs-image-box wow fadeInUp" data-wow-delay="0.2s">
-                    <!-- Faqs Image Start -->
-                    <div class="faqs-image">
-                        <figure class="image-anime">
-                            <img src="images/about-faq.png" alt="">
-                        </figure>
-                    </div>
-                    <!-- Faqs Image End -->
-
-                    <!-- Faqs CTA Image Box Start -->
-                    <div class="faqs-cta-image-box">
-                        <!-- Faqs CTA Box Start -->
-                        <div class="faqs-cta-box">
-                            <!-- Faqs CTA Box Title Start -->
-                            <div class="faqs-cta-box-title">
-                                <h3>Your Questions, Clearly Answer</h3>
-                            </div>
-                            <!-- Faqs CTA Box Title End -->
-
-                            <!-- Faqs CTA Box Item Start -->
-                            <div class="faqs-cta-box-item">
-                                <div class="icon-box">
-                                    <img src="images/icon-phone-accent.svg" alt="">
-                                </div>
-                                <p><a href="tel:+971523426256">🇦🇪 +971 52 342 6256</a></p>
-                            </div>
-                            <!-- Faqs CTA Box Item End -->
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-xl-5">
+                    <!-- Faqs Image Box Start -->
+                    <div class="faqs-image-box wow fadeInUp" data-wow-delay="0.2s">
+                        <!-- Faqs Image Start -->
+                        <div class="faqs-image">
+                            <figure class="image-anime">
+                                <img src="images/faqs-image.jpg" alt="">
+                            </figure>
                         </div>
-                        <!-- Faqs CTA Box End -->
-                    </div>
-                    <!-- Faqs CTA Image Box End -->
-                </div>
-                <!-- Faqs Image Box End -->
-            </div>
+                        <!-- Faqs Image End -->
 
-                <!-- Faqs Content Start -->
+                        <!-- Faqs CTA Image Box Start -->
+                        <div class="faqs-cta-image-box">
+                            <!-- Faqs CTA Box Start -->
+                            <div class="faqs-cta-box">
+                                <!-- Faqs CTA Box Title Start -->
+                                <div class="faqs-cta-box-title">
+                                    <h3>Your Questions, Clearly Answer</h3>
+                                </div>
+                                <!-- Faqs CTA Box Title End -->
+
+                                <!-- Faqs CTA Box Item Start -->
+                                <div class="faqs-cta-box-item">
+                                    <div class="icon-box">
+                                        <img src="images/icon-phone-accent.svg" alt="">
+                                    </div>
+                                    <p><a href="tel:+971523426256">🇦🇪 +971 52 342 6256</a></p>
+                                </div>
+                                <!-- Faqs CTA Box Item End -->
+                            </div>
+                            <!-- Faqs CTA Box End -->
+                        </div>
+                        <!-- Faqs CTA Image Box End -->
+                    </div>
+                    <!-- Faqs Image Box End -->
+                </div>
+
                 <div class="col-xl-7">
-                <!-- Faqs Content Start -->
-                <div class="faqs-content">
-                    <!-- Section Title Start -->
-                    <div class="section-title">
-                        <h3 class="wow fadeInUp">FAQ's</h3>
-                        <h2 class="text-anime-style-3" data-cursor="-opaque">What our customers say about their experience</h2>
+                    <!-- Faqs Content Start -->
+                    <div class="faqs-content">
+                        <!-- Section Title Start -->
+                        <div class="section-title">
+                            <h3 class="wow fadeInUp">FAQ's</h3>
+                            <h2 class="text-anime-style-3" data-cursor="-opaque">What our customers say about their experience</h2>
+                        </div>
+                        <!-- Section Title End -->
+
+                        <!-- FAQ Accordion Start -->
+                        <div class="faq-accordion" id="accordion">
+                            <div class="accordion-item wow fadeInUp">
+                                <h2 class="accordion-header" id="heading1">
+                                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse1" aria-expanded="true" aria-controls="collapse1">
+                                        1. How is event management priced in Dubai?
+                                    </button>
+                                </h2>
+                                <div id="collapse1" class="accordion-collapse collapse show" role="region" aria-labelledby="heading1" data-bs-parent="#accordion">
+                                    <div class="accordion-body">
+                                        <p>Expenses fluctuate based on the size of the event and the level of technical detail involved. To ensure accuracy, we provide personalized cost estimates based on your vision.</p>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="accordion-item wow fadeInUp" data-wow-delay="0.2s">
+                                <h2 class="accordion-header" id="heading2">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
+                                        2. Can your team handle major exhibition projects?
+                                    </button>
+                                </h2>
+                                <div id="collapse2" class="accordion-collapse collapse" role="region" aria-labelledby="heading2" data-bs-parent="#accordion">
+                                    <div class="accordion-body">
+                                        <p>Yes, we specialize in large-scale event management. We have a proven track record of delivering complex builds, including multi-level structures and custom pavilions, with precision.</p>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="accordion-item wow fadeInUp" data-wow-delay="0.4s">
+                                <h2 class="accordion-header" id="heading3">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
+                                        3. Can exhibitors customize their stall designs and layouts?
+                                    </button>
+                                </h2>
+                                <div id="collapse3" class="accordion-collapse collapse" role="region" aria-labelledby="heading3" data-bs-parent="#accordion">
+                                    <div class="accordion-body">
+                                        <p>Absolutely. We offer both shell-scheme packages and raw space options, allowing you to work with our design partners or your own team to create a bespoke brand experience.</p>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="accordion-item wow fadeInUp" data-wow-delay="0.6s">
+                                <h2 class="accordion-header" id="heading4">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
+                                        4. Do you provide on-site technical and logistical support?
+                                    </button>
+                                </h2>
+                                <div id="collapse4" class="accordion-collapse collapse" role="region" aria-labelledby="heading4" data-bs-parent="#accordion">
+                                    <div class="accordion-body">
+                                        <p>Yes, House of Exhibitions provides dedicated on-site support for electrical needs, high-speed Wi-Fi, and material handling to ensure your setup runs smoothly.</p>
+                                    </div>
+                                </div>
+                            </div>
+                             <div class="accordion-item wow fadeInUp" data-wow-delay="0.6s">
+                                <h2 class="accordion-header" id="heading4">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
+                                        5. Are your services available in other locations?
+                                    </button>
+                                </h2>
+                                <div id="collapse4" class="accordion-collapse collapse" role="region" aria-labelledby="heading4" data-bs-parent="#accordion">
+                                    <div class="accordion-body">
+                                        <p>Absolutely. We support projects across the United Arab Emirates and the broader GCC, ensuring high-quality service wherever you need us.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- FAQ Accordion End -->
                     </div>
-                    <!-- Section Title End -->
-
-                    <!-- FAQ Accordion Start -->
-                    <div class="faq-accordion" id="accordion">
-                        <div class="accordion-item wow fadeInUp">
-                            <h2 class="accordion-header" id="heading1">
-                                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse1" aria-expanded="true" aria-controls="collapse1">
-                                    1. How do I register my brand for an upcoming exhibition?
-                                </button>
-                            </h2>
-                            <div id="collapse1" class="accordion-collapse collapse show" role="region" aria-labelledby="heading1" data-bs-parent="#accordion">
-                                <div class="accordion-body">
-                                    <p>You can register directly through our online portal by selecting your desired event, choosing a stall category, and submitting your brand profile for review by our curation team.</p>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="accordion-item wow fadeInUp" data-wow-delay="0.2s">
-                            <h2 class="accordion-header" id="heading2">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
-                                    2. Where can I find the specific floor plan and stall locations?
-                                </button>
-                            </h2>
-                            <div id="collapse2" class="accordion-collapse collapse" role="region" aria-labelledby="heading2" data-bs-parent="#accordion">
-                                <div class="accordion-body">
-                                    <p>Once your registration is confirmed, a detailed digital floor plan will be available in your exhibitor dashboard, showing precise dimensions and neighboring brand placements.</p>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="accordion-item wow fadeInUp" data-wow-delay="0.4s">
-                            <h2 class="accordion-header" id="heading3">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
-                                    3. Can exhibitors customize their stall designs and layouts?
-                                </button>
-                            </h2>
-                            <div id="collapse3" class="accordion-collapse collapse" role="region" aria-labelledby="heading3" data-bs-parent="#accordion">
-                                <div class="accordion-body">
-                                    <p>Absolutely. We offer both shell-scheme packages and raw space options, allowing you to work with our design partners or your own team to create a bespoke brand experience.</p>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="accordion-item wow fadeInUp" data-wow-delay="0.6s">
-                            <h2 class="accordion-header" id="heading4">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
-                                    4. Do you provide on-site technical and logistical support?
-                                </button>
-                            </h2>
-                            <div id="collapse4" class="accordion-collapse collapse" role="region" aria-labelledby="heading4" data-bs-parent="#accordion">
-                                <div class="accordion-body">
-                                    <p>Yes, House of Exhibitions provides dedicated on-site support for electrical needs, high-speed Wi-Fi, and material handling to ensure your setup runs smoothly.</p>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="accordion-item wow fadeInUp" data-wow-delay="0.8s">
-                            <h2 class="accordion-header" id="heading5">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse5" aria-expanded="false" aria-controls="collapse5">
-                                    5. What is the policy for cancellation or rescheduling?
-                                </button>
-                            </h2>
-                            <div id="collapse5" class="accordion-collapse collapse" role="region" aria-labelledby="heading5" data-bs-parent="#accordion">
-                                <div class="accordion-body">
-                                    <p>Cancellations made 30 days prior to the event are eligible for a partial refund. For rescheduling, we offer credit that can be applied to any House of Exhibitions event within the same calendar year.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- FAQ Accordion End -->
+                    <!-- Faqs Content End -->
                 </div>
-                <!-- Faqs Content End -->
             </div>
         </div>
     </div>
-</div>
+   
+     </div> 
 <!-- Our Faqs Section End -->
 
 <?php include "incl/footer.php"; ?>

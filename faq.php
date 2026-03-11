@@ -30,6 +30,12 @@
                                 </div>
                                 <p><a href="tel:+971523426256">🇦🇪 +971 52 342 6256</a></p>
                             </div>
+                            <div class="faqs-cta-box-item">
+                                <div class="icon-box">
+                                    <img src="images/whatsapp.png" alt="">
+                                </div>
+                                <p><a href="tel:+971555269397">🇦🇪 +971 55 5269397</a></p>
+                            </div>
                             <!-- Faqs CTA Box Item End -->
                         </div>
                         <!-- Faqs CTA Box End -->
@@ -45,7 +51,7 @@
                     <!-- Section Title Start -->
                     <div class="section-title">
                         <h3 class="wow fadeInUp">FAQ's</h3>
-                        <h2 class="text-anime-style-3" data-cursor="-opaque">What our customers say about their experience</h2>
+                        <h2 class="text-anime-style-3" data-cursor="-opaque">Your questions, answered by our experts</h2>
                     </div>
                     <!-- Section Title End -->
 

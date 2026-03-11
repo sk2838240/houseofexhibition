@@ -15,7 +15,7 @@
                             <ul class="navbar-nav mr-auto" id="menu">
                                 <li class="nav-item"><a class="nav-link" href="index.php">Home</a></li>
                                 <li class="nav-item"><a class="nav-link" href="about.php">About Us</a></li>
-                                <li class="nav-item submenu"><a class="nav-link" href="#">Services Exhibition</a>
+                                <li class="nav-item submenu"><a class="nav-link" href="#">Our Services</a>
                                     <ul>
                                         <li class="nav-item"><a class="nav-link" href="exhibition-stand-builders.php">Exhibition Stand Builders</a></li>
                                         <li class="nav-item"><a class="nav-link" href="interior-fit-out-company.php">Interior Fit Out Company</a></li>
@@ -27,7 +27,7 @@
                                 </li>
                                 <li class="nav-item"><a class="nav-link" href="contact.php">Contact Us</a></li>
                                 <li class="nav-item"><a class="nav-link" href="#">Pay Online</a></li>
-                                <li class="nav-item"><a class="nav-link" href="#">Carrer</a></li>
+                                <li class="nav-item"><a class="nav-link" href="#">Career</a></li>
                             </ul>
                         </div>
                         

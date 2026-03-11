@@ -1,13 +1,37 @@
 <?php include "incl/header.php"; ?>
 
+<style>
+    /* Base Desktop Styles */
+    .carousel-item {
+        background-size: cover;
+        background-position: center;
+        min-height: 85vh;
+        background-repeat: no-repeat;
+    }
+
+    /* Mobile Fix */
+    @media (max-width: 767px) {
+        .carousel-item {
+            /* 'contain' ensures the whole image is visible without cropping */
+            background-size: contain !important;
+            /* Adjust height to match the image aspect ratio on mobile */
+            min-height: 300px !important;
+            background-color: #000;
+            /* Adds black bars if the image is too short */
+        }
+
+        /* Optional: Adjust the hero section height so there isn't a huge gap below the image */
+        .hero {
+            min-height: auto !important;
+        }
+    }
+</style>
+
 <div class="hero dark-section parallaxie">
     <div id="heroBannerCarousel" class="carousel slide carousel-fade" data-bs-ride="carousel">
         <div class="carousel-inner">
-
-            <div class="carousel-item active" style="background-image: url('images/home-page-banner-1.png'); background-size: cover; background-position: center; min-height: 85vh;"></div>
-
-            <div class="carousel-item" style="background-image: url('images/home-page-banner-2.png'); background-size: cover; background-position: center; min-height: 85vh;"></div>
-
+            <div class="carousel-item active" style="background-image: url('images/home-page-banner-1.png');"></div>
+            <div class="carousel-item" style="background-image: url('images/home-page-banner-2.png');"></div>
         </div>
     </div>
 </div>
@@ -414,15 +438,47 @@
                             <!-- Our Benefits Button End -->
 
                             <!-- About Contact Box Start -->
-                            <div class="about-contact-box">
-                                <div class="icon-box">
-                                    <img src="images/icon-phone-white.svg" alt="">
+                            <div class="about-benefits-footer d-flex flex-wrap gap-4 wow fadeInUp" data-wow-delay="0.6s">
+
+                                <div class="about-contact-box">
+                                    <div class="icon-box">
+                                        <img src="images/icon-phone-white.svg" alt="Phone" class="img-fluid">
+                                    </div>
+                                    <div class="about-contact-box-content">
+                                        <h3>Call Now!</h3>
+                                        <p><a href="tel:+971523426256">🇦🇪 +971 52 342 6256</a></p>
+                                    </div>
                                 </div>
-                                <div class="about-contact-box-content">
-                                    <h3>Call Now!</h3>
-                                    <p><a href="tel:+971523426256">🇦🇪 +971 52 342 6256</a></p>
+
+                                <div class="about-contact-box">
+                                    <div class="icon-box" style="background:"> <img src="images/whatsapp.png" alt="WhatsApp" class="img-fluid" style="width: 25px; height: 25px;">
+                                    </div>
+                                    <div class="about-contact-box-content">
+                                        <h3>WhatsApp</h3>
+                                        <p><a href="https://wa.me/971555269397" target="_blank">🇦🇪 +971 55 526 9397</a></p>
+                                    </div>
                                 </div>
+
                             </div>
+
+                            <style>
+                                /* Responsive Fix for the container */
+                                .about-benefits-footer {
+                                    display: flex;
+                                    flex-wrap: wrap;
+                                    /* Allows stacking on small mobile screens */
+                                    gap: 20px;
+                                }
+
+                                @media (max-width: 576px) {
+                                    .about-contact-box {
+                                        width: 100%;
+                                        /* Full width on very small screens */
+                                        margin-bottom: 10px;
+                                    }
+                                }
+                            </style>
+
                             <!-- About Contact Box End -->
                         </div>
                         <!-- Our Benefits Footer End -->
@@ -636,19 +692,14 @@
     <div class="about-us">
         <div class="container">
             <div class="row align-items-center">
-
                 <div class="col-xl-6 order-2 order-xl-1">
                     <div class="about-us-content">
                         <div class="section-title">
                             <h2 class="text-anime-style-3" data-cursor="-opaque">Our Major Venues We Work With</h2>
                             <p class="wow fadeInUp" data-wow-delay="0.2s">House of Exhibitions has a proven track record of designing and executing high-impact stands across the world's most prestigious exhibition centers. We understand the unique logistics, technical requirements, and scale of these global hubs.</p>
                         </div>
-
                         <div class="about-us-body wow fadeInUp" data-wow-delay="0.4s">
                             <div class="about-mission-vision-box wow fadeInUp" data-wow-delay="0.4s">
-
-
-
                                 <div class="about-mission-vision-nav">
                                     <ul class="nav nav-tabs" id="speakerTab" role="tablist">
                                         <li class="nav-item" role="presentation">
@@ -657,9 +708,17 @@
                                         <li class="nav-item" role="presentation">
                                             <button class="nav-link" id="expert-link" data-bs-toggle="tab" data-bs-target="#expert-pane" type="button" role="tab" aria-controls="expert-pane" aria-selected="false">Dubai Exhibition Centre</button>
                                         </li>
+                                        <li class="nav-item" role="presentation">
+                                            <button class="nav-link" id="festival-link" data-bs-toggle="tab" data-bs-target="#festival-pane" type="button" role="tab" aria-controls="festival-pane" aria-selected="false">Festival Arena</button>
+                                        </li>
+                                        <li class="nav-item" role="presentation">
+                                            <button class="nav-link" id="coca-cola-link" data-bs-toggle="tab" data-bs-target="#coca-cola-pane" type="button" role="tab" aria-controls="coca-cola-pane" aria-selected="false">Coca-Cola Arena</button>
+                                        </li>
+                                        <li class="nav-item" role="presentation">
+                                            <button class="nav-link" id="hotel-link" data-bs-toggle="tab" data-bs-target="#hotel-pane" type="button" role="tab" aria-controls="hotel-pane" aria-selected="false">Major Hotel Venues</button>
+                                        </li>
                                     </ul>
                                 </div>
-
                                 <div class="tab-content mt-3" id="speakerTabContent">
                                     <div class="tab-pane fade show active" id="impact-pane" role="tabpanel" aria-labelledby="impact-link">
                                         <div class="vision-mission-content">
@@ -671,24 +730,25 @@
                                             <p>Located in the visionary Expo City Dubai, the Dubai Exhibition Centre is the gold standard for modern, large-scale activations. At House of Exhibitions, we align our design philosophy with the DEC’s focus on sustainability and cutting-edge technology.</p>
                                         </div>
                                     </div>
-                                </div>
+                                    <div class="tab-pane fade" id="festival-pane" role="tabpanel" aria-labelledby="festival-link">
+                                        <div class="vision-mission-content">
+                                            <p>The Festival Arena offers a unique, pillar-less expanse that allows for total creative freedom. House of Exhibitions leverages this versatile space to build grand-scale custom stands and immersive corporate events that require uninterrupted sightlines and massive floor-to-ceiling branding.</p>
+                                        </div>
+                                    </div>
 
+                                    <div class="tab-pane fade" id="coca-cola-pane" role="tabpanel" aria-labelledby="coca-cola-link">
+                                        <div class="vision-mission-content">
+                                            <p>Navigating the complex infrastructure of the region's largest indoor multipurpose arena is a challenge we welcome. At the Coca-Cola Arena, we focus on high-spec technical integration and dynamic structures that match the energy of live entertainment and global corporate summits.</p>
+                                        </div>
+                                    </div>
+
+                                    <div class="tab-pane fade" id="hotel-pane" role="tabpanel" aria-labelledby="hotel-link">
+                                        <div class="vision-mission-content">
+                                            <p>From the luxury ballrooms of Atlantis The Royal to the Madinat Jumeirah, we adapt our designs to fit the sophisticated aesthetics of Dubai’s five-star hotels. Our team specializes in "boutique" exhibition excellence—delivering premium, high-finish stands within the logistical constraints of luxury hospitality environments.</p>
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
-
-                            <!-- <div class="about-us-item-list wow fadeInUp" data-wow-delay="0.6s">
-                                <div class="about-us-item">
-                                    <div class="icon-box"><img src="images/icon-about-us-item-1.svg" alt="Icon"></div>
-                                    <div class="about-us-item-content">
-                                        <h3>Engage with global thought leaders.</h3>
-                                    </div>
-                                </div>
-                                <div class="about-us-item">
-                                    <div class="icon-box"><img src="images/icon-about-us-item-2.svg" alt="Icon"></div>
-                                    <div class="about-us-item-content">
-                                        <h3>Interactive Q&A and networking sessions.</h3>
-                                    </div>
-                                </div>
-                            </div> -->
                         </div>
                     </div>
                 </div>
@@ -711,300 +771,177 @@
     <!-- About Us Section End -->
 
     <!-- Our Faqs Section Start -->
-    <div class="our-faqs">
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col-xl-5">
-                    <!-- Faqs Image Box Start -->
-                    <div class="faqs-image-box wow fadeInUp" data-wow-delay="0.2s">
-                        <!-- Faqs Image Start -->
-                        <div class="faqs-image">
-                            <figure class="image-anime">
-                                <img src="images/faqs-image.jpg" alt="">
-                            </figure>
-                        </div>
-                        <!-- Faqs Image End -->
-
-                        <!-- Faqs CTA Image Box Start -->
-                        <div class="faqs-cta-image-box">
-                            <!-- Faqs CTA Box Start -->
-                            <div class="faqs-cta-box">
-                                <!-- Faqs CTA Box Title Start -->
-                                <div class="faqs-cta-box-title">
-                                    <h3>Your Questions, Clearly Answer</h3>
-                                </div>
-                                <!-- Faqs CTA Box Title End -->
-
-                                <!-- Faqs CTA Box Item Start -->
-                                <div class="faqs-cta-box-item">
-                                    <div class="icon-box">
-                                        <img src="images/icon-phone-accent.svg" alt="">
-                                    </div>
-                                    <p><a href="tel:+971523426256">🇦🇪 +971 52 342 6256</a></p>
-                                </div>
-                                <!-- Faqs CTA Box Item End -->
-                            </div>
-                            <!-- Faqs CTA Box End -->
-                        </div>
-                        <!-- Faqs CTA Image Box End -->
-                    </div>
-                    <!-- Faqs Image Box End -->
-                </div>
-
-                <div class="col-xl-7">
-                    <!-- Faqs Content Start -->
-                    <div class="faqs-content">
-                        <!-- Section Title Start -->
-                        <div class="section-title">
-                            <h3 class="wow fadeInUp">FAQ's</h3>
-                            <h2 class="text-anime-style-3" data-cursor="-opaque">What our customers say about their experience</h2>
-                        </div>
-                        <!-- Section Title End -->
-
-                        <!-- FAQ Accordion Start -->
-                        <div class="faq-accordion" id="accordion">
-                            <div class="accordion-item wow fadeInUp">
-                                <h2 class="accordion-header" id="heading1">
-                                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse1" aria-expanded="true" aria-controls="collapse1">
-                                        1. How is event management priced in Dubai?
-                                    </button>
-                                </h2>
-                                <div id="collapse1" class="accordion-collapse collapse show" role="region" aria-labelledby="heading1" data-bs-parent="#accordion">
-                                    <div class="accordion-body">
-                                        <p>Expenses fluctuate based on the size of the event and the level of technical detail involved. To ensure accuracy, we provide personalized cost estimates based on your vision.</p>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="accordion-item wow fadeInUp" data-wow-delay="0.2s">
-                                <h2 class="accordion-header" id="heading2">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
-                                        2. Can your team handle major exhibition projects?
-                                    </button>
-                                </h2>
-                                <div id="collapse2" class="accordion-collapse collapse" role="region" aria-labelledby="heading2" data-bs-parent="#accordion">
-                                    <div class="accordion-body">
-                                        <p>Yes, we specialize in large-scale event management. We have a proven track record of delivering complex builds, including multi-level structures and custom pavilions, with precision.</p>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="accordion-item wow fadeInUp" data-wow-delay="0.4s">
-                                <h2 class="accordion-header" id="heading3">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
-                                        3. Can exhibitors customize their stall designs and layouts?
-                                    </button>
-                                </h2>
-                                <div id="collapse3" class="accordion-collapse collapse" role="region" aria-labelledby="heading3" data-bs-parent="#accordion">
-                                    <div class="accordion-body">
-                                        <p>Absolutely. We offer both shell-scheme packages and raw space options, allowing you to work with our design partners or your own team to create a bespoke brand experience.</p>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="accordion-item wow fadeInUp" data-wow-delay="0.6s">
-                                <h2 class="accordion-header" id="heading4">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
-                                        4. Do you provide on-site technical and logistical support?
-                                    </button>
-                                </h2>
-                                <div id="collapse4" class="accordion-collapse collapse" role="region" aria-labelledby="heading4" data-bs-parent="#accordion">
-                                    <div class="accordion-body">
-                                        <p>Yes, House of Exhibitions provides dedicated on-site support for electrical needs, high-speed Wi-Fi, and material handling to ensure your setup runs smoothly.</p>
-                                    </div>
-                                </div>
-                            </div>
-                             <div class="accordion-item wow fadeInUp" data-wow-delay="0.6s">
-                                <h2 class="accordion-header" id="heading4">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
-                                        5. Are your services available in other locations?
-                                    </button>
-                                </h2>
-                                <div id="collapse4" class="accordion-collapse collapse" role="region" aria-labelledby="heading4" data-bs-parent="#accordion">
-                                    <div class="accordion-body">
-                                        <p>Absolutely. We support projects across the United Arab Emirates and the broader GCC, ensuring high-quality service wherever you need us.</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- FAQ Accordion End -->
-                    </div>
-                    <!-- Faqs Content End -->
-                </div>
-            </div>
-        </div>
-    </div>
-   
-     </div> 
-      <!-- Our Faqs Section End -->
+    <?php include 'faq.php'; ?>
+    <!-- Our Faqs Section End -->
 
     <div class="our-clients-section" style="margin-bottom: 60px;">
-    <div class="clients-header" style="background-color: #734BDF; padding: 40px 0; margin-bottom: 50px;">
-        <div class="container">
-            <div class="row">
-                <div class="col-12 text-center">
-                    <h2 style="color: #fff; margin: 0; font-size: 42px; font-weight: 700;">Our Clients</h2>
+        <div class="clients-header" style="background-color: #734BDF; padding: 40px 0; margin-bottom: 50px;">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12 text-center">
+                        <h2 style="color: #fff; margin: 0; font-size: 42px; font-weight: 700;">Our Clients</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <style>
+            .custom-logo-grid {
+                display: grid;
+                /* Mobile par 2 logos ek line mein */
+                grid-template-columns: repeat(2, 1fr);
+                gap: 30px;
+                /* Logos ke beech ka space */
+                align-items: center;
+                justify-items: center;
+            }
+
+            /* Tablet View (5 logos per line) */
+            @media (min-width: 768px) {
+                .custom-logo-grid {
+                    grid-template-columns: repeat(5, 1fr);
+                }
+            }
+
+            /* Desktop View (10 logos per line) */
+            @media (min-width: 992px) {
+                .custom-logo-grid {
+                    grid-template-columns: repeat(10, 1fr);
+                }
+            }
+
+            .client-logo-item img {
+                max-height: 60px;
+                width: 100%;
+                object-fit: contain;
+            }
+        </style>
+
+        <div class="container logo-section-half">
+            <div class="custom-logo-grid">
+                <div class="client-logo-item wow fadeInUp" data-wow-delay="0.1s">
+                    <img src="images/client-logo-1.png" alt="Client Logo 1">
+                </div>
+                <div class="client-logo-item wow fadeInUp" data-wow-delay="0.2s">
+                    <img src="images/client-logo-2.png" alt="Client Logo 2">
+                </div>
+                <div class="client-logo-item wow fadeInUp" data-wow-delay="0.3s">
+                    <img src="images/client-logo-3.png" alt="Client Logo 3">
+                </div>
+                <div class="client-logo-item wow fadeInUp" data-wow-delay="0.4s">
+                    <img src="images/client-logo-4.png" alt="Client Logo 4">
+                </div>
+                <div class="client-logo-item wow fadeInUp" data-wow-delay="0.5s">
+                    <img src="images/client-logo-5.png" alt="Client Logo 5">
+                </div>
+                <div class="client-logo-item wow fadeInUp" data-wow-delay="0.6s">
+                    <img src="images/client-logo-6.png" alt="Client Logo 6">
+                </div>
+                <div class="client-logo-item wow fadeInUp" data-wow-delay="0.7s">
+                    <img src="images/client-logo-7.png" alt="Client Logo 7">
+                </div>
+                <div class="client-logo-item wow fadeInUp" data-wow-delay="0.8s">
+                    <img src="images/client-logo-8.png" alt="Client Logo 8">
+                </div>
+                <div class="client-logo-item wow fadeInUp" data-wow-delay="0.9s">
+                    <img src="images/client-logo-9.png" alt="Client Logo 9">
+                </div>
+                <div class="client-logo-item wow fadeInUp" data-wow-delay="1.0s">
+                    <img src="images/client-logo-10.png" alt="Client Logo 10">
+                </div>
+                <div class="client-logo-item wow fadeInUp" data-wow-delay="0.1s">
+                    <img src="images/client-logo-11.png" alt="Client Logo 11">
+                </div>
+                <div class="client-logo-item wow fadeInUp" data-wow-delay="0.2s">
+                    <img src="images/client-logo-12.png" alt="Client Logo 12">
+                </div>
+                <div class="client-logo-item wow fadeInUp" data-wow-delay="0.3s">
+                    <img src="images/client-logo-13.png" alt="Client Logo 13">
+                </div>
+                <div class="client-logo-item wow fadeInUp" data-wow-delay="0.4s">
+                    <img src="images/client-logo-14.png" alt="Client Logo 14">
+                </div>
+                <div class="client-logo-item wow fadeInUp" data-wow-delay="0.5s">
+                    <img src="images/client-logo-15.png" alt="Client Logo 15">
+                </div>
+                <div class="client-logo-item wow fadeInUp" data-wow-delay="0.6s">
+                    <img src="images/client-logo-16.png" alt="Client Logo 16">
+                </div>
+                <div class="client-logo-item wow fadeInUp" data-wow-delay="0.7s">
+                    <img src="images/client-logo-17.png" alt="Client Logo 17">
+                </div>
+                <div class="client-logo-item wow fadeInUp" data-wow-delay="0.8s">
+                    <img src="images/client-logo-18.png" alt="Client Logo 18">
+                </div>
+                <div class="client-logo-item wow fadeInUp" data-wow-delay="0.9s">
+                    <img src="images/client-logo-19.png" alt="Client Logo 19">
+                </div>
+                <div class="client-logo-item wow fadeInUp" data-wow-delay="1.0s">
+                    <img src="images/client-logo-20.png" alt="Client Logo 20">
+                </div>
+                <div class="client-logo-item wow fadeInUp" data-wow-delay="0.1s">
+                    <img src="images/client-logo-21.png" alt="Client Logo 21">
+                </div>
+                <div class="client-logo-item wow fadeInUp" data-wow-delay="0.2s">
+                    <img src="images/client-logo-22.png" alt="Client Logo 22">
+                </div>
+                <div class="client-logo-item wow fadeInUp" data-wow-delay="0.3s">
+                    <img src="images/client-logo-23.png" alt="Client Logo 23">
+                </div>
+                <div class="client-logo-item wow fadeInUp" data-wow-delay="0.4s">
+                    <img src="images/client-logo-24.png" alt="Client Logo 24">
+                </div>
+                <div class="client-logo-item wow fadeInUp" data-wow-delay="0.5s">
+                    <img src="images/client-logo-25.png" alt="Client Logo 25">
+                </div>
+                <div class="client-logo-item wow fadeInUp" data-wow-delay="0.6s">
+                    <img src="images/client-logo-26.png" alt="Client Logo 26">
+                </div>
+                <div class="client-logo-item wow fadeInUp" data-wow-delay="0.7s">
+                    <img src="images/client-logo-27.png" alt="Client Logo 27">
+                </div>
+                <div class="client-logo-item wow fadeInUp" data-wow-delay="0.8s">
+                    <img src="images/client-logo-28.png" alt="Client Logo 28">
+                </div>
+                <div class="client-logo-item wow fadeInUp" data-wow-delay="0.9s">
+                    <img src="images/client-logo-29.png" alt="Client Logo 29">
+                </div>
+                <div class="client-logo-item wow fadeInUp" data-wow-delay="1.0s">
+                    <img src="images/client-logo-30.png" alt="Client Logo 30">
+                </div>
+                <div class="client-logo-item wow fadeInUp" data-wow-delay="0.1s">
+                    <img src="images/client-logo-31.png" alt="Client Logo 31">
+                </div>
+                <div class="client-logo-item wow fadeInUp" data-wow-delay="0.2s">
+                    <img src="images/client-logo-32.png" alt="Client Logo 32">
+                </div>
+                <div class="client-logo-item wow fadeInUp" data-wow-delay="0.3s">
+                    <img src="images/client-logo-33.png" alt="Client Logo 33">
+                </div>
+                <div class="client-logo-item wow fadeInUp" data-wow-delay="0.4s">
+                    <img src="images/client-logo-34.png" alt="Client Logo 34">
+                </div>
+                <div class="client-logo-item wow fadeInUp" data-wow-delay="0.5s">
+                    <img src="images/client-logo-35.png" alt="Client Logo 35">
+                </div>
+                <div class="client-logo-item wow fadeInUp" data-wow-delay="0.6s">
+                    <img src="images/client-logo-36.png" alt="Client Logo 36">
+                </div>
+                <div class="client-logo-item wow fadeInUp" data-wow-delay="0.7s">
+                    <img src="images/client-logo-37.png" alt="Client Logo 37">
+                </div>
+                <div class="client-logo-item wow fadeInUp" data-wow-delay="0.8s">
+                    <img src="images/client-logo-38.png" alt="Client Logo 38">
+                </div>
+                <div class="client-logo-item wow fadeInUp" data-wow-delay="0.9s">
+                    <img src="images/client-logo-39.png" alt="Client Logo 39">
+                </div>
+                <div class="client-logo-item wow fadeInUp" data-wow-delay="1.0s">
+                    <img src="images/client-logo-40.png" alt="Client Logo 40">
                 </div>
             </div>
         </div>
     </div>
-
-    <style>
-        .custom-logo-grid {
-            display: grid;
-            /* Mobile par 2 logos ek line mein */
-            grid-template-columns: repeat(2, 1fr);
-            gap: 30px; /* Logos ke beech ka space */
-            align-items: center;
-            justify-items: center;
-        }
-
-        /* Tablet View (5 logos per line) */
-        @media (min-width: 768px) {
-            .custom-logo-grid {
-                grid-template-columns: repeat(5, 1fr);
-            }
-        }
-
-        /* Desktop View (10 logos per line) */
-        @media (min-width: 992px) {
-            .custom-logo-grid {
-                grid-template-columns: repeat(10, 1fr);
-            }
-        }
-        
-        .client-logo-item img {
-            max-height: 60px;
-            width: 100%;
-            object-fit: contain;
-        }
-    </style>
-
-    <div class="container logo-section-half">
-    <div class="custom-logo-grid">
-        <div class="client-logo-item wow fadeInUp" data-wow-delay="0.1s">
-            <img src="images/client-logo-1.png" alt="Client Logo 1">
-        </div>
-        <div class="client-logo-item wow fadeInUp" data-wow-delay="0.2s">
-            <img src="images/client-logo-2.png" alt="Client Logo 2">
-        </div>
-        <div class="client-logo-item wow fadeInUp" data-wow-delay="0.3s">
-            <img src="images/client-logo-3.png" alt="Client Logo 3">
-        </div>
-        <div class="client-logo-item wow fadeInUp" data-wow-delay="0.4s">
-            <img src="images/client-logo-4.png" alt="Client Logo 4">
-        </div>
-        <div class="client-logo-item wow fadeInUp" data-wow-delay="0.5s">
-            <img src="images/client-logo-5.png" alt="Client Logo 5">
-        </div>
-        <div class="client-logo-item wow fadeInUp" data-wow-delay="0.6s">
-            <img src="images/client-logo-6.png" alt="Client Logo 6">
-        </div>
-        <div class="client-logo-item wow fadeInUp" data-wow-delay="0.7s">
-            <img src="images/client-logo-7.png" alt="Client Logo 7">
-        </div>
-        <div class="client-logo-item wow fadeInUp" data-wow-delay="0.8s">
-            <img src="images/client-logo-8.png" alt="Client Logo 8">
-        </div>
-        <div class="client-logo-item wow fadeInUp" data-wow-delay="0.9s">
-            <img src="images/client-logo-9.png" alt="Client Logo 9">
-        </div>
-        <div class="client-logo-item wow fadeInUp" data-wow-delay="1.0s">
-            <img src="images/client-logo-10.png" alt="Client Logo 10">
-        </div>
-        <div class="client-logo-item wow fadeInUp" data-wow-delay="0.1s">
-            <img src="images/client-logo-11.png" alt="Client Logo 11">
-        </div>
-        <div class="client-logo-item wow fadeInUp" data-wow-delay="0.2s">
-            <img src="images/client-logo-12.png" alt="Client Logo 12">
-        </div>
-        <div class="client-logo-item wow fadeInUp" data-wow-delay="0.3s">
-            <img src="images/client-logo-13.png" alt="Client Logo 13">
-        </div>
-        <div class="client-logo-item wow fadeInUp" data-wow-delay="0.4s">
-            <img src="images/client-logo-14.png" alt="Client Logo 14">
-        </div>
-        <div class="client-logo-item wow fadeInUp" data-wow-delay="0.5s">
-            <img src="images/client-logo-15.png" alt="Client Logo 15">
-        </div>
-        <div class="client-logo-item wow fadeInUp" data-wow-delay="0.6s">
-            <img src="images/client-logo-16.png" alt="Client Logo 16">
-        </div>
-        <div class="client-logo-item wow fadeInUp" data-wow-delay="0.7s">
-            <img src="images/client-logo-17.png" alt="Client Logo 17">
-        </div>
-        <div class="client-logo-item wow fadeInUp" data-wow-delay="0.8s">
-            <img src="images/client-logo-18.png" alt="Client Logo 18">
-        </div>
-        <div class="client-logo-item wow fadeInUp" data-wow-delay="0.9s">
-            <img src="images/client-logo-19.png" alt="Client Logo 19">
-        </div>
-        <div class="client-logo-item wow fadeInUp" data-wow-delay="1.0s">
-            <img src="images/client-logo-20.png" alt="Client Logo 20">
-        </div>
-        <div class="client-logo-item wow fadeInUp" data-wow-delay="0.1s">
-            <img src="images/client-logo-21.png" alt="Client Logo 21">
-        </div>
-        <div class="client-logo-item wow fadeInUp" data-wow-delay="0.2s">
-            <img src="images/client-logo-22.png" alt="Client Logo 22">
-        </div>
-        <div class="client-logo-item wow fadeInUp" data-wow-delay="0.3s">
-            <img src="images/client-logo-23.png" alt="Client Logo 23">
-        </div>
-        <div class="client-logo-item wow fadeInUp" data-wow-delay="0.4s">
-            <img src="images/client-logo-24.png" alt="Client Logo 24">
-        </div>
-        <div class="client-logo-item wow fadeInUp" data-wow-delay="0.5s">
-            <img src="images/client-logo-25.png" alt="Client Logo 25">
-        </div>
-        <div class="client-logo-item wow fadeInUp" data-wow-delay="0.6s">
-            <img src="images/client-logo-26.png" alt="Client Logo 26">
-        </div>
-        <div class="client-logo-item wow fadeInUp" data-wow-delay="0.7s">
-            <img src="images/client-logo-27.png" alt="Client Logo 27">
-        </div>
-        <div class="client-logo-item wow fadeInUp" data-wow-delay="0.8s">
-            <img src="images/client-logo-28.png" alt="Client Logo 28">
-        </div>
-        <div class="client-logo-item wow fadeInUp" data-wow-delay="0.9s">
-            <img src="images/client-logo-29.png" alt="Client Logo 29">
-        </div>
-        <div class="client-logo-item wow fadeInUp" data-wow-delay="1.0s">
-            <img src="images/client-logo-30.png" alt="Client Logo 30">
-        </div>
-        <div class="client-logo-item wow fadeInUp" data-wow-delay="0.1s">
-            <img src="images/client-logo-31.png" alt="Client Logo 31">
-        </div>
-        <div class="client-logo-item wow fadeInUp" data-wow-delay="0.2s">
-            <img src="images/client-logo-32.png" alt="Client Logo 32">
-        </div>
-        <div class="client-logo-item wow fadeInUp" data-wow-delay="0.3s">
-            <img src="images/client-logo-33.png" alt="Client Logo 33">
-        </div>
-        <div class="client-logo-item wow fadeInUp" data-wow-delay="0.4s">
-            <img src="images/client-logo-34.png" alt="Client Logo 34">
-        </div>
-        <div class="client-logo-item wow fadeInUp" data-wow-delay="0.5s">
-            <img src="images/client-logo-35.png" alt="Client Logo 35">
-        </div>
-        <div class="client-logo-item wow fadeInUp" data-wow-delay="0.6s">
-            <img src="images/client-logo-36.png" alt="Client Logo 36">
-        </div>
-        <div class="client-logo-item wow fadeInUp" data-wow-delay="0.7s">
-            <img src="images/client-logo-37.png" alt="Client Logo 37">
-        </div>
-        <div class="client-logo-item wow fadeInUp" data-wow-delay="0.8s">
-            <img src="images/client-logo-38.png" alt="Client Logo 38">
-        </div>
-        <div class="client-logo-item wow fadeInUp" data-wow-delay="0.9s">
-            <img src="images/client-logo-39.png" alt="Client Logo 39">
-        </div>
-        <div class="client-logo-item wow fadeInUp" data-wow-delay="1.0s">
-            <img src="images/client-logo-40.png" alt="Client Logo 40">
-        </div>
-    </div>
-</div>
-</div>
 </div>
 <?php include "incl/footer.php"; ?>
 </div>

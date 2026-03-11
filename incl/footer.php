@@ -42,7 +42,7 @@
                         <!-- Satisfy Client Images End -->
 
                         <div class="testimonial-client-header-content">
-                            <p>Over 15,000+ Attendees Connected Worldwide</p>
+                            <p>Over 5,000+ Attendees Connected Worldwide</p>
                         </div>
                     </div>
                     <!-- Testimonials Client Box Header End -->
@@ -302,6 +302,7 @@
                             <h3>Get In Touch</h3>
                             <ul>
                                 <li><a href="tel:+971523426256">🇦🇪 +971 52 342 6256</a></li>
+                                <li><a href="tel:+971555269397">🇦🇪 +971 55 526 9397</a></li>
                                 <li><a href="mailto:info@houseofexhibitions.com">info@houseofexhibitions.com</a></li>
                             </ul>
                             <p>Warehouse no 13 Ras al Khor Industrial area 1, Dubai, United Arab Emirates</p>

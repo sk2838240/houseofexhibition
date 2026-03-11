@@ -54,7 +54,7 @@
                                     </div>
                                     <div class="contact-info-content">
                                        
-                                        <p><a href="tel:+971523426256">🇦🇪 +971 55 5269397</a></p>
+                                        <p><a href="tel:+971555269397">🇦🇪 +971 55 5269397</a></p>
                                     </div>
                                 </div>
                                 <!-- Conatct Info Item End -->

@@ -300,10 +300,6 @@ a:focus{
 	transform: translate(0, -50%);
 }
 
-.cb-cursor:before{
-	background: var(--accent-color);
-}
-
 .preloader{
 	position: fixed;
 	top: 0;

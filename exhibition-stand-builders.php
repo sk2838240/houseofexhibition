@@ -206,7 +206,7 @@
         </div>
 
         <div class="row g-4">
-            
+
             <div class="col-md-6 col-lg-4">
                 <div class="card h-100 shadow-sm border-0 bg-light">
                     <div class="card-body p-4">
@@ -279,12 +279,15 @@
 <style>
     /* Custom CSS for Innovative Hover Effects & Styling */
     .process-section {
-        background-color: #000000; /* Deep Black Background */
+        background-color: #000000;
+        /* Deep Black Background */
         padding: 80px 0;
         color: #ffffff;
     }
+
     .process-card {
-        background-color: #151515; /* Slightly lighter black for cards */
+        background-color: #151515;
+        /* Slightly lighter black for cards */
         border-radius: 15px;
         transition: all 0.4s ease-in-out;
         border: 2px solid transparent;
@@ -292,16 +295,32 @@
         position: relative;
         overflow: hidden;
     }
+
     .process-card:hover {
         transform: translateY(-10px);
     }
-    
+
     /* Multi-color Theme Accents */
-    .card-red:hover { border-color: #dc3545; box-shadow: 0 10px 25px rgba(220, 53, 69, 0.3); }
-    .card-yellow:hover { border-color: #ffc107; box-shadow: 0 10px 25px rgba(255, 193, 7, 0.3); }
-    .card-green:hover { border-color: #198754; box-shadow: 0 10px 25px rgba(25, 135, 84, 0.3); }
-    .card-white:hover { border-color: #ffffff; box-shadow: 0 10px 25px rgba(255, 255, 255, 0.2); }
-    
+    .card-red:hover {
+        border-color: #dc3545;
+        box-shadow: 0 10px 25px rgba(220, 53, 69, 0.3);
+    }
+
+    .card-yellow:hover {
+        border-color: #ffc107;
+        box-shadow: 0 10px 25px rgba(255, 193, 7, 0.3);
+    }
+
+    .card-green:hover {
+        border-color: #198754;
+        box-shadow: 0 10px 25px rgba(25, 135, 84, 0.3);
+    }
+
+    .card-white:hover {
+        border-color: #ffffff;
+        box-shadow: 0 10px 25px rgba(255, 255, 255, 0.2);
+    }
+
     .icon-box-custom {
         width: 80px;
         height: 80px;
@@ -313,10 +332,11 @@
         margin-bottom: 20px;
         transition: transform 0.4s ease;
     }
+
     .process-card:hover .icon-box-custom {
         transform: scale(1.1) rotate(5deg);
     }
-    
+
     /* Number Watermark */
     .step-number-bg {
         position: absolute;
@@ -329,10 +349,12 @@
         z-index: 0;
         transition: all 0.4s ease;
     }
+
     .process-card:hover .step-number-bg {
         opacity: 0.15;
         transform: scale(1.1);
     }
+
     .card-content {
         position: relative;
         z-index: 1;
@@ -351,7 +373,7 @@
         </div>
 
         <div class="row g-4 justify-content-center">
-            
+
             <div class="col-lg-4 col-md-6">
                 <div class="process-card card-red p-4 shadow-sm text-center">
                     <div class="step-number-bg">1</div>
@@ -464,24 +486,30 @@
                                 <h3>Strategic Project Leadership</h3>
                                 <p>Our team excels at navigating the complexities of UAE venues. Whether at DWTC or Expo City, we handle all technical approvals and logistics for a seamless, on-time delivery.</p>
                             </div>
-                        </div>    
+                        </div>
                     </div>
                     <div class="our-benefits-footer wow fadeInUp" data-wow-delay="0.6s">
-                        <div class="our-benefits-btn">
-                            <a href="contact.php" class="btn-default">Get a Free Quote</a>
-                        </div>
                         <div class="about-contact-box">
                             <div class="icon-box">
                                 <img src="images/icon-phone-white.svg" alt="Phone Icon">
                             </div>
                             <div class="about-contact-box-content">
-                                <h3>Expert Consultation</h3>
+                                <h3>Call Now</h3>
                                 <p><a href="tel:+971523426256">🇦🇪 +971 52 342 6256</a></p>
                             </div>
                         </div>
+                        <div class="about-contact-box">
+                            <div class="icon-box">
+                                <img src="images/whatsapp.png" alt="Phone Icon">
+                            </div>
+                            <div class="about-contact-box-content">
+                                <h3>WhatsApp</h3>
+                                <p><a href="tel:+971555269397">🇦🇪 +971 55 526 9397</a></p>
+                            </div>
                         </div>
                     </div>
                 </div>
+            </div>
 
             <div class="col-xl-6">
                 <div class="our-benefits-images">
@@ -495,8 +523,8 @@
                             <img src="images/project-management.png" alt="House of Exhibitions Venue Management">
                         </figure>
                     </div>
-                    </div>
                 </div>
+            </div>
         </div>
     </div>
 </div>
@@ -504,11 +532,11 @@
 
 <style>
     .velmora-features {
-        background-color: #734bdf; 
+        background-color: #734bdf;
         color: #ffffff;
         padding: 80px 0;
     }
-    
+
     .feature-card-modern {
         background: #1a1a1a;
         border-radius: 20px;
@@ -553,7 +581,7 @@
         font-size: 1.2rem;
         padding: 10px 20px;
         border-radius: 30px;
-        box-shadow: 0 5px 15px rgba(0,0,0,0.5);
+        box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
         z-index: 2;
     }
 
@@ -578,7 +606,7 @@
         font-weight: 700;
         margin-bottom: 15px;
         font-size: 1.5rem;
-        color: #ffffff; 
+        color: #ffffff;
     }
 
     .custom-feature-list {
@@ -592,9 +620,11 @@
         margin-bottom: 12px;
         font-size: 0.95rem;
         color: #cccccc;
-        display: flex; /* Aligns the icon and text perfectly */
+        display: flex;
+        /* Aligns the icon and text perfectly */
         align-items: flex-start;
-        gap: 10px; /* Space between icon and text */
+        gap: 10px;
+        /* Space between icon and text */
     }
 
     .feature-footer-text {
@@ -617,7 +647,7 @@
         </div>
 
         <div class="row g-4">
-            
+
             <div class="col-lg-4 col-md-6">
                 <div class="feature-card-modern">
                     <div class="feature-img-wrapper">
@@ -686,131 +716,7 @@
 </div>
 
 <!-- Our Faqs Section Start -->
-<div class="our-faqs">
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col-xl-5">
-                    <!-- Faqs Image Box Start -->
-                    <div class="faqs-image-box wow fadeInUp" data-wow-delay="0.2s">
-                        <!-- Faqs Image Start -->
-                        <div class="faqs-image">
-                            <figure class="image-anime">
-                                <img src="images/faqs-image.jpg" alt="">
-                            </figure>
-                        </div>
-                        <!-- Faqs Image End -->
-
-                        <!-- Faqs CTA Image Box Start -->
-                        <div class="faqs-cta-image-box">
-                            <!-- Faqs CTA Box Start -->
-                            <div class="faqs-cta-box">
-                                <!-- Faqs CTA Box Title Start -->
-                                <div class="faqs-cta-box-title">
-                                    <h3>Your Questions, Clearly Answer</h3>
-                                </div>
-                                <!-- Faqs CTA Box Title End -->
-
-                                <!-- Faqs CTA Box Item Start -->
-                                <div class="faqs-cta-box-item">
-                                    <div class="icon-box">
-                                        <img src="images/icon-phone-accent.svg" alt="">
-                                    </div>
-                                    <p><a href="tel:+971523426256">🇦🇪 +971 52 342 6256</a></p>
-                                </div>
-                                <!-- Faqs CTA Box Item End -->
-                            </div>
-                            <!-- Faqs CTA Box End -->
-                        </div>
-                        <!-- Faqs CTA Image Box End -->
-                    </div>
-                    <!-- Faqs Image Box End -->
-                </div>
-
-                <div class="col-xl-7">
-                    <!-- Faqs Content Start -->
-                    <div class="faqs-content">
-                        <!-- Section Title Start -->
-                        <div class="section-title">
-                            <h3 class="wow fadeInUp">FAQ's</h3>
-                            <h2 class="text-anime-style-3" data-cursor="-opaque">What our customers say about their experience</h2>
-                        </div>
-                        <!-- Section Title End -->
-
-                        <!-- FAQ Accordion Start -->
-                        <div class="faq-accordion" id="accordion">
-                            <div class="accordion-item wow fadeInUp">
-                                <h2 class="accordion-header" id="heading1">
-                                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse1" aria-expanded="true" aria-controls="collapse1">
-                                        1. How is event management priced in Dubai?
-                                    </button>
-                                </h2>
-                                <div id="collapse1" class="accordion-collapse collapse show" role="region" aria-labelledby="heading1" data-bs-parent="#accordion">
-                                    <div class="accordion-body">
-                                        <p>Expenses fluctuate based on the size of the event and the level of technical detail involved. To ensure accuracy, we provide personalized cost estimates based on your vision.</p>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="accordion-item wow fadeInUp" data-wow-delay="0.2s">
-                                <h2 class="accordion-header" id="heading2">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
-                                        2. Can your team handle major exhibition projects?
-                                    </button>
-                                </h2>
-                                <div id="collapse2" class="accordion-collapse collapse" role="region" aria-labelledby="heading2" data-bs-parent="#accordion">
-                                    <div class="accordion-body">
-                                        <p>Yes, we specialize in large-scale event management. We have a proven track record of delivering complex builds, including multi-level structures and custom pavilions, with precision.</p>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="accordion-item wow fadeInUp" data-wow-delay="0.4s">
-                                <h2 class="accordion-header" id="heading3">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
-                                        3. Can exhibitors customize their stall designs and layouts?
-                                    </button>
-                                </h2>
-                                <div id="collapse3" class="accordion-collapse collapse" role="region" aria-labelledby="heading3" data-bs-parent="#accordion">
-                                    <div class="accordion-body">
-                                        <p>Absolutely. We offer both shell-scheme packages and raw space options, allowing you to work with our design partners or your own team to create a bespoke brand experience.</p>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="accordion-item wow fadeInUp" data-wow-delay="0.6s">
-                                <h2 class="accordion-header" id="heading4">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
-                                        4. Do you provide on-site technical and logistical support?
-                                    </button>
-                                </h2>
-                                <div id="collapse4" class="accordion-collapse collapse" role="region" aria-labelledby="heading4" data-bs-parent="#accordion">
-                                    <div class="accordion-body">
-                                        <p>Yes, House of Exhibitions provides dedicated on-site support for electrical needs, high-speed Wi-Fi, and material handling to ensure your setup runs smoothly.</p>
-                                    </div>
-                                </div>
-                            </div>
-                             <div class="accordion-item wow fadeInUp" data-wow-delay="0.6s">
-                                <h2 class="accordion-header" id="heading4">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
-                                        5. Are your services available in other locations?
-                                    </button>
-                                </h2>
-                                <div id="collapse4" class="accordion-collapse collapse" role="region" aria-labelledby="heading4" data-bs-parent="#accordion">
-                                    <div class="accordion-body">
-                                        <p>Absolutely. We support projects across the United Arab Emirates and the broader GCC, ensuring high-quality service wherever you need us.</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- FAQ Accordion End -->
-                    </div>
-                    <!-- Faqs Content End -->
-                </div>
-            </div>
-        </div>
-    </div>
-   
-     </div> 
+<?php include 'faq.php'; ?>
 <!-- Our Faqs Section End -->
 
 <?php include "incl/footer.php"; ?>

@@ -24,17 +24,96 @@
 <!-- Page Header Section End -->
 
 <!-- About Us Section Start -->
+ <style>
+    @media (max-width: 991px) {
+    /* Ensure the column takes full width and removes any extra padding */
+    .about-us .col-xl-6 {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    /* Force the image container to span 100% of the screen width */
+    .about-us-image, 
+    .image-anime, 
+    .about-image-circle-box {
+        width: 100% !important;
+        max-width: 100% !important;
+        margin: 0 auto !important;
+        border-radius: 0 !important; /* Removes circular clipping if present */
+    }
+
+    /* Make the image itself fill the container */
+    .about-us-image img {
+        width: 100% !important;
+        height: auto !important;
+        display: block;
+    }
+
+    /* Keeps the CEO text centered */
+    .ceo-details {
+        text-align: center;
+        padding: 0 15px; /* Adds a little breathing room for the text */
+    }
+}
+/* Ensure left padding looks good on desktop but resets on mobile */
+@media (min-width: 992px) {
+    .section-title.ps-md-5 {
+        padding-left: 3rem !important; /* Adjust this value for more/less space */
+    }
+}
+
+@media (max-width: 991px) {
+    /* Reset padding for mobile so text isn't pushed too far right */
+    .section-title {
+        padding-left: 15px !important; 
+        padding-right: 15px !important;
+        text-align: left; /* Optional: centers text on mobile */
+    }
+
+    /* Make image cover the area and center */
+    .about-us-image-box, 
+    .about-image-circle-box, 
+    .about-us-image {
+        width: 100% !important;
+        max-width: 100% !important;
+        margin: 0 auto;
+    }
+
+    .about-us-image img {
+        width: 100%;
+        height: auto;
+        border-radius: 0; /* Use this if the "circle" box is clipping your image */
+    }
+}
+
+/* Clean up the inline styles for the CEO text */
+.ceo-details h4 {
+    font-size: 26px;
+    color: #1a1a1a;
+    margin: 0;
+    font-weight: 700;
+}
+
+.ceo-details p {
+    color: #666;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 14px;
+    letter-spacing: 2px;
+    margin-top: 5px;
+}
+ </style>
 <div class="about-us">
     <div class="container">
         <div class="row align-items-center">
-            
+
             <div class="col-xl-6 order-last order-xl-first">
                 <div class="about-us-content">
-                    <div class="section-title">
+                    <div class="section-title ps-md-5">
                         <h3 class="wow fadeInUp">About Us</h3>
                         <h2 class="text-anime-style-3" data-cursor="-opaque">Defining Excellence with House of Exhibitions</h2>
                         <p class="wow fadeInUp" data-wow-delay="0.2s">
-                            At House of Exhibitions, we transform temporary spaces into enduring brand landmarks. Our expertise lies in crafting high-impact exhibition environments that transcend traditional booth design to become immersive brand experiences. 
+                            At House of Exhibitions, we transform temporary spaces into enduring brand landmarks. Our expertise lies in crafting high-impact exhibition environments that transcend traditional booth design to become immersive brand experiences.
                         </p>
                         <p class="wow fadeInUp" data-wow-delay="0.3s">
                             Our methodology is rooted in a structured technical chronology: starting with strategic consultation to define your commercial goals, followed by bespoke 3D conceptualization to bring your vision to life. From precision engineering and in-house fabrication to flawless on-site installation, we manage every detail. The result is a captivating, high-performance space that commands the exhibition floor and maximizes meaningful attendee engagement.
@@ -44,7 +123,8 @@
             </div>
 
             <div class="col-xl-6 order-first order-xl-last">
-                <div class="about-us-image-box wow fadeInUp text-center"> <div class="about-image-circle-box">
+                <div class="about-us-image-box wow fadeInUp text-center">
+                    <div class="about-image-circle-box">
                         <div class="about-us-image">
                             <figure class="image-anime">
                                 <img src="images/our-speaker.png" alt="Nikhil Thakur">
@@ -60,7 +140,12 @@
                 </div>
             </div>
 
-        </div> </div> </div>
+        </div>
+    </div>
+</div>
+
+
+
 <!-- About Us Section End -->
 <div class="core-values-section" style="padding: 80px 0; background-color: #f9f9f9;">
     <div class="container">
@@ -76,7 +161,7 @@
             <div class="col-lg-6 wow fadeInRight" data-wow-delay="0.2s">
                 <div class="core-value-content ps-lg-5">
                     <div class="section-title mb-3">
-                        <h2 style="font-size: 36px; margin-bottom: 20px;">Our Mission</h2>
+                        <h2 style="font-size: 36px; margin-bottom: 20px; margin-top:20px;">Our Mission</h2>
                     </div>
                     <p>We craft bespoke exhibition environments that turn your vision into reality. Our mission is to deliver industry-leading designs that foster unforgettable brand experiences and create physical landmarks that command attention on any exhibition floor. Our passion lies in the intersection of art and engineering, transforming raw space into a powerful marketing tool that captures your brand’s essence and delivers measurable success at every event.</p>
                 </div>
@@ -87,7 +172,7 @@
             <div class="col-lg-6 order-lg-1 order-2 wow fadeInLeft" data-wow-delay="0.3s">
                 <div class="core-value-content pe-lg-5">
                     <div class="section-title mb-3">
-                        <h2 style="font-size: 36px; margin-bottom: 20px;">Our Vision</h2>
+                        <h2 style="font-size: 36px; margin-bottom: 20px;  margin-top:20px;">Our Vision</h2>
                     </div>
                     <p>Our vision is to redefine brand presentation through innovative design. We aim to be the global leader in creating immersive and impactful exhibition experiences that set new standards for engagement, aesthetics, and architectural excellence. We envision a future where every event space is an interactive journey, seamlessly blending digital technology with physical craftsmanship. By constantly pushing the boundaries of what is possible on the exhibition floor, we strive to transform temporary installations into timeless brand legacies that resonate across borders and industries.</p>
                 </div>
@@ -112,7 +197,7 @@
             <div class="col-lg-6 wow fadeInRight" data-wow-delay="0.6s">
                 <div class="core-value-content ps-lg-5">
                     <div class="section-title mb-3">
-                        <h2 style="font-size: 36px; margin-bottom: 20px;">Our Goal</h2>
+                        <h2 style="font-size: 36px; margin-bottom: 20px;  margin-top:20px;">Our Goal</h2>
                     </div>
                     <p>Our goal is to build industry-leading exhibition spaces that drive brand growth. We focus on delivering precise, high-quality results that exceed expectations while maintaining a seamless, turnkey process from initial fabrication to final installation. Ultimately, we measure our success by the success of our clients; we aim to maximize your return on investment by creating high-traffic environments that facilitate meaningful networking and lead generation. We are committed to operational excellence, ensuring that every project is delivered on time, within budget, and with the uncompromising quality that has become the hallmark of House of Exhibitions.</p>
                 </div>
@@ -121,6 +206,9 @@
 
     </div>
 </div>
+
+    
+
 <!-- Our Approach Section Start -->
 <div class="our-approach dark-section">
     <div class="container">
@@ -277,44 +365,44 @@
                         <!-- About Contact Box Start -->
                         <div class="about-benefits-footer d-flex flex-wrap gap-4 wow fadeInUp" data-wow-delay="0.6s">
 
-                                <div class="about-contact-box">
-                                    <div class="icon-box">
-                                        <img src="images/icon-phone-white.svg" alt="Phone" class="img-fluid">
-                                    </div>
-                                    <div class="about-contact-box-content">
-                                        <h3>Call Now!</h3>
-                                        <p><a href="tel:+971523426256">🇦🇪 +971 52 342 6256</a></p>
-                                    </div>
+                            <div class="about-contact-box">
+                                <div class="icon-box">
+                                    <img src="images/icon-phone-white.svg" alt="Phone" class="img-fluid">
                                 </div>
-
-                                <div class="about-contact-box">
-                                    <div class="icon-box" style="background:"> <img src="images/whatsapp.png" alt="WhatsApp" class="img-fluid" style="width: 25px; height: 25px;">
-                                    </div>
-                                    <div class="about-contact-box-content">
-                                        <h3>WhatsApp</h3>
-                                        <p><a href="https://wa.me/971555269397" target="_blank">🇦🇪 +971 55 526 9397</a></p>
-                                    </div>
+                                <div class="about-contact-box-content">
+                                    <h3>Call Now!</h3>
+                                    <p><a href="tel:+971523426256">🇦🇪 +971 52 342 6256</a></p>
                                 </div>
-
                             </div>
 
-                            <style>
-                                /* Responsive Fix for the container */
-                                .about-benefits-footer {
-                                    display: flex;
-                                    flex-wrap: wrap;
-                                    /* Allows stacking on small mobile screens */
-                                    gap: 20px;
-                                }
+                            <div class="about-contact-box">
+                                <div class="icon-box" style="background:"> <img src="images/whatsapp.png" alt="WhatsApp" class="img-fluid" style="width: 25px; height: 25px;">
+                                </div>
+                                <div class="about-contact-box-content">
+                                    <h3>WhatsApp</h3>
+                                    <p><a href="https://wa.me/971555269397" target="_blank">🇦🇪 +971 55 526 9397</a></p>
+                                </div>
+                            </div>
 
-                                @media (max-width: 576px) {
-                                    .about-contact-box {
-                                        width: 100%;
-                                        /* Full width on very small screens */
-                                        margin-bottom: 10px;
-                                    }
+                        </div>
+
+                        <style>
+                            /* Responsive Fix for the container */
+                            .about-benefits-footer {
+                                display: flex;
+                                flex-wrap: wrap;
+                                /* Allows stacking on small mobile screens */
+                                gap: 20px;
+                            }
+
+                            @media (max-width: 576px) {
+                                .about-contact-box {
+                                    width: 100%;
+                                    /* Full width on very small screens */
+                                    margin-bottom: 10px;
                                 }
-                            </style>
+                            }
+                        </style>
                         <!-- About Contact Box End -->
                     </div>
                     <!-- Our Benefits Footer End -->

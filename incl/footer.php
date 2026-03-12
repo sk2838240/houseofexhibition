@@ -279,7 +279,7 @@
                                 <li><a href="index.php">Home</a></li>
                                 <li><a href="about.php">About Us</a></li>
                                 <li><a href="exhibition-stand-builders.php">Services</a></li>
-                                <li><a href="home.php">Pay Online</a></li>
+                                <li><a href="index.php">Pay Online</a></li>
                                 <li><a href="contact.php">Contact Us</a></li>
                             </ul>
                         </div>

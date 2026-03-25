@@ -31,6 +31,13 @@
     <div id="heroBannerCarousel" class="carousel slide carousel-fade" data-bs-ride="carousel">
         <div class="carousel-inner">
             <div class="carousel-item active" style="background-image: url('images/home-page-banner-1.png');"></div>
+            <div class="carousel-item" style="background-image: url('images/home-page-banner-2.png');"></div>
+            <div class="carousel-item" style="background-image: url('images/home-page-banner-3.png');"></div>
+            <div class="carousel-item" style="background-image: url('images/home-page-banner-4.png');"></div>
+            <div class="carousel-item" style="background-image: url('images/home-page-banner-5.png');"></div>
+            <div class="carousel-item" style="background-image: url('images/home-page-banner-6.png');"></div>
+            <div class="carousel-item" style="background-image: url('images/home-page-banner-7.png');"></div>
+            <div class="carousel-item" style="background-image: url('images/home-page-banner-8.png');"></div>
             
         </div>
     </div>

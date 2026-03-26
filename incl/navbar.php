@@ -25,6 +25,7 @@
                                         <li class="nav-item"><a class="nav-link" href="graphic-design-printing.php">Graphic Design & Printing</a></li>
                                     </ul>
                                 </li>
+                                <li class="nav-item"><a class="nav-link" href="gallery.php">Gallery</a></li>
                                 <li class="nav-item"><a class="nav-link" href="contact.php">Contact Us</a></li>
                                 <li class="nav-item"><a class="nav-link" href="#">Pay Online</a></li>
                                 <li class="nav-item"><a class="nav-link" href="#">Career</a></li>

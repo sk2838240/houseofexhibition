@@ -5,7 +5,6 @@
     .carousel-item {
         background-size: cover;
         background-position: center;
-        min-height: 85vh;
         background-repeat: no-repeat;
     }
 
@@ -15,7 +14,7 @@
             /* 'contain' ensures the whole image is visible without cropping */
             background-size: contain !important;
             /* Adjust height to match the image aspect ratio on mobile */
-            min-height: 300px !important;
+            min-height: 120px !important;
             background-color: #000;
             /* Adds black bars if the image is too short */
         }
@@ -26,22 +25,35 @@
         }
     }
 </style>
-
-<div class="hero dark-section parallaxie">
-    <div id="heroBannerCarousel" class="carousel slide carousel-fade" data-bs-ride="carousel">
-        <div class="carousel-inner">
-            <div class="carousel-item active" style="background-image: url('images/home-page-banner-1.png');"></div>
-            <div class="carousel-item" style="background-image: url('images/home-page-banner-2.png');"></div>
-            <div class="carousel-item" style="background-image: url('images/home-page-banner-3.png');"></div>
-            <div class="carousel-item" style="background-image: url('images/home-page-banner-4.png');"></div>
-            <div class="carousel-item" style="background-image: url('images/home-page-banner-5.png');"></div>
-            <div class="carousel-item" style="background-image: url('images/home-page-banner-6.png');"></div>
-            <div class="carousel-item" style="background-image: url('images/home-page-banner-7.png');"></div>
-            <div class="carousel-item" style="background-image: url('images/home-page-banner-8.png');"></div>
-            
-        </div>
+<div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="images/home-page-banner-1.png" class="d-block w-100" alt="...">
     </div>
+    <div class="carousel-item">
+      <img src="images/home-page-banner-2.png" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="images/home-page-banner-3.png" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="images/home-page-banner-4.png" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="images/home-page-banner-5.png" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="images/home-page-banner-6.png" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="images/home-page-banner-7.png" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="images/home-page-banner-8.png" class="d-block w-100" alt="...">
+    </div>
+  </div>
 </div>
+
 
 
 <!-- Scrolling Ticker Section Start -->

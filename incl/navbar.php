@@ -15,6 +15,7 @@
                             <ul class="navbar-nav mr-auto" id="menu">
                                 <li class="nav-item"><a class="nav-link" href="index.php">Home</a></li>
                                 <li class="nav-item"><a class="nav-link" href="about.php">About Us</a></li>
+                                <li class="nav-item"><a class="nav-link" href="blog.php">Blogs</a></li>
                                 <li class="nav-item submenu"><a class="nav-link" href="#">Our Services</a>
                                     <ul>
                                         <li class="nav-item"><a class="nav-link" href="exhibition-stand-builders.php">Exhibition Stand Builders</a></li>
@@ -23,11 +24,12 @@
                                         <li class="nav-item"><a class="nav-link" href="stage-production.php">Stage Production</a></li>
                                         <li class="nav-item"><a class="nav-link" href="event-management.php">Event Management</a></li>
                                         <li class="nav-item"><a class="nav-link" href="graphic-design-printing.php">Graphic Design & Printing</a></li>
+                                        <li class="nav-item"><a class="nav-link" href="retail-kiosk.php">Retail Kiosk</a></li>
                                     </ul>
                                 </li>
                                 <li class="nav-item"><a class="nav-link" href="gallery.php">Gallery</a></li>
                                 <li class="nav-item"><a class="nav-link" href="contact.php">Contact Us</a></li>
-                                <li class="nav-item"><a class="nav-link" href="#">Pay Online</a></li>
+
                                 <li class="nav-item"><a class="nav-link" href="#">Career</a></li>
                             </ul>
                         </div>

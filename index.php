@@ -1,4 +1,4 @@
-<?php include "incl/header.php"; ?>
+<?php $show_upcoming_events = true; include "incl/header.php"; ?>
 
 <style>
     /* Base Desktop Styles */

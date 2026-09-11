@@ -123,6 +123,7 @@
             </div>
         </div>
     </div>
+    <?php if (!empty($show_upcoming_events)) { include "events.php"; } ?>
 <div class="col-lg-12 pt-4 pb-5" style="background-color:#161a2d">
                     <!-- Comapany Support Slider Start -->
                     <div class="company-supports-slider-box wow fadeInUp" data-wow-delay="0.2s">
@@ -258,10 +259,10 @@
                         <!-- Footer Social Icons Start -->
                         <div class="footer-social-icons">
                             <ul>
-                                <li><a href="#"><i class="fa-brands fa-pinterest-p"></i></a></li>
-                                <li><a href="#"><i class="fa-brands fa-x-twitter"></i></a></li>
-                                <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
-                                <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
+                                <li><a href="https://www.linkedin.com/in/house-of-exhibitions-b63830401"><i class="fa-brands fa-linkedin"></i></a></li>
+                                <li><a href="https://x.com/Hoexhibitions"><i class="fa-brands fa-x-twitter"></i></a></li>
+                                <li><a href="https://www.facebook.com/profile.php?id=61574318080414"><i class="fa-brands fa-facebook-f"></i></a></li>
+                                <li><a href="https://www.instagram.com/houseofexhibitions/"><i class="fa-brands fa-instagram"></i></a></li>
                             </ul>
                         </div>
                         <!-- Footer Social Icons End -->
@@ -305,7 +306,7 @@
                                 <li><a href="tel:+971555269397">🇦🇪 +971 55 526 9397</a></li>
                                 <li><a href="mailto:info@houseofexhibitions.com">info@houseofexhibitions.com</a></li>
                             </ul>
-                            <p>Warehouse no 13 Ras al Khor Industrial area 1, Dubai, United Arab Emirates</p>
+                            <p>Warehouse no 7 Ras al Khor Industrial area 2, Dubai, United Arab Emirates</p>
                         </div>
                         <!-- Footer Links End -->
                     </div>

@@ -115,14 +115,22 @@
 <div class="container gallery-container">
     <div class="gallery-grid popup-gallery">
         <?php
-        $total_images = 30; 
+        $total_images = 92; 
 
         for ($i = 1; $i <= $total_images; $i++) {
-            $imagePath = "images/gallery/gallery-image-" . $i . ".jpeg"; 
 
-            // Note: file_exists works on local paths. 
-            // If images aren't showing, ensure the path is correct relative to this file.
-            if (file_exists($imagePath)) {
+            $extensions = ['jpeg', 'jpg'];
+            $imagePath = "";
+
+            foreach ($extensions as $ext) {
+                $path = "images/gallery/gallery-image-" . $i . "." . $ext;
+                if (file_exists($path)) {
+                    $imagePath = $path;
+                    break;
+                }
+            }
+
+            if (!empty($imagePath)) {
         ?>
             <div class="gallery-item wow fadeInUp" data-wow-delay="<?php echo ($i % 3) * 0.1; ?>s">
                 <a href="<?php echo $imagePath; ?>" title="House of Exhibitions Work #<?php echo $i; ?>">
